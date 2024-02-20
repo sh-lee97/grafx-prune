@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+  });
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
+  <style>
+    div {
+      max-width: 1000px;
+      min-width: 600px;
+    }
+  </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Searching For Music Mixing Graphs: A Pruning Approach</title>
+  
+
+</head>
+<body>
+  <center>
+  <h1>Searching For Music Mixing Graphs: A Pruning Approach</h1>
+  Sungho Lee<sup>1</sup>,
+  Marco A. Martínez-Ramírez<sup>2</sup>,
+  Wei-Hsiang Liao<sup>2</sup>,
+  Stefan Uhlich<sup>3</sup>,
+  Giorgio Fabbro<sup>3</sup>,
+  Kyogu Lee<sup>1</sup>, and
+  Yuki Mitsufuji<sup>2</sup>,
+  <br>
+  <sup>1</sup>Seoul National University, 
+  <sup>2</sup>Sony Group Corporation, 
+  <sup>3</sup>Sony Europe B.V.
+    <br>
+    <br>
+<a href="index.html">Preprint (arXiv)</a>
+<a href="index.html">Code (to be released)</a>
+  	<br>
+    <br>
+    <table style="max-width:980px;">
+    <tr>
+    <td>
+    <hr>
+    <b>Abstract</b>
+	Music mixing is <em>compositional</em> --- experts combine multiple audio processors to achieve a cohesive mix from dry source tracks. We propose a method to reverse engineer this process from the input and output audio. 
+	First, we create a mixing console that applies all available processors to every chain. Then, after the initial console parameter optimization, we alternate between removing redundant processors and fine-tuning. 
+	We achieve this through differentiable implementation of both processors and pruning.
+	Consequently, we find a sparse mixing graph that achieves nearly identical matching quality of the full console. We apply this procedure to every public and private dry-mix pair data and collect pseudo-label graphs that can be used to train neural networks for music mixing applications.
+
+<br>
+<br>
+<center>
+<table style="max-width:100%">
+<tr>
+<td style="width:440px; border:0px; max-width:100%">
+<center>
+<img src="figs/framework.png" alt="Framework-train", style="width:440px; max-width:100%">
+</center>
+<small>
+<p class="small">
+<b> Music mixing graph search via iterative pruning. </b> 
+$\mathcal{G}_\mathrm{c}$, $\mathcal{G}_\mathrm{p}$, and $\mathcal{G}$ denote spaces of the consoles, pruned, and arbitrary graphs, respectively. $\mathcal{Y}_\mathrm{c}$, $\mathcal{Y}_\mathrm{p}$, and $\mathcal{Y}$ correspond to their output mixes.
+</p>
+</small>
+</td>
+</tr>
+</table>
+</center>
+<center>
+<table style="max-width:100%">
+<tr>
+<td style="width:650px; border:0px; max-width:100%">
+<center>
+<img src="figs/framework_graphs_1.png" alt="Framework-train", style="height:163px">
+&ensp;
+<img src="figs/framework_graphs_2.png" alt="Framework-train", style="height:163px">
+</center>
+<small>
+<b> Finding a sparse graph $G_p$ from a differentiable mixing console $G_c$. </b> i: input, o: output, m: mix, e: equalizer, c: compressor, n: noisegate, s: stereo imager, g: gain/panning, d: multitap delay, and r: reverb.
+</small>
+</td>
+</tr>
+</table>
+</center>
+
+<hr>
+  <h3> Audio Samples </h3>
+  <table style="max-width:630;" width="100%">
+    <tr>
+      <th colspan="5"> Sample #1 </th>
+    </tr>
+    <tr>
+    <td style="text-align: center;" valign='bottom' width=20%> 
+	</td>
+    <td width=20%> Mid </td>
+    <td width=20%> </td>
+    <td width=20%> Side </td>
+    <td width=20%> </td>
+	</tr>
+	<tr>
+    <td style="text-align: center;" valign="top" width=20%> Target mix <audio controls style="width: 100%;" preload="none"> 
+	<source src="samples" type="samples/song/target.wav"> </audio> </td>
+	<td width=20%>    <img src="samples/song/target_mid.png" style="width:100%"> </td>
+	<td width=20%>    <img src="samples/song/target_mid_diff.png" style="width:100%"> </td>
+	<td width=20%>    <img src="samples/song/target_side.png" style="width:100%"> </td>
+	<td width=20%>    <img src="samples/song/target_side_diff.png" style="width:100%"> </td>
+    </tr>
+	<tr>
+    <td style="text-align: center;" valign="top" width=20%> Target mix <audio controls style="width: 100%;" preload="none"> 
+	<source src="samples" type="samples/song/target.wav"> </audio> </td>
+	<td width=20%>    <img src="samples/song/target_mid.png" style="width:100%"> </td>
+	<td width=20%>    <img src="samples/song/target_mid_diff.png" style="width:100%"> </td>
+	<td width=20%>    <img src="samples/song/target_side.png" style="width:100%"> </td>
+	<td width=20%>    <img src="samples/song/target_side_diff.png" style="width:100%"> </td>
+    </tr>
+	<tr>
+    <td style="text-align: center;" valign="top" width=20%> Target mix <audio controls style="width: 100%;" preload="none"> 
+	<source src="samples" type="samples/song/target.wav"> </audio> </td>
+	<td width=20%>    <img src="samples/song/target_mid.png" style="width:100%"> </td>
+	<td width=20%>    <img src="samples/song/target_mid_diff.png" style="width:100%"> </td>
+	<td width=20%>    <img src="samples/song/target_side.png" style="width:100%"> </td>
+	<td width=20%>    <img src="samples/song/target_side_diff.png" style="width:100%"> </td>
+    </tr>
+  </table>
+<hr>
+</center>
+</body>
+</html>

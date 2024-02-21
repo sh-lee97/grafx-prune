@@ -10,7 +10,7 @@ MathJax.Hub.Config({
   <style>
     div {
       max-width: 1000px;
-      min-width: 600px;
+      min-width: 100px;
     }
   </style>
   <meta charset="UTF-8">
@@ -29,7 +29,7 @@ MathJax.Hub.Config({
   Stefan Uhlich<sup>3</sup>,
   Giorgio Fabbro<sup>3</sup>,
   Kyogu Lee<sup>1</sup>, and
-  Yuki Mitsufuji<sup>2</sup>,
+  Yuki Mitsufuji<sup>2</sup>
   <br>
   <sup>1</sup>Seoul National University, 
   <sup>2</sup>Sony Group Corporation, 
@@ -40,7 +40,7 @@ MathJax.Hub.Config({
 <a href="index.html">Code (to be released)</a>
   	<br>
     <br>
-    <table style="max-width:980px;">
+<table style="max-width:980px; min-width=400px">
     <tr>
     <td>
     <hr>
@@ -49,15 +49,15 @@ MathJax.Hub.Config({
 	First, we create a mixing console that applies all available processors to every chain. Then, after the initial console parameter optimization, we alternate between removing redundant processors and fine-tuning. 
 	We achieve this through differentiable implementation of both processors and pruning.
 	Consequently, we find a sparse mixing graph that achieves nearly identical matching quality of the full console. We apply this procedure to every public and private dry-mix pair data and collect pseudo-label graphs that can be used to train neural networks for music mixing applications.
+    <hr>
 
-<br>
 <br>
 <center>
 <table style="max-width:100%">
 <tr>
-<td style="width:440px; border:0px; max-width:100%">
+<td style="max-width:440px; border:0px; width:100%">
 <center>
-<img src="figs/framework.png" alt="Framework-train", style="width:440px; max-width:100%">
+<img src="figs/framework.png" alt="Framework-train", style="width:100%">
 </center>
 <small>
 <p class="small">
@@ -69,25 +69,25 @@ $\mathcal{G}_\mathrm{c}$, $\mathcal{G}_\mathrm{p}$, and $\mathcal{G}$ denote spa
 </tr>
 </table>
 </center>
+
 <center>
 <table style="max-width:100%">
 <tr>
-<td style="width:650px; border:0px; max-width:100%">
+<td style="max-width:440px; border:0px; width:100%">
 <center>
-<img src="figs/framework_graphs_1.png" alt="Framework-train", style="height:163px">
-&ensp;
-<img src="figs/framework_graphs_2.png" alt="Framework-train", style="height:163px">
+<img src="figs/framework_graph_both.png" alt="Framework-train", style="width:100%">
 </center>
 <small>
+<p class="small">
 <b> Finding a sparse graph $G_p$ from a differentiable mixing console $G_c$. </b> i: input, o: output, m: mix, e: equalizer, c: compressor, n: noisegate, s: stereo imager, g: gain/panning, d: multitap delay, and r: reverb.
+</p>
 </small>
 </td>
 </tr>
 </table>
 </center>
-<br>
-
-<hr>
+<table>
+  <hr>
   <h3> Audio Samples </h3>
   <center>
   <table style="max-width:1000px" width="100%">
@@ -97,34 +97,28 @@ $\mathcal{G}_\mathrm{c}$, $\mathcal{G}_\mathrm{p}$, and $\mathcal{G}$ denote spa
     <tr>
     <td style="text-align: center;" valign='bottom' width=20%> 
 	</td>
-    <td width=20%> Mid </td>
-    <td width=20%> </td>
-    <td width=20%> Side </td>
-    <td width=20%> </td>
+    <td style="text-align: center;" width=20%> Mid </td>
+    <td style="text-align: center;" width=20%> (Error) </td>
+    <td style="text-align: center;" width=20%> Side </td>
+    <td style="text-align: center;" width=20%> (Error) </td>
 	</tr>
+	<tr> <td colspan="5"> Target mix </tr>
 	<tr>
-    <td style="text-align: center;" valign="top" width=20%> Target mix <audio controls style="width: 100%;" preload="none"> 
-	<source src="samples" type="samples/song/target.wav"> </audio> </td>
-	<td width=20%>    <img src="samples/song/target_mid.png" style="width:100%"> </td>
-	<td width=20%>    <img src="samples/song/target_mid_diff.png" style="width:100%"> </td>
-	<td width=20%>    <img src="samples/song/target_side.png" style="width:100%"> </td>
-	<td width=20%>    <img src="samples/song/target_side_diff.png" style="width:100%"> </td>
+    <td style="text-align: center;" valign="top" width=20%> <audio controls style="width: 100%;" preload="none"> 
+			       <source src="samples/medley_Torres_NewSkin/22s_4s_target.wav"> </audio> </td>
+	<td width=20%>    <img src="samples/medley_Torres_NewSkin/22s_4s_target_mid.png" style="width:100%"> </td>
+	<td width=20%>    </td>
+	<td width=20%>    <img src="samples/medley_Torres_NewSkin/22s_4s_target_side.png" style="width:100%"> </td>
+	<td width=20%>    </td>
     </tr>
+	<tr> <td colspan="5"> Base graph </tr>
 	<tr>
-    <td style="text-align: center;" valign="top" width=20%> Target mix <audio controls style="width: 100%;" preload="none"> 
-	<source src="samples" type="samples/song/target.wav"> </audio> </td>
-	<td width=20%>    <img src="samples/song/target_mid.png" style="width:100%"> </td>
-	<td width=20%>    <img src="samples/song/target_mid_diff.png" style="width:100%"> </td>
-	<td width=20%>    <img src="samples/song/target_side.png" style="width:100%"> </td>
-	<td width=20%>    <img src="samples/song/target_side_diff.png" style="width:100%"> </td>
-    </tr>
-	<tr>
-    <td style="text-align: center;" valign="top" width=20%> Target mix <audio controls style="width: 100%;" preload="none"> 
-	<source src="samples" type="samples/song/target.wav"> </audio> </td>
-	<td width=20%>    <img src="samples/song/target_mid.png" style="width:100%"> </td>
-	<td width=20%>    <img src="samples/song/target_mid_diff.png" style="width:100%"> </td>
-	<td width=20%>    <img src="samples/song/target_side.png" style="width:100%"> </td>
-	<td width=20%>    <img src="samples/song/target_side_diff.png" style="width:100%"> </td>
+    <td style="text-align: center;" valign="top" width=20%> <audio controls style="width: 100%;" preload="none"> 
+				   <source src="samples/medley_Torres_NewSkin/22s_4s_console_0.wav"> </audio> </td>
+	<td width=20%>    <img src="samples/medley_Torres_NewSkin/22s_4s_console_0_mid.png" style="width:100%"> </td>
+	<td width=20%>    <img src="samples/medley_Torres_NewSkin/22s_4s_console_0_mid_diff.png" style="width:100%"> </td>
+	<td width=20%>    <img src="samples/medley_Torres_NewSkin/22s_4s_console_0_side.png" style="width:100%"> </td>
+	<td width=20%>    <img src="samples/medley_Torres_NewSkin/22s_4s_console_0_side_diff.png" style="width:100%"> </td>
     </tr>
   </table>
   </center>

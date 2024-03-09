@@ -47,10 +47,11 @@ MathJax.Hub.Config({
     <td>
     <hr>
     <b>Abstract</b>
-	Music mixing is <em>compositional</em> --- experts combine multiple audio processors to achieve a cohesive mix from dry source tracks. We propose a method to reverse engineer this process from the input and output audio. 
-	First, we create a mixing console that applies all available processors to every chain. Then, after the initial console parameter optimization, we alternate between removing redundant processors and fine-tuning. 
-	We achieve this through differentiable implementation of both processors and pruning.
-	Consequently, we find a sparse mixing graph that achieves nearly identical matching quality of the full console. We apply this procedure to every public and private dry-mix pair data and collect pseudo-label graphs that can be used to train neural networks for music mixing applications.
+Music mixing is <em>compositional</em> --- experts combine multiple audio processors to achieve a cohesive mix from dry source tracks. We propose a method to reverse engineer this process from the input and output audio. 
+First, we create a mixing console that applies all available processors to every chain. Then, after the initial console parameter optimization, we alternate between removing redundant processors and fine-tuning. 
+We achieve this through differentiable implementation of both processors and pruning.
+Consequently, we find a sparse mixing graph that achieves nearly identical matching quality of the full mixing console. 
+We apply this procedure to dry-mix pairs from various datasets and collect graphs that also can be used to train neural networks for music mixing applications.
     <hr>
 
 <br>

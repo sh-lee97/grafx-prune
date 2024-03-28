@@ -39,8 +39,12 @@ MathJax.Hub.Config({
 <sup>*</sup>Work done during an internship at Sony AI.
   <br>
     <br>
-Submitted to DAFx 2024.
-<a href="index.html">Preprint (arXiv)</a>
+	Submitted to DAFx 2024.<br>
+	Preprints: <a href="papers/main.pdf">main</a>, 
+	<a href="papers/appendix.pdf">appendix</a>, and
+	<a href="papers/full.pdf">combined</a>
+	<br>
+
 <a href="index.html">Code (to be released)</a>
   	<br>
     <br>
@@ -67,6 +71,10 @@ We apply this procedure to dry-mix pairs from various datasets and collect graph
 <small>
 <p class="small">
 <b> Music mixing graph search via iterative pruning. </b> 
+We start from a mixing console $G_\mathrm{c}$ and optimize its parameters $\mathbf{P}_\mathrm{c}$.
+Then, we alternate between pruning and fine-tuning stages,
+obtaining a sparse graph $G_\mathrm{p}$ and its parameters $\mathbf{P}_\mathrm{p}$ that does not degrade the match qualiy of the 
+mixing console up to a tolerance threshold $\tau$.
 </p>
 </small>
 </td>
@@ -83,7 +91,7 @@ We apply this procedure to dry-mix pairs from various datasets and collect graph
 </center>
 <small>
 <p class="small">
-<b> Finding a sparse graph $G_p$ from a differentiable mixing console $G_c$. </b> i: input, o: output, m: mix, e: equalizer, c: compressor, n: noisegate, s: stereo imager, g: gain/panning, d: multitap delay, and r: reverb.
+<b> Finding a sparse graph $G_\mathrm{p}$ from a differentiable mixing console $G_\mathrm{c}$. </b> i: input, o: output, m: mix, e: equalizer, c: compressor, n: noisegate, s: stereo imager, g: gain/panning, d: multitap delay, and r: reverb.
 </p>
 </small>
 </td>

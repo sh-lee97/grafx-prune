@@ -1,4 +1,4 @@
-# Searching for Music Mixing Graphs: A Pruning Approach
+# Searching For Music Mixing Graphs: A Pruning Approach
 This repository contains all supplementary materials of our DAFx 2024 paper titled above. 
 
 <p align='center'>

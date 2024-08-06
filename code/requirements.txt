@@ -12,3 +12,4 @@ torch
 tqdm
 wandb
 omegaconf
+grafx

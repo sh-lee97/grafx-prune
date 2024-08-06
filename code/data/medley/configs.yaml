@@ -1,0 +1,10 @@
+base_dir: /data1/share/medley1/all/30k
+skips:
+  - AimeeNorwich_Child
+  - EthanHein_BluesForNofi
+  - TablaBreakbeatScience_MoodyPlucks
+  - PortStWillow_StayEven
+  - FamilyBand_Again
+  - LizNelson_ImComingHome
+  - NightPanther_Fire
+  - Snowmine_Curfews

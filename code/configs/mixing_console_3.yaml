@@ -1,0 +1,5 @@
+id: console_3
+processors: 
+  - eq
+  - stereo_imager
+  - gain_panning

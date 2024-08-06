@@ -1,0 +1,4 @@
+id: prune_hybrid_1e_1
+prune: true
+prune_policy: hybrid
+tolerance: 1.e-1

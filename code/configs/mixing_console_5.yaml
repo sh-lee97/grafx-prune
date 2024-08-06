@@ -1,0 +1,7 @@
+id: console_5
+processors: 
+  - eq
+  - compressor
+  - stereo_imager
+  - gain_panning
+  - reverb

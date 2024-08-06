@@ -1,0 +1,4 @@
+id: prune_weight_1e_2
+prune: true
+prune_policy: weight
+tolerance: 1.e-2

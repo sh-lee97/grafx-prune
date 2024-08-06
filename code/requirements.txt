@@ -1,0 +1,14 @@
+librosa
+matplotlib
+networkx
+numpy
+pandas
+pytorch_lightning
+PyYAML
+scipy
+seaborn
+soundfile
+torch
+tqdm
+wandb
+omegaconf

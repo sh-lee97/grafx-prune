@@ -1,0 +1,57 @@
+project: grafx_prune # project name that will be used in wandb
+base_dir: /workspace/grafx_prune # base directory that logs are saved
+
+id: null
+debug: false
+wandb: true
+
+sr: 30000
+audio_len: 114000
+batch_size: 1
+steps_per_epoch: 500
+total_epochs: 24
+
+multiple_runs: false
+num_splits: 10
+split_id: 0
+datasets: 
+  - medley
+  - mixing_secrets
+dataset_split: valid
+
+dataset: null
+song: null
+
+dry_insert_processors: 
+  - eq_dry
+  - compressor_dry
+  - noisegate_dry
+  - gain_panning_dry
+  - delay_dry
+  - reverb_dry
+multi_insert_processors: 
+  - eq_multi
+  - compressor_multi
+  - noisegate_multi
+  - stereo_imager_multi
+  - gain_panning_multi
+  - delay_multi
+  - reverb_multi
+
+flashfftconv: true
+
+lr: 1.e-2
+gain_reg_weight: 1.e-3
+
+prune: false
+prune_policy: hybrid
+tolerance: 1.e-2
+prune_start_epoch: 12
+sparsity_loss_weight: 1.e-4
+sparsity_raise_epoch: 4
+
+num_steps_per_log: 50
+save_intermediate_graphs: false
+
+consistency_check: false
+consistency_check_target: null

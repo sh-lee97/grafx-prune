@@ -1,0 +1,8 @@
+id: console_4
+processors: 
+  - eq
+  - compressor
+  - noisegate
+  - stereo_imager
+  - gain_panning
+  - reverb

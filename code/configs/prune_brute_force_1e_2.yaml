@@ -1,0 +1,4 @@
+id: prune_brute_force_1e_2
+prune: true
+prune_policy: brute_force
+tolerance: 1.e-2

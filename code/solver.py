@@ -111,7 +111,6 @@ class MusicMixingConsoleSolver(pl.LightningModule):
 
         print(self.graph_parameters)
 
-
     def init_pruning_data(self):
         self.current_ratio = {k: 1 for k in self.processors}
         self.min_loss = np.inf

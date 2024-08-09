@@ -119,7 +119,9 @@ def load_song(
         source_tracks = []
         for track_dir in source_track_dirs:
             source_start = (
-                dry_start if ("dry.wav" in track_dir.lower()) else multi_start
+                dry_start
+                if ("dry.wav" in track_dir.lower()) or dataset != "internal"
+                else multi_start
             )
             track = load_track(track_dir, source_start, audio_len, sr, half_precision)
             source_tracks.append(track)

@@ -99,6 +99,8 @@ class MusicMixingConsoleSolver(pl.LightningModule):
         fig.savefig(save_path, bbox_inches="tight", pad_inches=0.1)
         plt.close(fig)
 
+        self.init_num_processors = count_nodes_per_type(self.G, self.processors)
+
         self.G_tensor = convert_to_tensor(self.G)
 
         render_data = prepare_render(self.G_tensor)
@@ -109,8 +111,8 @@ class MusicMixingConsoleSolver(pl.LightningModule):
 
         print(self.graph_parameters)
 
+
     def init_pruning_data(self):
-        self.init_num_processors = count_nodes_per_type(self.G, self.processors)
         self.current_ratio = {k: 1 for k in self.processors}
         self.min_loss = np.inf
         self.sparsity_coeff = 0.0

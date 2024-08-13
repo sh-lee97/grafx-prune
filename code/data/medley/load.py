@@ -3,6 +3,7 @@ from functools import partial
 from glob import glob
 from os.path import dirname, join, realpath
 
+import numpy as np
 import soundfile as sf
 from utils import flatten
 from yaml import safe_load
@@ -99,9 +100,5 @@ def load_medley_metadata(song="Maroon5_ThisLove"):
 
     metadata["mix_dir"] = join(song_dir, f"{song}_MIX.wav")
     metadata["total_len"] = sf.info(metadata["mix_dir"]).frames
-
-    loudness_metadata_dir = join(song_dir, f"loudness.pickle")
-    loudness_metadata = pickle.load(open(loudness_metadata_dir, "rb"))
-    metadata["loudness"] = loudness_metadata
 
     return metadata

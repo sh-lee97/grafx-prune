@@ -3,6 +3,7 @@ from functools import partial
 from glob import glob
 from os.path import dirname, isfile, join, realpath
 
+import numpy as np
 import soundfile as sf
 from utils import flatten
 from yaml import safe_load
@@ -20,7 +21,7 @@ def detach_base_dir(x, d=4):
 
 
 def check_song(song, min_num_inputs=0, max_num_inputs=150):
-    if any([s in song for s in SKIP]):
+    if any([s in song for s in SKIPS]):
         return False
     if not isfile(join(song, "alignment.pickle")):
         return False

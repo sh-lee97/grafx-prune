@@ -1,0 +1,33 @@
+Drum:
+  - 01_KickIn.wav
+  - 02_KickOut.wav
+  - 03_SnareUp.wav
+  - 04_SnareDown.wav
+  - 05_Tom1.wav
+  - 06_Tom2.wav
+  - 07_Overheads.wav
+  - 08-130624_1035.wav
+  - 08_DrumsRoomStereo.wav
+  - 09_DrumsRoomMono.wav
+  - 10_Percussion.wav
+  - 11-130624_1035.wav
+  - 11_DjembeFX.wav
+Bass:
+  - 12_Bass.wav
+Rhodes:
+  - 13_Rhodes.wav
+ElecGtr:
+  - 14_ElecGtrClose.wav
+  - 15-130624_1040.wav
+  - 15_ElecGtrFar.wav
+AcousticGtr:
+  - 16_AcousticGtr.wav
+LeadVox:
+  - 17_LeadVox.wav
+BackingVox:
+  - 18_BackingVox1.wav
+  - 19_BackingVox2.wav
+  - 20_BackingVox3.wav
+  - 21_BackingVox4.wav
+  - 22_BackingVox5.wav
+  - 23_BackingVox6.wav

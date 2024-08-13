@@ -1,0 +1,21 @@
+DR:
+  - 01_KickSnare.wav
+  - 02_HiHat.wav
+  - 03_Percussion.wav
+BA:
+  - 04_Bass.wav
+  - 05_Sub Bass.wav
+  - 06_BassFX.wav
+SYN:
+  - 07_Synth.wav
+  - 08_Synth.wav
+  - 13_Synth.wav
+  - 14_Synth.wav
+SFX:
+  - 09_SFX.wav
+  - 10_SFX.wav
+  - 11_SFX.wav
+PN:
+  - 12_Pianos.wav
+Vox:
+  - 15_Vox.wav

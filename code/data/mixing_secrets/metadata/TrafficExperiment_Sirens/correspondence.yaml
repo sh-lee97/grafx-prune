@@ -1,0 +1,42 @@
+DR:
+  - 01_Kick.wav
+  - 02_KickSub.wav
+  - 03_SnareUp.wav
+  - 04_SnareDown.wav
+  - 05_HiHat.wav
+  - 06_Overheads.wav
+  - 07_DrumRoom.wav
+  - 08_DrumAmb.wav
+  - 09_Tom1.wav
+  - 10_Tom2.wav
+  - 11_FloorTom.wav
+BA:
+  - 12_Bass.wav
+AG:
+  - 13_AcGtr.wav
+EG:
+  - 14_ElecGtr1.wav
+  - 15_ElecGtr2.wav
+  - 16_ElecGtr3.wav
+  - 17_ElecGtr4.wav
+  - 18_ElecGtr5.wav
+  - 19_ElecGtr6.wav
+GTR:
+  - 20_LapSteelGtr.wav
+Pad:
+  - 21_SynthPad.wav
+PN:
+  - 22_Piano.wav
+Hammond:
+  - 23_Hammond.wav
+LV:
+  - 24_LeadVox.wav
+BV:
+  - 25_BackingVox1.wav
+  - 26_BackingVox2.wav
+  - 27_BackingVox3.wav
+  - 28_BackingVox4.wav
+  - 29_BackingVox5.wav
+  - 30_BackingVox6.wav
+  - 31_BackingVox7.wav
+  - 32_BackingVox8.wav

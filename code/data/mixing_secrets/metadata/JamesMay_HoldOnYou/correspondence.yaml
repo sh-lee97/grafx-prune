@@ -1,0 +1,15 @@
+DR:
+  - 01_KickBack.wav
+  - 02_KickFront.wav
+  - 03_Snare.wav
+  - 04_Overheads.wav
+BA:
+  - 05_Bass.wav
+AG:
+  - 06_AcGtr.wav
+EG:
+  - 07_ElecGtr.wav
+SlideGtr:
+  - 08_SlideGtr.wav
+LV:
+  - 09_LeadVox.wav

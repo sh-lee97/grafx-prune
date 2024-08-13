@@ -1,0 +1,16 @@
+Percussion:
+  - 01_Percussion.wav
+  - 02_Percussion.wav
+  - 03_Cymbals.wav
+BA:
+  - 04_Bass.wav
+PN:
+  - 05_Piano.wav
+EP:
+  - 06_ElecPiano.wav
+Marimba:
+  - 07_Marimba.wav
+SYN:
+  - 08_Synth1.wav
+  - 09_Synth2.wav
+  - 10_Synth3.wav

@@ -1,0 +1,31 @@
+Drum:
+  - KICK_M82.wav
+  - HI HAT_M60.wav
+  - SNARE_M80-SH.wav
+  - TOM 1_M81-SH.wav
+  - TOM 2_M81-SH.wav
+  - TOM 3_M81-SH.wav
+  - OVERHEAD L_M60 FET.wav
+  - OVERHEAD R_M60 FET.wav
+Bass:
+  - BASS_DI.wav
+Bamjo:
+  - BANJO_DI.wav
+EG:
+  - E GUITAR 1 _M81.wav
+  - E GUITAR 2_M81.wav
+Leslie:
+  - LESLIE BOTTOM_M82.wav
+  - LESLIE TOP_M80-SH.wav
+Keys:
+  - NORD ELECTRO L_DI.wav
+  - NORD ELECTRO R_DI.wav
+  - NORD88 L_DI.wav
+  - NORD88 R_DI.wav
+Sampler:
+  - SAMPLER_DI.wav
+Vox:
+  - VOX LEAD_M80.wav
+  - VOX 2_M80.wav
+  - VOX 3_M80.wav
+  - VOX 4_M80.wav

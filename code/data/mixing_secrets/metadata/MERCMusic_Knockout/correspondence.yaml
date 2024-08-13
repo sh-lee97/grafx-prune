@@ -1,0 +1,62 @@
+DR:
+  - 01_Kick1.wav
+  - 02_Kick2.wav
+  - 03_Kick3.wav
+  - 04_Snare1.wav
+  - 05_Snare2.wav
+  - 06_Snare3.wav
+  - 07_Snare4.wav
+  - 08_Snare5.wav
+  - 09_Clap.wav
+  - 10_HiHatClosed.wav
+  - 11_HiHatOpen.wav
+  - 12_Ride.wav
+  - 13_Hit.wav
+  - 14_Cymbal1.wav
+  - 15_Cymbal2.wav
+  - 16_Cymbal3.wav
+BA:
+  - 17_Bass.wav
+PN:
+  - 18_Piano.wav
+SYN:
+  - 19_SynthLead1.wav
+  - 20_SynthLead2.wav
+  - 21_SynthPad1.wav
+  - 22_SynthPad2.wav
+  - 23_SynthSaw.wav
+  - 24_SynthFill1.wav
+  - 25_SynthFill2.wav
+  - 26_SynthFill3.wav
+  - 27_SynthSFX1.wav
+  - 28_SynthSFX2.wav
+  - 29_SynthSFX3.wav
+Brass:
+  - 30_Tubas.wav
+  - 31_Horns.wav
+Violin:
+  - 32_Violin.wav
+Vox:
+  - 33_VoxIntro1.wav
+  - 34_VoxIntro2.wav
+LV:
+  - 35_LeadVoxCh.wav
+  - 36_LeadVoxChDT1.wav
+  - 37_LeadVoxChDT2.wav
+  - 40_LeadVoxVs1.wav
+  - 41_LeadVoxVs1DT1.wav
+  - 42_LeadVoxVs1DT2.wav
+  - 43_LeadVoxVs1SFX.wav
+  - 44_LeadVoxVs2.wav
+  - 45_LeadVoxVs2DT1.wav
+  - 46_LeadVoxVs2DT2.wav
+  - 47_LeadVoxVs2SFX.wav
+  - 48_LeadVoxBr1.wav
+  - 49_LeadVoxBr2.wav
+BV:
+  - 38_BackingVoxCh1.wav
+  - 39_BackingVoxCh2.wav
+  - 50_BackingVoxBr1.wav
+  - 51_BackingVoxBr2.wav
+  - 52_BackingVoxBr3.wav
+  - 53_BackingVoxBr4.wav

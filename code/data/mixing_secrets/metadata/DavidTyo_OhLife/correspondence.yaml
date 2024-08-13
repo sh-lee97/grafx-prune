@@ -1,0 +1,33 @@
+DR:
+  - 01_Kick.wav
+  - 02_SnareUp.wav
+  - 03_SnareDown.wav
+  - 04_Tom1.wav
+  - 05_Tom2.wav
+  - 06_OverheadMono.wav
+  - 07_OverheadsStereo.wav
+  - 08_DrumsRoom.wav
+  - 09_CymbalRolls.wav
+  - 10_Tambourine.wav
+AG:
+  - 11_AcousticGtr.wav
+BA:
+  - 12_Bass.wav
+PN:
+  - 13_Piano.wav
+EG:
+  - 14_ElecGtr1.wav
+  - 15_ElecGtr2.wav
+  - 16_ElecGtr3.wav
+SYN:
+  - 17_Synth.wav
+STR:
+  - 18_Strings.wav
+LV:
+  - 19_LeadVox.wav
+BV:
+  - 20_BackingVox1.wav
+  - 21_BackingVox2.wav
+  - 22_BackingVox2DT.wav
+  - 23_BackingVox3.wav
+  - 24_BackingVox3DT.wav

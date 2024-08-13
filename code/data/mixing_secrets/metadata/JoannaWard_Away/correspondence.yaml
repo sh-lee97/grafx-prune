@@ -1,0 +1,5 @@
+Main:
+  - 01_MainXYPair.wav
+Close:
+  - 02_CloseMicLeft.wav
+  - 03_CloseMicRight.wav

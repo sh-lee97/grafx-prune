@@ -1,0 +1,21 @@
+DR:
+  - 01_Kick.wav
+  - 02_SnareUp.wav
+  - 03_SnareDown.wav
+  - 04_HiHat.wav
+  - 05_Overheads.wav
+  - 06_DrumsRoom.wav
+  - 07_RackTom.wav
+  - 08_FloorTom.wav
+BA:
+  - 09_BassMic.wav
+Gangs:
+  - 10_Gangs.wav
+EG:
+  - 11_ElecGtrDI1.wav
+  - 12_ElecGtrDI2.wav
+  - 13_ElecGtrDI3.wav
+  - 14_ElecGtrLead.wav
+LV:
+  - 15_LeadVox1.wav
+  - 16_LeadVox2.wav

@@ -1,0 +1,22 @@
+Drum:
+  - 01_Drums.wav
+Bass:
+  - 02_Bass.wav
+ElecPiano:
+  - 03_ElecPiano.wav
+AcGuitar:
+  - 04_AcGuitar.wav
+LeadVox:
+  - 05_LeadVox1.wav
+  - 06_LeadVox2.wav
+BackingVox:
+  - 07_BackingVoxFemale1.wav
+  - 08_BackingVoxFemale1DT1.wav
+  - 09_BackingVoxFemale1DT2.wav
+  - 10_BackingVoxFemale2.wav
+  - 11_BackingVoxFemale2DT.wav
+  - 12_BackingVoxFemale2DT2.wav
+  - 13_BackingVoxFemale3.wav
+  - 14_BackingVoxFemale3DT1.wav
+  - 15_BackingVoxFemale3DT2.wav
+  - 16_BackingVoxMaleSubmix.wav

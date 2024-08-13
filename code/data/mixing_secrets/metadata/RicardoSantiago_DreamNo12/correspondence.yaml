@@ -1,0 +1,40 @@
+DR:
+  - 01_Kick.wav
+  - 02_ShakerMono.wav
+  - 03_ShakerStereo.wav
+  - 04_Clicks.wav
+  - 05_Bongos.wav
+BA:
+  - 06_Bass.wav
+Ukelele:
+  - 07_Ukelele1.wav
+  - 08_Ukelele2.wav
+  - 09_Ukelele3.wav
+EG:
+  - 10_ElecGtr.wav
+STR:
+  - 11_Strings.wav
+Orchestra:
+  - 12_Orchestra.wav
+Vibes:
+  - 13_Vibes.wav
+Mellotron:
+  - 14_Mellotron.wav
+SYN:
+  - 15_Synth1.wav
+  - 16_Synth2.wav
+Vocoder:
+  - 17_Vocoder1.wav
+  - 18_Vocoder2.wav
+LV:
+  - 19_LeadVox.wav
+BV:
+  - 20_BackingVox1.wav
+  - 21_BackingVox2.wav
+  - 22_BackingVox3.wav
+SFX:
+  - 23_SFX1.wav
+  - 24_SFX2.wav
+  - 25_SFX3.wav
+  - 26_SFX4.wav
+  - 27_SFX5.wav

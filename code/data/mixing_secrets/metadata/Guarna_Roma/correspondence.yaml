@@ -1,0 +1,22 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Clap.wav
+  - 03_Hat1.wav
+  - 04_Hat2.wav
+  - 05_Hat3.wav
+  - 06_Crash.wav
+SFX:
+  - 07_SFX.wav
+Bass:
+  - 08_Bass.wav
+ElecGtr:
+  - 09_ElecGtr.wav
+VoxSample:
+  - 10_VoxSample.wav
+LeadVox:
+  - 11_LeadVox.wav
+  - 12_LeadVoxDT.wav
+BackingVox:
+  - 13_BackingVox1.wav
+  - 14_BackingVox2.wav
+  - 15_BackingVox3.wav

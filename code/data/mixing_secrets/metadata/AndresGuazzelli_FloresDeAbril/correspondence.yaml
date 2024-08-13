@@ -1,0 +1,16 @@
+Bass:
+  - 01_Bass.wav
+Piano:
+  - 02_Piano.wav
+  - 03_PianoSFX.wav
+Hammond:
+  - 04_Hammond1.wav
+  - 05_Hammond2.wav
+Synth:
+  - 06_Synth1.wav
+  - 07_Synth2.wav
+ElecGtr:
+  - 08_ElecGtr1.wav
+  - 09_ElecGtr2.wav
+  - 10_ElecGtr3.wav
+  - 11_ElecGtr4.wav

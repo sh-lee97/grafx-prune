@@ -1,0 +1,11 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Snare.wav
+Cello:
+  - 03_CelloMic1.wav
+  - 04_CelloMic2.wav
+AcousticGtr:
+  - 05_AcousticGtrMic1.wav
+  - 06_AcousticGtrMic2.wav
+LeadVox:
+  - 07_LeadVox.wav

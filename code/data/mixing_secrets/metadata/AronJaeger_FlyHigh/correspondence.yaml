@@ -1,0 +1,35 @@
+Drum:
+  - 01_Kick1.wav
+  - 02_Kick2.wav
+  - 03_Snare1.wav
+  - 04_Snare2.wav
+  - 05_Snare3.wav
+  - 06_Snare4.wav
+  - 07_ReverseSnare.wav
+  - 08_HiHat.wav
+  - 09_Toms.wav
+SFX:
+  - 10_ReverseSFX1.wav
+  - 11_ReverseSFX2.wav
+  - 12_SFX1.wav
+  - 13_SFX2.wav
+  - 14_SFX3.wav
+Bass:
+  - 15_Bass.wav
+Synth:
+  - 16_Synth01.wav
+  - 17_Synth02.wav
+  - 18_Synth03.wav
+  - 19_Synth04.wav
+  - 20_Synth05.wav
+  - 21_Synth06.wav
+  - 22_Synth07.wav
+  - 23_Synth08.wav
+  - 24_Synth09.wav
+  - 25_Synth10.wav
+  - 26_Synth11.wav
+  - 27_Synth12.wav
+  - 28_Synth13.wav
+  - 29_Synth14.wav
+  - 30_Synth15.wav
+  - 31_Synth16.wav

@@ -1,0 +1,30 @@
+BA:
+  - Bass-Active DI.wav
+DR:
+  - Drums-Floor-M81.wav
+  - Drums-Kick In-M82.wav
+  - Drums-Kick Out-CU29.wav
+  - Drums-Overhead-ELA M 260.wav
+  - Drums-Rack Tom-M80.wav
+  - Drums-Room-M81.wav
+  - Drums-Snare Bottom-M80.wav
+  - Drums-Snare Top-M81.wav
+EG:
+  - ELE Guitar1-M81.wav
+  - ELE Guitar2-M80.wav
+Horn:
+  - Horns-Bone-ELA M 260.wav
+  - Horns-Sax-M80.wav
+  - Horns-Trumpet-ELA M 260.wav
+Keys:
+  - Keys-CP80-Active DI.wav
+  - Keys-Leslie Bottom-M82.wav
+  - Keys-Leslie Top-M81.wav
+Perc:
+  - Percussion-Conga-M81.wav
+  - Percussion-Overhead-M60.wav
+  - Percussion-Tim-M81.wav
+Vox:
+  - Vocals-BV1-M81.wav
+  - Vocals-BV2-M81.wav
+  - Vocals-Lead-M80.wav

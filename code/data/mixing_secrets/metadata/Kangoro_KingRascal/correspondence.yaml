@@ -1,0 +1,81 @@
+Drum:
+  - 01_KickIn1.wav
+  - 02_KickIn2.wav
+  - 03_KickOut.wav
+  - 04_SnareUp.wav
+  - 05_SnareDown.wav
+  - 06_SnareSample.wav
+  - 07_HiHat.wav
+  - 08_Tom1.wav
+  - 09_Tom2.wav
+  - 10_Tom3.wav
+  - 11_OverheadStereo.wav
+  - 12_OverheadMono.wav
+  - 13_DrumsRoom.wav
+Percussion:
+  - 14_Percussion.wav
+  - 15_Loop1.wav
+  - 16_Loop2.wav
+  - 17_Loop3.wav
+  - 18_Loop4.wav
+  - 19_Break.wav
+SFX:
+  - 20_Scratch1.wav
+  - 21_Scratch2.wav
+  - 22_Scratch3.wav
+  - 23_Scratch4.wav
+  - 24_Scratch5.wav
+  - 25_VinylNoise1.wav
+  - 26_VinylNoise2.wav
+Bass:
+  - 27_Bass1.wav
+  - 28_Bass2.wav
+Flute:
+  - 29_FluteLoop.wav
+Strings:
+  - 30_StringsLoop.wav
+Hammond:
+  - 31_Hammond.wav
+Synth:
+  - 32_Synth1.wav
+  - 33_Synth2.wav
+  - 34_Synth3.wav
+LeadVox1:
+  - 35_LeadVox1.wav
+  - 36_Leadvox1DT.wav
+  - 37_Leadvox1Accents1.wav
+  - 38_Leadvox1Accents2.wav
+  - 39_Leadvox1Accents3.wav
+LeadVox2:
+  - 40_LeadVox2.wav
+  - 41_LeadVox2DT.wav
+  - 42_LeadVox2Accents.wav
+MobVox:
+  - 43_MobVox1.wav
+  - 44_MobVox2.wav
+  - 45_MobVox3.wav
+  - 46_MobVox4.wav
+  - 47_MobVox5.wav
+  - 48_MobVox6.wav
+  - 49_MobVox7.wav
+  - 50_MobVox8.wav
+BackingVox:
+  - 51_BackingVox01.wav
+  - 52_BackingVox02.wav
+  - 53_BackingVox03.wav
+  - 54_BackingVox04.wav
+  - 55_BackingVox05.wav
+  - 56_BackingVox06.wav
+  - 57_BackingVox07.wav
+  - 58_BackingVox08.wav
+  - 59_BackingVox09.wav
+  - 60_BackingVox10.wav
+  - 61_BackingVox11.wav
+  - 62_BackingVox12.wav
+  - 63_BackingVox13.wav
+  - 64_BackingVox14.wav
+  - 65_BackingVox15.wav
+  - 66_BackingVox16.wav
+  - 67_BackingVox17.wav
+  - 68_Laugh1.wav
+  - 69_Laugh2.wav

@@ -1,0 +1,71 @@
+DR:
+  - 01_Kick.wav
+  - 02_KickSample.wav
+  - 03_Snare.wav
+  - 04_Tom1.wav
+  - 05_Tom2.wav
+  - 06_Tom3.wav
+  - 07_TomFX.wav
+  - 08_Overheads.wav
+  - 09_DrumsRoomMono.wav
+  - 10_DrumsRoomStereo.wav
+  - 11_DrumsRoomFX.wav
+Percussion:
+  - 12_Taiko1.wav
+  - 13_Taiko2.wav
+  - 14_Taiko3.wav
+  - 15_Percussion.wav
+  - 16_Tambourine.wav
+  - 17_Shaker1.wav
+  - 18_Shaker2.wav
+  - 19_Rainstick1.wav
+  - 20_Rainstick2.wav
+SFX:
+  - 21_SFX1.wav
+  - 22_SFX2.wav
+BA:
+  - 23_BassSynth1.wav
+  - 24_BassSynth2.wav
+AG:
+  - 25_AcousticGtr1.wav
+  - 26_AcousticGtr2.wav
+STR:
+  - 27_Strings.wav
+  - 28_StringsSFX.wav
+  - 29_DoubleBass.wav
+PN:
+  - 30_Piano1.wav
+  - 31_Piano2.wav
+  - 32_ReversePiano.wav
+SYN:
+  - 33_Synth1.wav
+  - 34_Synth2.wav
+  - 35_Synth3.wav
+  - 36_Synth4.wav
+  - 37_Synth5.wav
+EG:
+  - 38_ElecGtr1.wav
+  - 39_ElecGtr2.wav
+  - 40_ElecGtr3.wav
+  - 41_ElecGtr4.wav
+  - 42_ElecGtr5.wav
+  - 43_ElecGtr6.wav
+LV:
+  - 44_LeadVox.wav
+  - 45_LeadVoxDT1.wav
+  - 46_LeadVoxDT2.wav
+  - 47_LeadVoxDT3.wav
+  - 48_LeadVoxDT4.wav
+  - 49_LeadVoxDT5.wav
+  - 50_LeadVoxFX01.wav
+  - 51_LeadVoxFX02.wav
+  - 52_LeadVoxFX03.wav
+  - 53_LeadVoxFX04.wav
+  - 54_LeadVoxFX05.wav
+  - 55_LeadVoxFX06.wav
+  - 56_LeadVoxFX07.wav
+  - 57_LeadVoxFX08.wav
+  - 58_LeadVoxFX09.wav
+  - 59_LeadVoxFX10.wav
+  - 60_LeadVoxFX11.wav
+  - 61_LeadVoxFX12.wav

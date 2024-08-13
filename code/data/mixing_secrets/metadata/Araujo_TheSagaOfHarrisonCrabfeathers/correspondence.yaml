@@ -1,0 +1,19 @@
+Drum:
+  - 01_KickIn.wav
+  - 02_KickOut.wav
+  - 03_Snare.wav
+  - 04_Tom1.wav
+  - 05_Tom2.wav
+  - 06_Overhead1.wav
+  - 07_Overhead2.wav
+Bass:
+  - 08_BassDI.wav
+Synth:
+  - 09_Synth.wav
+EG:
+  - 10_ElecGtrMic1.wav
+  - 11_ElecGtrMic2.wav
+Gong:
+  - 12_Gong.wav
+Piano:
+  - 13_Piano.wav

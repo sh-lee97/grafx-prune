@@ -1,0 +1,8 @@
+Saxophone:
+  - 01_SaxophoneCloseMic1.wav
+  - 02_SaxophoneCloseMic2.wav
+  - 03_SaxophoneFarMic1.wav
+AcousticGtr:
+  - 04_AcousticGtrCloseMics.wav
+  - 05_AcousticGtrFarMics.wav
+  - 06_AcousticGtrDI.wav

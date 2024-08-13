@@ -1,0 +1,22 @@
+DR:
+  - 01_Loop1.wav
+  - 02_Loop2.wav
+  - 03_Kick.wav
+  - 04_HiHat.wav
+  - 05_Claps.wav
+SFX:
+  - 06_SFX1.wav
+  - 07_SFX2.wav
+  - 08_SFX3.wav
+BA:
+  - 09_Bass1.wav
+  - 10_Bass2.wav
+SYN:
+  - 11_Synth1.wav
+  - 12_Synth2.wav
+  - 13_Synth3.wav
+  - 14_Synth4.wav
+  - 15_Synth5.wav
+  - 16_Synth6.wav
+  - 17_Synth7.wav
+  - 18_Synth8.wav

@@ -1,0 +1,34 @@
+AG:
+  - ACOUSTIC DI 1.wav
+  - ACOUSTIC DI 2.wav
+BA:
+  - BASS - M82.wav
+  - BASS DI.wav
+DR:
+  - DRUMS - FLOOR TOM - M81-SH.wav
+  - DRUMS - HI HAT - ELA M 260.wav
+  - DRUMS - KICK M82.wav
+  - DRUMS - OVERHEAD LEFT - ELA M 260.wav
+  - DRUMS - OVERHEAD RIGHT - ELA M 260.wav
+  - DRUMS - SNARE - M80-SH.wav
+  - DRUMS - TOM 1 - M81-SH.wav
+Guitar:
+  - GUITAR AMP 1 - M80.wav
+  - GUITAR AMP 2 - M81.wav
+  - GUITAR AMP 3 - M81.wav
+  - GUITAR AMP 4 - M80.wav
+Key:
+  - KEY LEFT DI.wav
+  - KEY RIGHT DI.wav
+Leslie:
+  - LESLIE LEFT - M80.wav
+  - LESLIE LOW - M81.wav
+  - LESLIE RIGHT - M80.wav
+Room:
+  - ROOM AB - 260 LEFT.wav
+  - ROOM AB - 260 RIGHT.wav
+  - ROOM XY - AR-70 STEREO.wav
+Vox:
+  - VOX 1 - M80.wav
+  - VOX 2- M80.wav
+  - VOX 3 - M80.wav

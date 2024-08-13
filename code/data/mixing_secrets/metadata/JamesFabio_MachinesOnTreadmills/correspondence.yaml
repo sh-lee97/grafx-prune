@@ -1,0 +1,23 @@
+Synth:
+  - 01_Synth1.wav
+  - 02_Synth2.wav
+  - 03_Synth3.wav
+  - 04_Synth4.wav
+  - 05_Synth5.wav
+  - 06_Synth6.wav
+  - 07_Synth7.wav
+  - 08_Synth8.wav
+  - 09_Synth9.wav
+SFX:
+  - 10_SFX1.wav
+  - 11_SFX2.wav
+Piano:
+  - 12_Piano.wav
+Strings:
+  - 13_Strings.wav
+LeadVox:
+  - 14_LeadVox1.wav
+  - 15_LeadVox2.wav
+BackingVox:
+  - 16_BackingVox1.wav
+  - 17_BackingVox2.wav

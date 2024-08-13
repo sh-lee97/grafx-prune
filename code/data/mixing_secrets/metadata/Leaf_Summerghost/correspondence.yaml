@@ -1,0 +1,34 @@
+DR:
+  - 01_Drums.wav
+BA:
+  - 02_BassDI.wav
+  - 03_BassAmp.wav
+EG:
+  - 04_ElecGtr1.wav
+  - 05_ElecGtr1DT.wav
+  - 06_ElecGtr2.wav
+  - 07_ElecGtr2DT.wav
+  - 08_ElecGtr3.wav
+  - 09_ElecGtr3DT.wav
+  - 10_ElecGtr4.wav
+  - 11_ElecGtr4DT.wav
+  - 12_ElecGtr5.wav
+  - 13_ElecGtr6.wav
+Synth:
+  - 14_Synth.wav
+  - 15_SynthDT.wav
+LV:
+  - 16_LeadVox1.wav
+  - 17_LeadVox2DT.wav
+  - 18_LeadVox2.wav
+  - 19_LeadVox2DT.wav
+BV:
+  - 20_BackingVox1.wav
+  - 21_BackingVox1DT.wav
+  - 22_BackingVox2.wav
+  - 23_BackingVox3.wav
+  - 24_BackingVox4.wav
+  - 25_BackingVox5.wav
+  - 26_BackingVox6.wav
+  - 27_BackingVox7.wav
+  - 28_BackingVox8.wav

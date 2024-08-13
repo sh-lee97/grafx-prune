@@ -1,0 +1,56 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_HiHat.wav
+  - 04_Bombek.wav
+  - 05_Bongo.wav
+  - 06_Gong.wav
+  - 07_Claps.wav
+  - 08_Bell.wav
+  - 09_Cymbal.wav
+  - 10_ReverseCymbal1.wav
+  - 11_ReverseCymbal2.wav
+  - 12_ReverseCymbalFX.wav
+SFX:
+  - 13_SFX1.wav
+  - 14_SFX2.wav
+  - 15_SFX3.wav
+  - 16_SFX4.wav
+Bass:
+  - 17_Bass1.wav
+  - 18_Bass2.wav
+Strings:
+  - 19_Strings1.wav
+  - 20_Strings2.wav
+  - 21_Strings3.wav
+  - 22_Strings4.wav
+  - 23_Strings5.wav
+  - 24_Strings6.wav
+  - 25_Strings7.wav
+Piano:
+  - 26_Piano1.wav
+  - 27_Piano2.wav
+  - 28_Piano3.wav
+Synth:
+  - 29_Synth1.wav
+  - 30_Synth2.wav
+  - 31_Synth3.wav
+  - 32_Synth4.wav
+  - 33_Synth5.wav
+  - 34_Synth6.wav
+  - 35_Synth7.wav
+  - 36_Synth8.wav
+  - 37_Synth9.wav
+LeadVox:
+  - 38_LeadVox1.wav
+  - 39_LeadVox1DT1.wav
+  - 40_LeadVox1DT2.wav
+  - 41_LeadVox2.wav
+  - 42_LeadVox2DT1.wav
+  - 43_LeadVox2DT2.wav
+  - 44_LeadVox2DT3.wav
+BackingVox:
+  - 45_BackingVox1.wav
+  - 46_BackingVox2.wav
+  - 47_BackingVox3.wav
+  - 48_BackingVox3DT.wav

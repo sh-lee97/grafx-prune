@@ -1,0 +1,20 @@
+Drum:
+  - 01_Loop1.wav
+  - 02_Loop2.wav
+  - 03_Kick.wav
+  - 04_Snare.wav
+  - 05_Claps.wav
+  - 06_HiHat1.wav
+  - 07_HiHat2.wav
+SFX:
+  - 08_SFX.wav
+Bass:
+  - 09_Bass1.wav
+  - 10_Bass2.wav
+Synth:
+  - 11_Synth1.wav
+  - 12_Synth2.wav
+  - 13_Synth3.wav
+Vox:
+  - 14_Vox_Dry.wav
+  - 15_Vox_Wet.wav

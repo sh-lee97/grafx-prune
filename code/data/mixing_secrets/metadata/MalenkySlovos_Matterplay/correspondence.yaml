@@ -1,0 +1,43 @@
+Drumkit1:
+  - 01_Drumkit1_KickIn.wav
+  - 02_Drumkit1_KickOut.wav
+  - 03_Drumkit1_SnareUp.wav
+  - 04_Drumkit1_SnareDown.wav
+  - 05_Drumkit1_HiHat.wav
+  - 06_Drumkit1_Ride.wav
+  - 07_Drumkit1_Tom1.wav
+  - 08_Drumkit1_Tom2.wav
+  - 09_Drumkit1_Tom3.wav
+  - 10_Drumkit1_Overheads.wav
+Drumkit2:
+  - 11_Drumkit2_SnareUp.wav
+  - 12_Drumkit2_SnareDown.wav
+  - 13_Drumkit2_HiHat.wav
+  - 14_Drumkit2_Tom1.wav
+  - 15_Drumkit2_Tom2.wav
+  - 16_Drumkit2_Tom3.wav
+  - 17_Drumkit2_Overheads.wav
+  - 18_Drumkit2_Room.wav
+SFX:
+  - 19_ReverseCymbal.wav
+Bass:
+  - 20_Bass.wav
+ElecGtr:
+  - 21_ElecGtr01.wav
+  - 22_ElecGtr02.wav
+  - 23_ElecGtr03.wav
+  - 24_ElecGtr04.wav
+  - 25_ElecGtr05.wav
+Synth:
+  - 26_Synth01.wav
+  - 27_Synth02.wav
+  - 28_Synth03.wav
+CatSFX:
+  - 29_CatSFX.wav
+LeadVox:
+  - 30_LeadVox01.wav
+  - 31_LeadVox02.wav
+BackingVox:
+  - 32_BackingVos01.wav
+  - 33_BackingVox02.wav
+  - 34_BackingVox03.wav

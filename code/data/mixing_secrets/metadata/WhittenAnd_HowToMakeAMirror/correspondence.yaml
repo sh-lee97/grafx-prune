@@ -1,0 +1,17 @@
+DR:
+  - 01_Drums.wav
+Flute:
+  - 02_Flutes.wav
+  - 03_BassFlutes.wav
+Dulcimer:
+  - 04_Dulcimer.wav
+STR:
+  - 05_Strings.wav
+LV:
+  - 06_LeadVox.wav
+BV:
+  - 07_BackingVox1.wav
+  - 08_BackingVox2.wav
+  - 09_BackingVox3.wav
+  - 10_BackingVox4.wav
+  - 11_BackingVox5.wav

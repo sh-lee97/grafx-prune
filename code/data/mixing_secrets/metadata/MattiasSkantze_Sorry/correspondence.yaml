@@ -1,0 +1,38 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Rimshot1.wav
+  - 03_Rimshot2.wav
+SFX:
+  - 04_SFX1.wav
+  - 05_SFX2.wav
+  - 06_SFX3.wav
+  - 07_Telephone.wav
+  - 08_Traffic.wav
+Bass:
+  - 09_Bass1.wav
+  - 10_Bass2.wav
+AcGtr:
+  - 11_AcGtr1.wav
+  - 12_AcGtr2.wav
+Synth:
+  - 13_Synth1.wav
+  - 14_Synth2.wav
+  - 15_Synth3.wav
+  - 16_Synth4.wav
+  - 17_Synth5.wav
+LeadVox:
+  - 18_LeadVox.wav
+  - 19_LeadVox_NoPitchProcessing.wav
+  - 20_LeadVoxDT.wav
+  - 21_LeadVoxDT_NoPitchProcessing.wav
+BackingVox:
+  - 22_BackingVox1.wav
+  - 23_BackingVox1_NoPitchProcessing.wav
+  - 24_BackingVox2.wav
+  - 25_BackingVox2_NoPitchProcessing.wav
+  - 26_BackingVox3.wav
+  - 27_BackingVox3_NoPitchProcessing.wav
+  - 28_BackingVox4.wav
+  - 29_BackingVox4_NoPitchProcessing.wav
+  - 30_Whispers.wav
+  - 31_Vocoder.wav

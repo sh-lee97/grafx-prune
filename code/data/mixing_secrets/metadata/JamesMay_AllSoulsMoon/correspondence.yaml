@@ -1,0 +1,23 @@
+Drum:
+  - 01_Kick.wav
+  - 02_SnareUp.wav
+  - 03_SnareDown.wav
+  - 04_Overheads.wav
+  - 05_Shaker.wav
+Bass:
+  - 06_Bass1.wav
+  - 07_Bass2.wav
+AcousticGtr:
+  - 08_AcousticGtr1.wav
+  - 09_AcousticGtr2.wav
+Keys:
+  - 10_ElecPiano.wav
+  - 11_Wurlitzer.wav
+Violin:
+  - 12_Violin1.wav
+  - 13_Violin2.wav
+LeadVox:
+  - 14_LeadVox.wav
+BackingVox:
+  - 15_BackingVox1.wav
+  - 16_BackingVox2.wav

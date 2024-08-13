@@ -1,0 +1,31 @@
+BV:
+  - Backing-Vox-A (Korby KAT C-800)_01.wav
+  - Backing-Vox-B (Korby KAT C-800)_01.wav
+BA:
+  - Bass-Active DI.20_01.wav
+  - Bass-Amp-M82.20_01.wav
+DR:
+  - Drums-Aux Snare-M80.20_01.wav
+  - Drums-Floor Tom 2-M81.20_01.wav
+  - Drums-Floor-M81.20_01.wav
+  - Drums-Kick In-M82.20_01.wav
+  - Drums-Over-TF51.20_01.wav
+  - Drums-Rack Tom 2-M81.20_01.wav
+  - Drums-Rack Tom-M81.20_01.wav
+  - Drums-Room-m60.20_01.wav
+  - Drums-Snare-M81.20_01.wav
+EG:
+  - EGuitar 2 - (Palmer PDI09).wav
+  - EGuitar-TF47_01.wav
+  - EGutiar 2 - (Earthworks SR25).wav
+Keys:
+  - Keys-Leslie-M81.20_01.wav
+LV:
+  - Lead-Vox-A (AKG 414)_01.wav
+  - Lead-Vox-B (AKG 414)_01.wav
+Perc:
+  - perc shaker.20_01.wav
+  - perc toms 1.20_01.wav
+  - perc toms 2.20_01.wav
+  - perc toms 3.20_01.wav
+  - perc toms room.20_01.wav

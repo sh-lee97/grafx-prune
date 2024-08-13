@@ -1,0 +1,24 @@
+BA:
+  - 01_Bass.wav
+AG:
+  - 02_AcousticGtrMic1.wav
+  - 03_AcousticGtrMic2.wav
+Fiddles:
+  - 04_Fiddles1Mic1.wav
+  - 05_Fiddles1Mic2.wav
+  - 06_Fiddles2Mic1.wav
+  - 07_Fiddles2Mic2.wav
+LV:
+  - 08_LeadVox1Mic1.wav
+  - 09_LeadVox1Mic2.wav
+  - 10_LeadVox2Mic1.wav
+  - 11_LeadVox2Mic2.wav
+  - 12_LeadVox2DT.wav
+  - 13_LeadVox3Mic1.wav
+  - 14_LeadVox3Mic2.wav
+BV:
+  - 15_BackingVox1.wav
+  - 16_BackingVox2.wav
+  - 17_BackingVox3.wav
+  - 18_BackingVox4.wav
+  - 19_BackingVox5.wav

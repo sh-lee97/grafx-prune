@@ -1,0 +1,12 @@
+Main:
+  - 01_MainPair_DominantArray.wav
+Bass:
+  - 02_BassMic1_SpotMic.wav
+  - 03_BassMic2_PeerArray.wav
+Sax:
+  - 04_SaxMic1_SpotMic.wav
+  - 05_SaxMic2_PeerArray.wav
+Room:
+  - 06_Room_Stereo.wav
+  - 07_Room_Mono1.wav
+  - 08_Room_Mono2.wav

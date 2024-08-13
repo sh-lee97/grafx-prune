@@ -1,0 +1,24 @@
+DR:
+  - 01_DrumLoop.wav
+  - 02_Djembe.wav
+  - 03_Percussion.wav
+  - 04_Cowbell.wav
+  - 05_Cymbals.wav
+BA:
+  - 06_Bass.wav
+PN:
+  - 07_Piano.wav
+Flute:
+  - 08_Flute.wav
+Guitar:
+  - 09_Guitar.wav
+  - 10_GuitarMarimba.wav
+SYN:
+  - 11_Synth.wav
+Strings:
+  - 12_StringsChoir.wav
+Brass:
+  - 13_Trombones.wav
+  - 14_Trumpets.wav
+Vox:
+  - 15_Vox.wav

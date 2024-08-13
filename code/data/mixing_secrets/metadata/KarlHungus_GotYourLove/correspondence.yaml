@@ -1,0 +1,77 @@
+Drum:
+  - 01_Kick01.wav
+  - 02_Kick02_SFX.wav
+  - 03_Kick03.wav
+  - 04_Kick04.wav
+  - 05_Kick05.wav
+  - 06_Kick06_SFX.wav
+  - 07_Kick07_SFX.wav
+  - 08_SubBoom.wav
+  - 09_Snare01.wav
+  - 10_Snare02_SFX.wav
+  - 11_Snare03_808.wav
+  - 12_Snare04_SFX.wav
+  - 13_Snare05_808.wav
+  - 14_Snare06.wav
+  - 15_Snare07.wav
+  - 16_Snare08_SFX.wav
+  - 17_Snare09_SFX.wav
+  - 18_Snare10_SFX.wav
+  - 19_Claps01_SFX.wav
+  - 20_Claps02_SFX.wav
+  - 21_Claps03.wav
+  - 22_Claps04.wav
+  - 23_Claps05_SFX.wav
+  - 24_Hat01_808.wav
+  - 25_Hat02_808.wav
+  - 26_Hat03.wav
+  - 27_Hat04_SFX.wav
+  - 28_Hat05_SFX.wav
+  - 29_Toms01_SFX.wav
+  - 30_Toms02_SFX.wav
+  - 31_Toms03_808.wav
+  - 32_Bongo.wav
+  - 33_Shaker01.wav
+  - 34_Shaker02.wav
+  - 35_Chimes01_SFX.wav
+  - 36_Chimes02.wav
+  - 37_Clave.wav
+  - 38_Cowbell_808.wav
+SFX:
+  - 39_Cartoon_SFX.wav
+  - 40_NoiseSweep01.wav
+  - 41_NoiseSweep02.wav
+  - 42_NoiseSweep03.wav
+  - 43_NoiseSweep04_SFX.wav
+  - 44_NoiseSweep05_SFX.wav
+Bass:
+  - 45_Bass01.wav
+  - 46_Bass02.wav
+  - 47_Bass03.wav
+Synth:
+  - 48_Synth01.wav
+  - 49_Synth02.wav
+  - 50_Synth03_SFX.wav
+  - 51_Synth04.wav
+  - 52_Synth05_SFX.wav
+  - 53_Synth06.wav
+  - 54_Synth07.wav
+  - 55_Synth08_SFX.wav
+  - 56_Synth09_SFX.wav
+  - 57_Synth10a.wav
+  - 58_Synth10b.wav
+  - 59_Synth10c.wav
+  - 60_Synth10d.wav
+  - 61_Synth11_SFX.wav
+  - 62_Synth12_SFX.wav
+  - 63_Synth13_SFX.wav
+  - 64_Synth14_SFX.wav
+  - 65_Synth15_SFX.wav
+  - 66_Synth16.wav
+Piano:
+  - 67_Piano.wav
+Vox:
+  - 68_Vox01_SFX.wav
+  - 69_Vox02_SFX.wav
+  - 70_Vox03_SFX.wav
+  - 71_Vox04.wav

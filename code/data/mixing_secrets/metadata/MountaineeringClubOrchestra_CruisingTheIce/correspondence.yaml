@@ -1,0 +1,25 @@
+DR:
+  - 01_Loop.wav
+  - 02_Snare.wav
+  - 03_SFX1.wav
+  - 04_SFX2.wav
+BA:
+  - 05_BassMIDI.wav
+PN:
+  - 06_Piano.wav
+EG:
+  - 07_ElecGtr1.wav
+  - 08_ElecGtr2.wav
+  - 09_ElecGtr3.wav
+  - 10_ElecGtr4.wav
+  - 11_ElecGtr5.wav
+  - 12_ElecGtr6.wav
+  - 13_ElecGtr7.wav
+  - 14_ElecGtr8.wav
+SYN:
+  - 15_Synth.wav
+STR:
+  - 16_Strings.wav
+  - 17_ViolinMIDI.wav
+  - 18_ViolaMIDI.wav
+  - 19_CelloMIDI.wav

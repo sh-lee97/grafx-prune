@@ -1,0 +1,28 @@
+DR:
+  - 01_Drums.wav
+  - 02_Cymbals.wav
+BA:
+  - 03_Bass1.wav
+  - 04_Bass2.wav
+  - 05_PizzBass.wav
+GTR:
+  - 06_MIDIGtr.wav
+Mellotron:
+  - 07_Mellotron.wav
+SYN:
+  - 08_Synth1.wav
+  - 09_Synth2.wav
+  - 10_Synth3.wav
+STR:
+  - 11_Strings.wav
+Harp:
+  - 12_Harp.wav
+LV:
+  - 13_LeadVox.wav
+  - 14_LeadVoxDT.wav
+  - 15_LeadVoxKiddie.wav
+BV:
+  - 16_BackingVox1.wav
+  - 17_BackingVox2.wav
+  - 18_BackingVox3.wav
+  - 19_BackingVox4.wav

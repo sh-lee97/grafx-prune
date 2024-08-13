@@ -1,0 +1,20 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_HiHat.wav
+  - 04_Overheads.wav
+Bass:
+  - 05_Bass.wav
+AG:
+  - 06_AcousticGtrDI.wav
+  - 07_AcousticGtrMic.wav
+EG:
+  - 08_ElecGtr.wav
+Violin:
+  - 09_Violin1.wav
+  - 10_Violin2.wav
+LeadVox:
+  - 11_LeadVox.wav
+BackingVox:
+  - 12_BackingVox1.wav
+  - 13_BackingVox2.wav

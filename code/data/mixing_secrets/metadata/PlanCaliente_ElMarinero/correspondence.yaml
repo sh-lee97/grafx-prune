@@ -1,0 +1,42 @@
+Intro:
+  - 01_Intro.wav
+DR:
+  - 02_Kick.wav
+  - 03_Snare.wav
+  - 04_HiHat1.wav
+  - 05_HiHat2.wav
+  - 06_Claps.wav
+  - 07_Chimes.wav
+  - 08_Cowbell.wav
+  - 09_Vibraslap.wav
+  - 10_Percussion1.wav
+  - 11_Percussion2.wav
+SFX:
+  - 12_SFX1.wav
+  - 13_SFX2.wav
+  - 14_SFX3.wav
+BA:
+  - 15_Bass1.wav
+  - 16_Bass2.wav
+EG:
+  - 17_ElecGtr1.wav
+  - 18_ElecGtr2.wav
+  - 19_ElecGtr3.wav
+  - 20_ElecGtr4.wav
+AG:
+  - 21_AcousticGtr.wav
+Organ:
+  - 22_Organ.wav
+SYN:
+  - 23_Synth1.wav
+  - 24_Synth2.wav
+LV:
+  - 25_LeadVox.wav
+BV:
+  - 26_BackingVox1.wav
+  - 27_BackingVox2.wav
+  - 28_BackingVox3.wav
+  - 29_BackingVox4.wav
+  - 30_BackingVox5.wav
+  - 31_BackingVox6.wav
+  - 32_BackingVox7.wav

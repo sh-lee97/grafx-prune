@@ -1,0 +1,46 @@
+DR:
+  - 01_KickIn.wav
+  - 02_KickOut.wav
+  - 03_HiHat.wav
+  - 04_Overheads.wav
+  - 05_SnareUp.wav
+  - 06_SnareDown.wav
+  - 07_Tom1.wav
+  - 08_Tom2.wav
+  - 09_Tom3.wav
+  - 10_DrumsLeakage.wav
+  - 11_DrumsRoom.wav
+  - 12_Shaker.wav
+SFX:
+  - 13_SFX1.wav
+  - 14_SFX2.wav
+  - 15_SFX3.wav
+  - 16_SFX4.wav
+  - 17_SFX5.wav
+  - 18_SFX6.wav
+BA:
+  - 19_BassAmp.wav
+  - 20_BassDI.wav
+AG:
+  - 21_AcousticGtr.wav
+  - 22_AcousticGtrDT.wav
+EG:
+  - 23_ElecGtr1.wav
+  - 24_ElecGtr1DT.wav
+  - 25_ElecGtr2.wav
+  - 26_ElecGtr2DT.wav
+STR:
+  - 27_Strings.wav
+Organ:
+  - 28_Organ.wav
+SYN:
+  - 29_Synth.wav
+  - 30_Synth.wav
+LV:
+  - 31_LeadVox.wav
+  - 32_LeadVoxDT.wav
+BV:
+  - 33_BackingVox1.wav
+  - 34_BackingVox1DT.wav
+  - 35_BackingVox2.wav
+  - 36_BackingVox2DT.wav

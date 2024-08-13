@@ -1,0 +1,16 @@
+Congas:
+  - 01_Congas.wav
+Bass:
+  - 02_Bass1.wav
+  - 03_Bass2.wav
+Ukelele:
+  - 04_UkeleleMic.wav
+  - 05_UkeleleDI.wav
+Strings:
+  - 06_Violin.wav
+  - 07_Viola.wav
+  - 08_Cello.wav
+LeadVox:
+  - 09_LeadVox.wav
+BackingVox:
+  - 10_BackingVox.wav

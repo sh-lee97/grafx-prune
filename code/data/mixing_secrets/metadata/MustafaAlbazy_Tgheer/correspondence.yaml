@@ -1,0 +1,36 @@
+DR:
+  - 01_Kick.wav
+  - 02_Clap1.wav
+  - 03_Clap2.wav
+  - 04_ElecDrum1.wav
+  - 05_ElecDrum2.wav
+  - 06_ElecDrum3.wav
+  - 07_Snare1.wav
+  - 08_Snare2.wav
+  - 09_Snare3.wav
+  - 10_Hat.wav
+  - 11_Shaker.wav
+SFX:
+  - 12_SFX1.wav
+  - 13_SFX2.wav
+  - 14_SFX3.wav
+  - 15_SFX4.wav
+BA:
+  - 16_Bass1.wav
+  - 17_Bass2.wav
+SYN:
+  - 18_Synth01.wav
+  - 19_Synth02.wav
+  - 20_Synth03.wav
+  - 21_Synth04.wav
+  - 22_Synth05.wav
+  - 23_Synth06.wav
+  - 24_Synth07.wav
+  - 25_Synth08.wav
+  - 26_Synth09.wav
+  - 27_Synth10.wav
+  - 28_Synth11.wav
+  - 29_Synth12.wav
+  - 30_SynthSFX1.wav
+  - 31_SynthSFX2.wav
+  - 32_SynthSFX3.wav

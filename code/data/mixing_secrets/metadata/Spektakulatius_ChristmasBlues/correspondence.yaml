@@ -1,0 +1,18 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_Overheads.wav
+  - 04_Toms.wav
+Bass:
+  - 05_BassDI.wav
+ElecGtr:
+  - 06_ElecGtr01.wav
+Saxophone:
+  - 07_Saxophone.wav
+Piano:
+  - 08_Piano.wav
+LeadVox:
+  - 09_LeadVox.wav
+BackingVox:
+  - 10_BackingVox01.wav
+  - 11_BackingVox02.wav

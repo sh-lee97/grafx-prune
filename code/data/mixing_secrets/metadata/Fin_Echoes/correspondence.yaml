@@ -1,0 +1,22 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_HiHat.wav
+  - 04_Cymbal1.wav
+  - 05_Cymbal2.wav
+  - 06_Loop1.wav
+  - 07_Loop2.wav
+BA:
+  - 08_Bass.wav
+  - 09_BassSub.wav
+EG:
+  - 10_ElecGtr1.wav
+  - 11_ElecGtr2.wav
+  - 12_ElecGtr2DT.wav
+  - 13_ElecGtr3.wav
+  - 14_ElecPiano.wav
+Synth:
+  - 15_Synth1.wav
+  - 16_Synth2.wav
+Vox:
+  - 17_Vox.wav

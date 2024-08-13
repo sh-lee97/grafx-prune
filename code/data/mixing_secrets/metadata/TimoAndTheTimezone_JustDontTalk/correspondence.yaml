@@ -1,0 +1,33 @@
+DR:
+  - 01_Drumkit_Kick.wav
+  - 02_Drumkit_Overhead.wav
+  - 03_Bongos.wav
+  - 04_Chimes.wav
+  - 05_CymbalSwells.wav
+  - 06_Ride1.wav
+  - 07_Ride2.wav
+  - 08_Shaker.wav
+BA:
+  - 09_Bass1.wav
+  - 10_Bass2.wav
+EG:
+  - 11_ElecGtr1.wav
+  - 12_ElecGtr2.wav
+  - 13_ElecGtr3DI.wav
+  - 14_ElecGtr3Amp.wav
+  - 15_ElecPiano.wav
+LV:
+  - 16_LeadVox.wav
+  - 17_LeadVoxDTAdLib.wav
+Speech:
+  - 18_Speech.wav
+  - 19_Whisper.wav
+BV:
+  - 20_BackingVox1.wav
+  - 21_BackingVox2.wav
+  - 22_BackingVox3.wav
+  - 23_BackingVox4.wav
+  - 24_BackingVox5.wav
+  - 25_BackingVox6.wav
+  - 26_BackingVox7.wav
+  - 27_BackingVox8.wav

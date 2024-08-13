@@ -1,0 +1,15 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_Tom1.wav
+  - 04_Tom2.wav
+  - 05_Overheads.wav
+BA:
+  - 06_BassMic.wav
+  - 07_BassDI.wav
+PN:
+  - 08_Piano.wav
+Trumpet:
+  - 09_Trumpet.wav
+LV:
+  - 10_LeadVox.wav

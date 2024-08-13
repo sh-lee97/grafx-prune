@@ -1,0 +1,16 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_Overheads.wav
+  - 04_Tom1.wav
+  - 05_Tom2.wav
+BA:
+  - 06_BassDI.wav
+  - 07_BassAmp.wav
+EG:
+  - 08_ElecGtr1.wav
+  - 09_ElecGtr2.wav
+  - 10_ElecGtr3.wav
+LV:
+  - 11_LeadVox1.wav
+  - 12_LeadVox2.wav

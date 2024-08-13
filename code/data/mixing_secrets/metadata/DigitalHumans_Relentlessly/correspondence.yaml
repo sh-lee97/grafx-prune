@@ -1,0 +1,51 @@
+DR:
+  - 01_Kick1.wav
+  - 02_Kick2.wav
+  - 03_Kick3.wav
+  - 04_Snare.wav
+  - 05_HiHat1.wav
+  - 06_HiHat2.wav
+  - 07_Cymbals.wav
+  - 08_Ride.wav
+  - 09_Fills.wav
+SFX:
+  - 10_SFX1.wav
+  - 11_SFX2.wav
+  - 12_SFX3.wav
+PN:
+  - 13_Piano.wav
+  - 14_ReversePiano.wav
+SYN:
+  - 15_Synth01.wav
+  - 16_Synth02.wav
+  - 17_Synth03.wav
+  - 18_Synth04.wav
+  - 19_Synth05.wav
+  - 20_Synth06.wav
+  - 21_Synth07.wav
+  - 22_Synth08.wav
+  - 23_Synth09.wav
+  - 24_Synth10.wav
+  - 25_Synth11.wav
+  - 26_Synth12.wav
+  - 27_Synth13.wav
+  - 28_Synth14.wav
+  - 29_Synth15.wav
+  - 30_Synth16.wav
+  - 31_Synth17.wav
+  - 32_Synth18.wav
+  - 33_Synth19.wav
+  - 34_Synth20.wav
+  - 35_Synth21.wav
+  - 36_Synth22.wav
+  - 37_Synth23.wav
+  - 38_Synth24.wav
+LV:
+  - 39_LeadVox.wav
+BV:
+  - 40_BackingVox1.wav
+  - 41_BackingVox2.wav
+  - 42_BackingVox3.wav
+Speech:
+  - 43_Speech1.wav
+  - 44_Speech2.wav

@@ -1,0 +1,33 @@
+Drum:
+  - 01_MainLoop.wav
+  - 02_KickLayer1.wav
+  - 03_KickLayer2.wav
+  - 04_KickLayer3.wav
+  - 05_Snare.wav
+  - 06_HiHat.wav
+  - 07_Cymbal.wav
+  - 08_Shaker.wav
+  - 09_MetalHit.wav
+  - 10_Timpani.wav
+Bass:
+  - 11_Bass.wav
+Synth:
+  - 12_Synth.wav
+Strings:
+  - 13_Strings.wav
+Choir:
+  - 14_Choir.wav
+Harp:
+  - 15_Harp.wav
+SFX:
+  - 16_SFX01.wav
+  - 17_SFX02.wav
+  - 18_SFX03.wav
+  - 19_SFX04.wav
+  - 20_SFX05.wav
+  - 21_SFX06.wav
+  - 22_SFX07.wav
+  - 23_SFX08.wav
+  - 24_SFX09.wav
+  - 25_SFX10.wav
+  - 26_SFX11.wav

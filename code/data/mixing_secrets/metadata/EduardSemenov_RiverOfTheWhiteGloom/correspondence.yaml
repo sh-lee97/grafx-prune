@@ -1,0 +1,21 @@
+Cajon:
+  - 01_CajonMic1.wav
+  - 02_CajonMic2.wav
+Shaker:
+  - 03_Shaker.wav
+Bass:
+  - 04_Bass.wav
+AcGtr:
+  - 05_AcGtr.wav
+  - 06_AcGtrDI.wav
+Sample:
+  - 07_Sample1.wav
+  - 08_Sample2.wav
+Brass:
+  - 09_Trumpet.wav
+  - 10_MIDITrumpet.wav
+  - 11_MIDITrombone.wav
+  - 12_MIDITrombones.wav
+LeadVox:
+  - 13_LeadVox.wav
+  - 14_LeadVoxHarm.wav

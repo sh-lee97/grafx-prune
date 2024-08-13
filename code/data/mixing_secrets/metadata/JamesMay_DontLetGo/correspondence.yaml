@@ -1,0 +1,19 @@
+Percussion:
+  - 01_CongaMic1.wav
+  - 02_CongaMic2.wav
+  - 03_Shakers.wav
+  - 04_Cymbal.wav
+BA:
+  - 05_BassDI.wav
+  - 06_BassMic.wav
+AG:
+  - 07_AcousticGtr1.wav
+  - 08_AcousticGtr2.wav
+  - 09_AcousticGtr3.wav
+PN:
+  - 10_Piano.wav
+Flute:
+  - 11_Flute1.wav
+  - 12_Flute2.wav
+LV:
+  - 13_LeadVox.wav

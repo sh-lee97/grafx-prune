@@ -1,0 +1,82 @@
+DR:
+  - 01_Kick1.wav
+  - 02_Kick2.wav
+  - 03_Kick3.wav
+  - 04_Clap.wav
+  - 05_Congas.wav
+  - 06_Gidamba.wav
+  - 07_Diabara.wav
+  - 08_Percussion.wav
+  - 09_HiHat1.wav
+  - 10_HiHat2.wav
+  - 11_Snare1.wav
+  - 12_Snare2.wav
+  - 13_Snare3.wav
+  - 14_Crash.wav
+  - 15_Ride.wav
+SFX:
+  - 16_SFX01.wav
+  - 17_SFX02.wav
+  - 18_SFX03.wav
+  - 19_SFX04.wav
+  - 20_SFX05.wav
+  - 21_SFX06.wav
+  - 22_SFX07.wav
+  - 23_SFX08.wav
+  - 24_SFX09.wav
+  - 25_SFX10.wav
+  - 26_SFX11.wav
+  - 27_SFX12.wav
+  - 28_SFX13.wav
+  - 29_SFX14.wav
+  - 30_SFX15.wav
+BA:
+  - 31_BassLayer1.wav
+  - 32_BassLayer2.wav
+  - 33_BassLayer3.wav
+  - 34_BassLayer4.wav
+  - 35_BassLayer5.wav
+  - 36_BassLayer6.wav
+  - 37_BassLayer7.wav
+  - 38_BassLayer8.wav
+  - 39_BassLayer9.wav
+SYN:
+  - 40_Synth01.wav
+  - 41_Synth02.wav
+  - 42_Synth03.wav
+  - 43_Synth04.wav
+  - 44_Synth05.wav
+  - 45_Synth06.wav
+  - 46_Synth07.wav
+  - 47_Synth08.wav
+  - 48_Synth09.wav
+  - 49_Synth10.wav
+  - 50_Synth11.wav
+  - 51_Synth12.wav
+  - 52_Synth13.wav
+  - 53_Synth14.wav
+  - 54_Synth15.wav
+  - 55_Synth16.wav
+  - 56_Synth17.wav
+  - 57_Synth18.wav
+  - 58_Synth19.wav
+  - 59_Synth20.wav
+  - 60_Synth21.wav
+  - 61_Synth22.wav
+  - 62_Synth23.wav
+  - 63_Synth24.wav
+  - 64_Synth25.wav
+  - 65_Synth26.wav
+STR:
+  - 66_Strings.wav
+PN:
+  - 67_Piano1.wav
+  - 68_Piano2.wav
+  - 69_Piano3.wav
+  - 70_PianoStrings.wav
+Vox:
+  - 71_Vox1.wav
+  - 72_Vox2.wav
+  - 73_Vox3.wav
+  - 74_Vox4.wav
+  - 75_Vox5.wav

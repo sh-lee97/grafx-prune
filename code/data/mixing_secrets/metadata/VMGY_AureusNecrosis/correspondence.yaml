@@ -1,0 +1,38 @@
+DR:
+  - 01_Kick.wav
+  - 02_SnareUp.wav
+  - 03_SnareDown.wav
+  - 04_HiHat.wav
+  - 05_Tom1.wav
+  - 06_Tom2.wav
+  - 07_Tom3.wav
+  - 08_Tom4.wav
+  - 09_Tom5.wav
+  - 10_Overheads.wav
+  - 11_DrumsRoom.wav
+BA:
+  - 12_BassDI.wav
+EG:
+  - 13_ElecGtr1.wav
+  - 14_ElecGtr1DI.wav
+  - 15_ElecGtr1DT.wav
+  - 16_ElecGtr1DTDI.wav
+  - 17_ElecGtr2.wav
+  - 18_ElecGtr2DI.wav
+  - 19_ElecGtr3.wav
+  - 20_ElecGtr3DI.wav
+  - 21_ElecGtr4.wav
+  - 22_ElecGtr4DI.wav
+  - 23_ElecGtr5.wav
+  - 24_ElecGtr5DI.wav
+Bells:
+  - 25_Bells.wav
+Choir:
+  - 26_Choir1.wav
+  - 27_Choir2.wav
+Organ:
+  - 28_Organ.wav
+PN:
+  - 29_Piano.wav
+SYN:
+  - 30_Synth.wav

@@ -1,0 +1,14 @@
+Drum:
+  - 01_Kick1.wav
+  - 02_Kick2.wav
+  - 03_Snare.wav
+  - 04_Hat1.wav
+  - 05_Hat2.wav
+Sample:
+  - 06_Sample.wav
+LeadVox:
+  - 07_LeadVox.wav
+  - 08_LeadVoxDouble1.wav
+  - 09_LeadVoxDouble2.wav
+Scream:
+  - 10_Scream.wav

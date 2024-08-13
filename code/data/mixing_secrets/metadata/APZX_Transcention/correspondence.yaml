@@ -1,0 +1,34 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_HatOpen.wav
+  - 04_HatClosed1.wav
+  - 05_HatClosed2.wav
+  - 06_Clap.wav
+Percussion:
+  - 07_Percussion1.wav
+  - 08_Percussion2.wav
+  - 09_Percussion3.wav
+  - 10_Percussion4.wav
+  - 11_Percussion5.wav
+Bass:
+  - 12_Bass1.wav
+  - 13_Bass2.wav
+SynthArp:
+  - 14_SynthArp1.wav
+  - 15_SynthArp2.wav
+SynthLead:
+  - 16_SynthLead1.wav
+  - 17_SynthLead2.wav
+String:
+  - 18_Strings.wav
+ElectroChoir:
+  - 19_ElectroChoir.wav
+SFX:
+  - 20_SFX1.wav
+  - 21_SFX2.wav
+  - 22_SFX3.wav
+  - 23_SFX4.wav
+  - 24_SFX5.wav
+  - 25_SFX6.wav
+  - 26_SFX7.wav

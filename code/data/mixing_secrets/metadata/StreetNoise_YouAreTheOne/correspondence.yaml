@@ -1,0 +1,25 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_Overheads.wav
+  - 04_Cymbals.wav
+BA:
+  - 05_Bass.wav
+Conga:
+  - 06_Congas.wav
+EG:
+  - 07_ElecGtr1.wav
+  - 08_ElecGtr2.wav
+AG:
+  - 09_AccGtr.wav
+LV:
+  - 10_LeadVox.wav
+BV:
+  - 11_BackVox.wav
+Hammond:
+  - 12_HammondLeslieHi.wav
+  - 13_HammondLeslieLo.wav
+PN:
+  - 14_Piano.wav
+SYN:
+  - 15_Synth.wav

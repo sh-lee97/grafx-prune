@@ -1,0 +1,25 @@
+Bass:
+  - Bass-DI.wav
+Chamber:
+  - Chamber-Ar70.wav
+Drums:
+  - Drums-Hat-ELA M260.wav
+  - Drums-Kick Out-Cu29.wav
+  - Drums-Kick in-M82.wav
+  - Drums-Overhead-ELA M260.wav
+  - Drums-Ride-ELA M260.wav
+  - Drums-Snare Bottom-M81.wav
+  - Drums-Snare Top-M80.wav
+  - Drums-Tom1-M81.wav
+  - Drums-Tom2-M81.wav
+Guitar:
+  - Guitar-M81sh.wav
+Mandolin:
+  - Mandolin-DI.wav
+  - Mandolin-Mic-M60.wav
+Room:
+  - Room-M80.wav
+Vocals:
+  - Vocals-Amy-M80.wav
+  - Vocals-Byron-M80.wav
+  - Vocals-Dan-M80.wav

@@ -1,0 +1,52 @@
+DR:
+  - 01_Kick.wav
+  - 02_KickSub.wav
+  - 03_KickSample.wav
+  - 04_SnareUp.wav
+  - 05_SnareDown.wav
+  - 06_SnareSample.wav
+  - 07_HiHat.wav
+  - 08_Tom1.wav
+  - 09_Tom2.wav
+  - 10_Tom3.wav
+  - 11_Tom4.wav
+  - 12_Tom5.wav
+  - 13_Tom6.wav
+  - 14_Overheads.wav
+  - 15_Ride.wav
+  - 16_DrumsRoomClose.wav
+  - 17_DrumsRoomFar.wav
+BA:
+  - 18_BassDI.wav
+  - 19_BassAmp.wav
+EG:
+  - 20_ElecGtr1.wav
+  - 21_ElecGtr1DI.wav
+  - 22_ElecGtr1DT.wav
+  - 23_ElecGtr1DTDI.wav
+  - 24_ElecGtr2.wav
+  - 25_ElecGtr2DI.wav
+  - 26_ElecGtr2DT.wav
+  - 27_ElecGtr2DTDI.wav
+  - 28_ElecGtr3.wav
+  - 29_ElecGtr3DI.wav
+  - 30_ElecGtr4.wav
+  - 31_ElecGtr4DI.wav
+Accordion:
+  - 32_AccordionMic1.wav
+  - 33_AccordionMic2.wav
+  - 34_AccordionMic3.wav
+Choir:
+  - 35_Choir1.wav
+  - 36_Choir2.wav
+Organ:
+  - 37_Organ.wav
+LV:
+  - 38_LeadVox1.wav
+  - 39_LeadVox1DT1.wav
+  - 40_LeadVox1DT2.wav
+  - 41_LeadVox2.wav
+BV:
+  - 42_BackingVox1.wav
+  - 43_BackingVox2.wav
+  - 44_BackingVox2DT.wav

@@ -1,0 +1,35 @@
+Drum:
+  - 01_KickBass.wav
+  - 02_Clap.wav
+  - 03_HiHat1.wav
+  - 04_HiHat2.wav
+  - 05_Snare1.wav
+  - 06_Snare2.wav
+  - 07_Cymbal1.wav
+  - 08_Cymbal2.wav
+  - 09_Cymbal3.wav
+  - 10_Cymbal4.wav
+  - 11_Cymbal5.wav
+Percussion:
+  - 12_Percussion1.wav
+  - 13_Percussion2.wav
+  - 14_Percussion3.wav
+  - 15_Percussion4.wav
+  - 16_Percussion5.wav
+  - 17_Percussion6.wav
+  - 18_Percussion7.wav
+  - 19_Percussion8.wav
+SFX:
+  - 20_SFX1.wav
+  - 21_SFX2.wav
+  - 22_SFX3.wav
+  - 23_SFX4.wav
+Synth:
+  - 24_Synth1.wav
+  - 25_Synth2.wav
+Vox:
+  - 26_Vox1.wav
+  - 27_Vox2.wav
+  - 28_Vox3.wav
+  - 29_Vox4.wav
+  - 30_Vox5.wav

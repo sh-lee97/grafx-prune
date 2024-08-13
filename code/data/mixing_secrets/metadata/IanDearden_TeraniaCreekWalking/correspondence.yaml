@@ -1,0 +1,25 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_SnareSample.wav
+  - 04_HiHat.wav
+  - 05_Overheads.wav
+  - 06_Tom1.wav
+  - 07_Tom2.wav
+  - 08_Cymbal hit.wav
+  - 09_Percussion1.wav
+  - 10_Percussion2.wav
+  - 11_LoopSFX.wav
+SFX:
+  - 12_SFX1.wav
+  - 13_SFX2.wav
+BA:
+  - 14_Bass.wav
+SYN:
+  - 15_Synth1.wav
+  - 16_Synth2.wav
+  - 17_Synth3.wav
+Organ:
+  - 18_Organ.wav
+OrchestraHit:
+  - 19_OrchestraHit.wav

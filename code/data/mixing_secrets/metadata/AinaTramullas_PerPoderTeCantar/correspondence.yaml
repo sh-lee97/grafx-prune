@@ -1,0 +1,97 @@
+Drum:
+  - 01_KickIn.wav
+  - 02_KickOut.wav
+  - 03_KickSub.wav
+  - 04_KickSsmple.wav
+  - 05_SnareUp.wav
+  - 06_SnareDown.wav
+  - 07_KickSnare.wav
+  - 08_Tom1.wav
+  - 09_Tom2.wav
+  - 10_HiHat.wav
+  - 11_OverheadMono.wav
+  - 12_OverheadsStereo.wav
+  - 13_DrumsRoom.wav
+Percussion:
+  - 14_Cajon.wav
+  - 15_Llenties.wav
+  - 16_Pandero1.wav
+  - 17_Pandero1DT.wav
+  - 18_Pandero2.wav
+  - 19_Pandero2DT.wav
+  - 20_Ivo1.wav
+  - 21_Ivo2.wav
+  - 22_Claps1.wav
+  - 23_Claps2.wav
+  - 24_Stomps.wav
+  - 25_Clonk.wav
+  - 26_Glup.wav
+  - 27_Tambourine.wav
+SFX:
+  - 28_SFX1.wav
+  - 29_SFX2.wav
+  - 30_SFX3.wav
+  - 31_SFX4.wav
+  - 32_SFX5.wav
+  - 33_SFX6.wav
+  - 34_SFX7.wav
+Bass:
+  - 35_BassDI.wav
+Piano:
+  - 36_PianoMics1.wav
+  - 37_PianoMic2.wav
+  - 38_PianoMic3.wav
+Hammond:
+  - 39_Hammond1.wav
+  - 40_Hammond2.wav
+  - 41_Hammond3.wav
+Synth:
+  - 42_Synth1.wav
+  - 43_Synth2.wav
+  - 44_Synth3.wav
+  - 45_Synth4.wav
+LeadVox:
+  - 46_LeadVox.wav
+BackingVox:
+  - 47_BackingVox01.wav
+  - 48_BackingVox01DT.wav
+  - 49_BackingVox02.wav
+  - 50_BackingVox02DT.wav
+  - 51_BackingVox03.wav
+  - 52_BackingVox04.wav
+  - 53_BackingVox05.wav
+  - 54_BackingVox06.wav
+  - 55_BackingVox07.wav
+  - 56_BackingVox08.wav
+  - 57_BackingVox09.wav
+  - 58_BackingVox10.wav
+  - 59_BackingVox11.wav
+  - 60_BackingVox12.wav
+  - 61_BackingVox13.wav
+  - 62_BackingVox14.wav
+  - 63_BackingVox15.wav
+  - 64_BackingVox15DT1.wav
+  - 65_BackingVox15DT2.wav
+  - 66_BackingVox15DT3.wav
+  - 67_BackingVox16.wav
+  - 68_BackingVox16DT1.wav
+  - 69_BackingVox16DT2.wav
+  - 70_BackingVox16DT3.wav
+  - 71_BackingVox17.wav
+  - 72_BackingVox17DT1.wav
+  - 73_BackingVox17DT2.wav
+  - 74_BackingVox17DT3.wav
+  - 75_BackingVox18.wav
+  - 76_BackingVox18DT.wav
+  - 77_BackingVox19.wav
+  - 78_BackingVox19DT.wav
+  - 79_BackingVox20.wav
+  - 80_BackingVox20DT.wav
+  - 81_BackingVox21.wav
+  - 82_BackingVox21DT.wav
+  - 83_BackingVox22.wav
+  - 84_BackingVox22DT.wav
+  - 85_BackingVox23.wav
+  - 86_BackingVox23DT.wav
+  - 87_BackingVox24.wav
+  - 88_BackingVox24DT.wav

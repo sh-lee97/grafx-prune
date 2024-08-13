@@ -1,0 +1,16 @@
+Drum:
+  - 01_Kick.wav
+  - 02_SnareUp.wav
+  - 03_SnareDown.wav
+  - 04_SidestickSample.wav
+  - 05_Tom.wav
+  - 06_Overheads.wav
+Bass:
+  - 07_Bass.wav
+ElecGtr:
+  - 08_ElecGtr1.wav
+  - 09_ElecGtr2.wav
+  - 10_ElecGtr3.wav
+  - 11_ElecGtr4.wav
+LeadVox:
+  - 12_LeadVox.wav

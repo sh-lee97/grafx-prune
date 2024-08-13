@@ -1,0 +1,21 @@
+Drum:
+  - DRUMS - Kick In - M81-SH.wav
+  - DRUMS - Kick Out - M82.wav
+  - DRUMS - Overheads - M60.L.wav
+  - DRUMS - Overheads - M60.R.wav
+  - DRUMS - Snare - M80-SH.wav
+  - DRUMS - TOM 1- M81-SH.wav
+  - DRUMS - TOM 2 - M81-SH.wav
+Guitar:
+  - GUITAR - CU-29.wav
+  - GUITAR - M81-SH.wav
+Key:
+  - KEY DI.wav
+  - ORGAN LEFT - M80-SH.wav
+  - ORGAN LOW - M82.wav
+  - ORGAN RIGHT - M80-SH.wav
+Room:
+  - ROOM LEFT - M81.wav
+  - ROOM RIGHT - M81.wav
+Vox:
+  - VOX - M80-SH.wav

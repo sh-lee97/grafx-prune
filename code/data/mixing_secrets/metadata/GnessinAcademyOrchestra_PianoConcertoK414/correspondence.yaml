@@ -1,0 +1,16 @@
+Main:
+  - 01_MainPair.wav
+Out:
+  - 02_OutriggerPair.wav
+Hall:
+  - 03_HallPair.wav
+Piano:
+  - 04_SpotPair_Piano.wav
+Woodwind:
+  - 05_SpotPair_Woodwind.wav
+String:
+  - 06_Spot_Violin1.wav
+  - 07_Spot_Violin2.wav
+  - 08_Spot_Viola.wav
+  - 09_Spot_Cello.wav
+  - 10_Spot_Bass.wav

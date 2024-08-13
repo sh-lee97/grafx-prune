@@ -1,0 +1,61 @@
+Drum:
+  - 01_DrumMachine.wav
+  - 02_Kick.wav
+  - 03_KickSample.wav
+  - 04_Snare.wav
+  - 05_SnareSample1.wav
+  - 06_SnareSample2.wav
+  - 07_HiHat.wav
+  - 08_Tom1.wav
+  - 09_Tom2.wav
+  - 10_Cymbal.wav
+  - 11_CymbalSample1.wav
+  - 12_CymbalSample2.wav
+  - 13_DrumsRoom.wav
+Percussion:
+  - 14_Shaker.wav
+  - 15_SleighBells.wav
+  - 16_Tambourine.wav
+  - 17_Hand Claps.wav
+Bass:
+  - 18_Bass.wav
+AcousticGtr:
+  - 19_AcousticGtr1.wav
+  - 20_AcousticGtr2.wav
+  - 21_Rhythm Gtr.wav
+Keys:
+  - 22_Piano.wav
+  - 23_Organ.wav
+  - 24_Keyboard.wav
+  - 25_PianoSFX.wav
+  - 26_Glockenspiel.wav
+String:
+  - 27_Violin1.wav
+  - 28_Violin2.wav
+  - 29_Viola.wav
+  - 30_Cello.wav
+  - 31_StringsMix.wav
+  - 32_StringsTunedMix.wav
+  - 33_ViolinSamples.wav
+  - 34_ViolaSamples.wav
+  - 35_CelloSamples1.wav
+  - 36_CelloSamples2.wav
+Brass:
+  - 37_TrumpetSamples.wav
+  - 38_FrenchHornSamples.wav
+Harmonica:
+  - 39_Harmonica.wav
+LeadVox:
+  - 40_Lead Vox.wav
+BackingVox:
+  - 41_BackingVox1.wav
+  - 42_BackingVox2.wav
+  - 43_BackingVox3.wav
+  - 44_BackingVox4.wav
+  - 45_BackingVox5.wav
+  - 46_BackingVox6.wav
+  - 47_BackingVox4.wav
+  - 48_BackingVox7.wav
+  - 49_BackingVox8.wav
+  - 50_BackingVox7.wav
+  - 51_BackingVox8.wav

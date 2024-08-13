@@ -1,0 +1,22 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_Sidestick.wav
+  - 04_Clap1.wav
+  - 05_Clap2.wav
+  - 06_HiHat.wav
+  - 07_HiHat.wav
+Piano:
+  - 08_Piano.wav
+Vox:
+  - 09_Vox1.wav
+  - 10_Vox2.wav
+  - 11_Vox3.wav
+  - 12_Vox4.wav
+  - 13_Vox5.wav
+  - 14_Vox6.wav
+  - 15_Vox7.wav
+  - 16_Vox8.wav
+VoxFX:
+  - 17_VoxFX1.wav
+  - 18_VoxFX2.wav

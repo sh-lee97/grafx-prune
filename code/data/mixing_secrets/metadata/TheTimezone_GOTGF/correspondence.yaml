@@ -1,0 +1,63 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_HiHat.wav
+  - 04_Drumkit_KickIn.wav
+  - 05_Drumkit_SnareUp.wav
+  - 06_Drumkit_Overhead.wav
+BA:
+  - 07_Bass.wav
+EG:
+  - 08_ElecGtrDI.wav
+  - 09_ElecGtrDI.wav
+  - 10_ElecGtrDI.wav
+  - 11_ElecGtrDI.wav
+Clavinet:
+  - 12_Clavinet.wav
+SYN:
+  - 13_Synth.wav
+  - 14_Synth.wav
+  - 15_Synth.wav
+STR:
+  - 16_MIDIStrings.wav
+Guitar:
+  - 17_MIDIGuitar.wav
+LV:
+  - 18_LeadVox.wav
+BV:
+  - 19_BackingVox01.wav
+  - 20_BackingVox02.wav
+  - 21_BackingVox03.wav
+  - 22_BackingVox03SFX.wav
+  - 23_BackingVox04a.wav
+  - 24_BackingVox04b.wav
+  - 25_BackingVox05.wav
+  - 26_BackingVox06a.wav
+  - 27_BackingVox06b.wav
+  - 28_BackingVox07.wav
+  - 29_BackingVox08.wav
+  - 30_BackingVox09a.wav
+  - 31_BackingVox09b.wav
+  - 32_BackingVox10a.wav
+  - 33_BackingVox10b.wav
+  - 34_BackingVox11.wav
+  - 35_BackingVox12.wav
+  - 36_BackingVox13.wav
+  - 37_BackingVox14.wav
+  - 38_BackingVox15a.wav
+  - 39_BackingVox15b.wav
+  - 40_BackingVox15c.wav
+  - 41_BackingVox16a.wav
+  - 42_BackingVox16b.wav
+  - 43_BackingVox16c.wav
+  - 44_BackingVox17.wav
+  - 45_BackingVox18.wav
+  - 46_BackingVox19.wav
+  - 47_BackingVox20.wav
+  - 48_BackingVox21a.wav
+  - 49_BackingVox21b.wav
+  - 50_BackingVox22a.wav
+  - 51_BackingVox22b.wav
+  - 52_BackingVox23a.wav
+  - 53_BackingVox23b.wav
+  - 54_BackingVox23c.wav

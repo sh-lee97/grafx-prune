@@ -1,0 +1,38 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_HiHat.wav
+  - 04_Ride.wav
+  - 05_Tom1.wav
+  - 06_Tom2.wav
+  - 07_Tom3.wav
+  - 08_Overheads.wav
+  - 09_DrumsRoom.wav
+  - 10_Chimes.wav
+  - 11_Reverse Cymbal.wav
+Bass:
+  - 12_Bass.wav
+ElecGtr:
+  - 13_ElecGtr1.wav
+  - 14_ElecGtr2.wav
+  - 15_ElecGtr3.wav
+  - 16_ElecGtr3DT.wav
+  - 17_ElecGtr4.wav
+  - 18_ElecGtr5.wav
+  - 19_ElecGtr5DT.wav
+LeadVox:
+  - 20_LeadVox.wav
+  - 21_LeadVoxDT1.wav
+  - 22_LeadVoxDT2.wav
+BackingVox:
+  - 23_BackingVox1.wav
+  - 24_BackingVox2.wav
+  - 25_BackingVox3.wav
+  - 26_BackingVox4.wav
+  - 27_BackingVox5.wav
+  - 28_BackingVox6.wav
+  - 29_BackingVox6DT1.wav
+  - 30_BackingVox6DT2.wav
+  - 31_BackingVox6DT3.wav
+  - 32_BackingVox6DT4.wav
+  - 33_BackingVox6DT5.wav

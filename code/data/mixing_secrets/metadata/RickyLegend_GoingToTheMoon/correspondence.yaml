@@ -1,0 +1,37 @@
+DR:
+  - 01_Loop1.wav
+  - 02_Loop2.wav
+  - 03_Loop3.wav
+  - 04_HiHat.wav
+  - 05_Congas.wav
+  - 06_Percussion.wav
+SFX:
+  - 07_SFX.wav
+  - 08_VinylNoise1.wav
+  - 09_VinylNoise2.wav
+BA:
+  - 10_Bass.wav
+EG:
+  - 11_ElecGtr1.wav
+  - 12_ElecGtr2.wav
+  - 13_ElecGtr3.wav
+  - 14_ElecGtr4.wav
+  - 15_ElecGtr5.wav
+  - 16_ElecGtr6.wav
+  - 17_ElecGtrSFX1.wav
+  - 18_ElecGtrSFX2.wav
+STR:
+  - 19_Strings.wav
+PN:
+  - 20_Piano.wav
+EP:
+  - 21_ElecPiano.wav
+SYN:
+  - 22_Synth1.wav
+  - 23_Synth2.wav
+  - 24_Synth3.wav
+  - 25_Synth4.wav
+  - 26_Synth5.wav
+  - 27_Synth6.wav
+LV:
+  - 28_LeadVox.wav

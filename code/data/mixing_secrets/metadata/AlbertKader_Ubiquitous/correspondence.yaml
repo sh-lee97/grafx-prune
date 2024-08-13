@@ -1,0 +1,16 @@
+Drum:
+  - 01_Kick.wav
+  - 02_HiHat1.wav
+  - 03_HiHat2.wav
+  - 04_Claps.wav
+SFX:
+  - 05_SFX1.wav
+  - 06_SFX2.wav
+Shakers:
+  - 07_Shakers.wav
+Bass:
+  - 08_Bass.wav
+Synth:
+  - 09_Synth1_Unmodulated.wav
+  - 10_Synth2_PitchModulated.wav
+  - 11_Synth2.wav

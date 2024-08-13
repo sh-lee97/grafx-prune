@@ -1,0 +1,45 @@
+Drum:
+  - 01_Kick.wav
+  - 02_SnareUp.wav
+  - 03_SnareDown.wav
+  - 04_HiHat.wav
+  - 05_Tom1.wav
+  - 06_Tom2.wav
+  - 07_OverheadsMono.wav
+  - 08_OverheadsStereo.wav
+  - 09_DrumsRoomMono.wav
+  - 10_Timpani.wav
+  - 11_CymbalRoll.wav
+SFX:
+  - 12_SFX.wav
+Bass:
+  - 13_Bass.wav
+ElecGtr:
+  - 14_ElecGtr1.wav
+  - 15_ElecGtr1DT.wav
+  - 16_ElecGtr2.wav
+  - 17_ElecGtr2DT.wav
+  - 18_ElecGtr3.wav
+  - 19_ElecGtr3DT.wav
+  - 20_ElecGtr4.wav
+  - 21_ElecGtr4FX.wav
+Synth:
+  - 22_Synth1.wav
+  - 23_Synth2.wav
+  - 24_Synth3.wav
+Strings:
+  - 25_Violins1.wav
+  - 26_Violins2.wav
+  - 27_Violas.wav
+  - 28_Cellos.wav
+Flute:
+  - 29_Flute1.wav
+  - 30_Flute2.wav
+Brass:
+  - 31_Horn1.wav
+  - 32_Horn2.wav
+  - 33_Trumpet_1.wav
+  - 34_Trumpet_2.wav
+  - 35_Trombone_1.wav
+  - 36_Trombone_2.wav
+  - 37_BassTrombone.wav

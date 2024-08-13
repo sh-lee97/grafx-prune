@@ -1,0 +1,14 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_Overheads.wav
+  - 04_Toms.wav
+Bass:
+  - 05_BassMic.wav
+  - 06_BassDI.wav
+Sax:
+  - 07_Sax.wav
+Piano:
+  - 08_Piano.wav
+LeadVox:
+  - 09_LeadVox.wav

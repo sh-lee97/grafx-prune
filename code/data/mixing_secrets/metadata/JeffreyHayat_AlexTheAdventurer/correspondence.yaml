@@ -1,0 +1,44 @@
+DR:
+  - 01_BassDrum.wav
+  - 02_OutroHit.wav
+  - 03_TimpaniHits.wav
+  - 04_TimpaniRolls.wav
+  - 05_SnareDrum.wav
+  - 06_Cymbals.wav
+Bells:
+  - 07_TriangleAndChimes.wav
+  - 08_Bells.wav
+PN:
+  - 09_Piano.wav
+Harp:
+  - 10_Harp.wav
+Xylophone:
+  - 11_Xylophone.wav
+Glockenspiel:
+  - 12_Glockenspiel.wav
+Sring:
+  - 13_Basses.wav
+  - 14_CellosAndBassesSpiccato.wav
+  - 15_CellosLegatoAndTrills.wav
+  - 16_ViolasStaccato.wav
+  - 17_ViolasTrills.wav
+  - 18_ViolinsLegato.wav
+  - 19_ViolinsStaccato.wav
+Brass:
+  - 20_BrassStaccatoHi.wav
+  - 21_BrassStaccatoLo.wav
+  - 22_BrassCrescendo.wav
+  - 23_Tuba.wav
+  - 24_Trombones.wav
+  - 25_Horns.wav
+  - 26_Horns.wav
+  - 27_Trumpets.wav
+Woodwind:
+  - 28_WoodwindStaccato.wav
+  - 29_WoodwindRuns.wav
+  - 30_ContraBassoon.wav
+  - 31_Bassoon.wav
+  - 32_Clarinet.wav
+  - 33_Oboes.wav
+  - 34_Flutes.wav
+  - 35_Piccolo.wav

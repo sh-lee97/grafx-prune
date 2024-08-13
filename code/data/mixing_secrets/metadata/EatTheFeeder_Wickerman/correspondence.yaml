@@ -1,0 +1,55 @@
+DR:
+  - 01_KickMic1.wav
+  - 02_KickMic2.wav
+  - 03_KickSample.wav
+  - 04_SnareUp.wav
+  - 05_SnareUp.wav
+  - 06_SnareDown.wav
+  - 07_SnareSide.wav
+  - 08_SnareSample1.wav
+  - 09_SnareSample2.wav
+  - 10_Tom1.wav
+  - 11_Tom2.wav
+  - 12_HHat.wav
+  - 13_Ride.wav
+  - 14_Overheads.wav
+  - 15_DrumsRoom.wav
+  - 16_DrumsSquash.wav
+BA:
+  - 17_BassDI.wav
+  - 18_BassAmp1.wav
+  - 19_BassAmp2.wav
+  - 20_BassAmp3.wav
+EG:
+  - 21_ElecGtr1DI.wav
+  - 22_ElecGtr1Amp1.wav
+  - 23_ElecGtr1Amp2.wav
+  - 24_ElecGtr2DI.wav
+  - 25_ElecGtr2Amp1.wav
+  - 26_ElecGtr2Amp2.wav
+  - 27_ElecGtr3DI.wav
+  - 28_ElecGtr3Amp1.wav
+  - 29_ElecGtr3Amp2.wav
+  - 30_ElecGtr4DI.wav
+  - 31_ElecGtr4Amp.wav
+  - 32_ElecGtr5DI.wav
+  - 33_ElecGtr5Amp.wav
+  - 34_ElecGtr6DI.wav
+  - 35_ElecGtr6Amp1.wav
+  - 36_ElecGtr6Amp2.wav
+  - 37_ElecGtr7DI.wav
+  - 38_ElecGtr7Amp.wav
+  - 39_ElecGtr8DI.wav
+  - 40_ElecGtr9DI.wav
+  - 41_ElecGtr9Amp.wav
+Vox:
+  - 42_Vox1.wav
+  - 43_Vox1DT.wav
+  - 44_Vox2.wav
+  - 45_Vox3.wav
+  - 46_Vox3DT.wav
+  - 47_Vox4.wav
+  - 48_Vox4DT1.wav
+  - 49_Vox4DT2.wav
+  - 50_Vox5.wav
+  - 51_Vox6.wav

@@ -1,0 +1,33 @@
+DR:
+  - 01_Kick.wav
+  - 02_KickTrigger.wav
+  - 03_Snare.wav
+  - 04_SnareTrigger.wav
+  - 05_Tom1.wav
+  - 06_Tom2.wav
+  - 07_Tom3.wav
+  - 08_Tom4.wav
+  - 09_Overheads.wav
+BA:
+  - 10_Bass1DI.wav
+  - 11_Bass1Mic1.wav
+  - 12_Bass1Mic2.wav
+  - 13_Bass2DI.wav
+  - 14_Bass2Mic1.wav
+  - 15_Bass2Mic2.wav
+EG:
+  - 16_ElecGtr01DI.wav
+  - 17_ElecGtr01Mic1.wav
+  - 18_ElecGtr01Mic2.wav
+  - 19_ElecGtr01DTDI.wav
+  - 20_ElecGtr01DTMic1.wav
+  - 21_ElecGtr01DTMic2.wav
+  - 22_ElecGtr02DI.wav
+  - 23_ElecGtr02DIMic1.wav
+  - 24_ElecGtr02DIMic2.wav
+  - 25_ElecGtr02DTDI.wav
+  - 26_ElecGtr02DTMic1.wav
+  - 27_ElecGtr02DTMic2.wav
+LV:
+  - 28_LeadVox.wav
+  - 29_LeadVoxDT.wav

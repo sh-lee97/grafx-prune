@@ -1,0 +1,23 @@
+DR:
+  - 01_Drums.wav
+SFX:
+  - 02_SFX.wav
+BA:
+  - 03_Bass.wav
+Kalimba:
+  - 04_Kalimba.wav
+Organ:
+  - 05_Organ.wav
+LV:
+  - 06_LeadVox.wav
+BV:
+  - 07_BackingVox1.wav
+  - 08_BackingVox1DT.wav
+  - 09_BackingVox2.wav
+  - 10_BackingVox2DT.wav
+  - 11_BackingVox3.wav
+  - 12_BackingVox3DT.wav
+  - 13_BackingVox4.wav
+  - 14_BackingVox4DT.wav
+  - 15_BackingVox5.wav
+  - 16_BackingVox5DT.wav

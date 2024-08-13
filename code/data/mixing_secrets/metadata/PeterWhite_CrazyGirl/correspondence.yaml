@@ -1,0 +1,47 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_HiHat.wav
+  - 04_Ride.wav
+  - 05_Tambourine.wav
+  - 06_Cymbals.wav
+BA:
+  - 07_BassDI.wav
+AG:
+  - 08_AcousticGtr1.wav
+  - 09_AcousticGtr2.wav
+EG:
+  - 10_ElecGtr1.wav
+  - 11_ElecGtr2DI.wav
+  - 12_ElecGtr1DT1.wav
+  - 13_ElecGtr2DIDT1.wav
+  - 14_ElecGtr1DT2.wav
+  - 15_ElecGtr2DIDT2.wav
+  - 16_ElecGtr1DT3.wav
+  - 17_ElecGtr2DIDT3.wav
+  - 18_ElecGtr1DT4.wav
+  - 19_ElecGtr2DIDT4.wav
+  - 20_ElecGtr3.wav
+PN:
+  - 21_Piano.wav
+EP:
+  - 22_ElecPiano1.wav
+  - 23_ElecPiano2.wav
+Hammond:
+  - 24_Hammond.wav
+SYN:
+  - 25_Synth1.wav
+  - 26_Synth2.wav
+LV:
+  - 27_LeadVox.wav
+BV:
+  - 28_BackingVox1.wav
+  - 29_BackingVox2.wav
+  - 30_BackingVox3.wav
+  - 31_BackingVox4.wav
+  - 32_BackingVox5.wav
+  - 33_BackingVox6.wav
+  - 34_BackingVox7.wav
+  - 35_BackingVox7DT.wav
+  - 36_BackingVox8.wav
+  - 37_BackingVox8DT.wav

@@ -1,0 +1,25 @@
+BA:
+  - Bass-DI.wav
+DR:
+  - Drums-Kick Out-Cu29.wav
+  - Drums-Kick in-M82.wav
+  - Drums-Over-M60.wav
+  - Drums-Snare Bot-M81.wav
+  - Drums-Snare Top-M80.wav
+  - Drums-Tom1-M81.wav
+  - Drums-Tom2-M81.wav
+Guitar:
+  - Guitar-Cu29.wav
+  - Guitar-M81.wav
+Horms:
+  - Horns-Bone-M82.wav
+  - Horns-Sax-M82.wav
+  - Horns-Trumpet-M81.wav
+Percussion:
+  - Percussion-M81.wav
+  - Percussion2-M81.wav
+Bone:
+  - BONE_06-08.wav
+Room:
+  - Room-ELA M260.wav
+  - Chamber-M60.wav

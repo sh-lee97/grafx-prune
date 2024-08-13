@@ -1,0 +1,27 @@
+DR:
+  - 01_KickIn.wav
+  - 02_KickOut.wav
+  - 03_Snare.wav
+  - 04_HiHat.wav
+  - 05_Tom1.wav
+  - 06_Tom2.wav
+  - 07_Overheads.wav
+Percussion:
+  - 08_Cowbell.wav
+  - 09_Congas.wav
+  - 10_Shaker.wav
+  - 11_Tambourine.wav
+BA:
+  - 12_Bass.wav
+SYN:
+  - 13_Synth1.wav
+  - 14_Synth2.wav
+  - 15_Synth3.wav
+  - 16_Synth4.wav
+EG:
+  - 17_ElecGtr.wav
+Hammond:
+  - 18_Hammond.wav
+EP:
+  - 19_ElecPiano1.wav
+  - 20_ElecPiano2.wav

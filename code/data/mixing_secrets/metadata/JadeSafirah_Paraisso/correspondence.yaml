@@ -1,0 +1,33 @@
+DR:
+  - 01_Kick1.wav
+  - 02_Kick2.wav
+  - 03_Snare.wav
+  - 04_Claps1.wav
+  - 05_Claps2.wav
+  - 06_Hihat1.wav
+  - 07_HiHat2.wav
+  - 08_Pandeiro1.wav
+  - 09_Pandeiro2.wav
+  - 10_CymbalSwells.wav
+  - 11_Loop.wav
+SFX:
+  - 12_SFX.wav
+BA:
+  - 13_Bass.wav
+EG:
+  - 14_ElecGtr.wav
+LV:
+  - 15_LeadVox.wav
+  - 16_LeadVoxHarm.wav
+VoxSFX:
+  - 17_VoxSFX1.wav
+  - 18_VoxSFX2.wav
+PN:
+  - 19_Piano.wav
+SYN:
+  - 20_Synth1.wav
+  - 21_Synth2.wav
+  - 22_Synth3.wav
+  - 23_Synth4.wav
+  - 24_Synth5.wav
+  - 25_Synth6.wav

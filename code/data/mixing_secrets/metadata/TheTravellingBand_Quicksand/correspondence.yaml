@@ -1,0 +1,44 @@
+Drum:
+  - 01_KickClose.wav
+  - 02_KickFar.wav
+  - 03_KickSub.wav
+  - 04_SnareUp.wav
+  - 05_SnareDown.wav
+  - 06_HiHat.wav
+  - 07_Overheads.wav
+  - 08_Tom1.wav
+  - 09_Tom2.wav
+  - 10_Tom3.wav
+  - 11_Room.wav
+  - 12_Tambourine.wav
+Bass:
+  - 13_BassDI.wav
+ElecGtr:
+  - 14_ElecGtr1Close.wav
+  - 15_ElecGtrFar.wav
+  - 16_ElecGtr1DI.wav
+  - 17_ElecGtr2Close.wav
+  - 18_ElecGtr2Far.wav
+  - 19_ElecGtr2DI.wav
+  - 20_ElecGtr3Close.wav
+  - 21_ElecGtr3Far.wav
+  - 22_ElecGtr3DI.wav
+Hammond:
+  - 23_HammondLeslieLo.wav
+  - 24_HammondLeslieHi.wav
+Organ:
+  - 25_Organ.wav
+Mellotron:
+  - 26_MellotronFlute.wav
+LeadVox:
+  - 27_LeadVox.wav
+  - 28_LeadVoxFX.wav
+BackingVox:
+  - 29_BackingVox1.wav
+  - 30_BackingVox2.wav
+  - 31_BackingVox3.wav
+Intro:
+  - 32_IntroClose1.wav
+  - 33_IntroClose2.wav
+  - 34_IntroFar1.wav
+  - 35_IntroFar2.wav

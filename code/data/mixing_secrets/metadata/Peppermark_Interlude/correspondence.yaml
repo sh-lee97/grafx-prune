@@ -1,0 +1,62 @@
+Drum:
+  - 01_Kick.wav
+  - 02_KickSample1.wav
+  - 03_KickSample2.wav
+  - 04_KickSFX.wav
+  - 05_Snare.wav
+  - 06_SnareSample.wav
+  - 07_SnareAmb.wav
+  - 08_SnareSFX.wav
+  - 09_ReversedSnare.wav
+  - 10_Tom1.wav
+  - 11_Tom2.wav
+  - 12_Tom3.wav
+  - 13_Tom4.wav
+  - 14_Overheads.wav
+  - 15_DrumsRoom.wav
+  - 16_ReverseCymbals.wav
+  - 17_Gunshot.wav
+  - 18_DrumsBreak.wav
+Bass:
+  - 19_BassDI.wav
+  - 20_BassAmp.wav
+  - 21_BassAmpDist.wav
+ElecGtr:
+  - 22_ElecGtr01.wav
+  - 23_ElecGtr01DI.wav
+  - 24_ElecGtr02.wav
+  - 25_ElecGtr02DI.wav
+  - 26_ElecGtr02DT.wav
+  - 27_ElecGtr02DTDI.wav
+  - 28_ElecGtr03.wav
+  - 29_ElecGtr03DI.wav
+  - 30_ElecGtr03DT.wav
+  - 31_ElecGtr03DTDI.wav
+  - 32_ElecGtr04.wav
+  - 33_ElecGtr04DI.wav
+  - 34_ElecGtr04DT.wav
+  - 35_ElecGtr04DTDI.wav
+  - 36_ElecGtr05.wav
+  - 37_ElecGtr05DI.wav
+  - 38_ElecGtr06.wav
+  - 39_ElecGtr06DI.wav
+  - 40_ElecGtr07.wav
+  - 41_ElecGtr07DI.wav
+  - 42_ElecGtr07DT.wav
+  - 43_ElecGtr07DTDI.wav
+  - 44_ElecGtr08.wav
+  - 45_ElecGtr08DI.wav
+  - 46_ElecGtr09.wav
+  - 47_ElecGtr09DI.wav
+  - 48_ElecGtr10.wav
+  - 49_ElecGtr10DI.wav
+Piano:
+  - 50_Piano.wav
+Choir:
+  - 51_Choir.wav
+Violas:
+  - 52_Violas.wav
+Bells:
+  - 53_Bells.wav
+Strings:
+  - 54_StringsPizzicato.wav

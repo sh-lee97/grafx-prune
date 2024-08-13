@@ -1,0 +1,29 @@
+DR:
+  - 01_Kick1.wav
+  - 02_Kick2.wav
+  - 03_Snare1.wav
+  - 04_Snare2.wav
+  - 05_Percussion1.wav
+  - 06_Percussion2.wav
+SFX:
+  - 07_SFX1.wav
+  - 08_SFX2.wav
+  - 09_SFX3.wav
+  - 10_SFX4.wav
+  - 11_SFX5.wav
+  - 12_SFX6.wav
+  - 13_SFX7.wav
+  - 14_SFX8.wav
+  - 15_SFX9.wav
+BA:
+  - 16_Bass.wav
+Sample:
+  - 17_Sample.wav
+SYN:
+  - 18_Synth1.wav
+  - 19_Synth2.wav
+  - 20_Synth3.wav
+Vox:
+  - 21_Vox1Dry.wav
+  - 22_Vox2Dry.wav
+  - 23_VoxBothSFX.wav

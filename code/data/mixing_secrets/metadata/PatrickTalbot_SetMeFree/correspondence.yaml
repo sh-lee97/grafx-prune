@@ -1,0 +1,30 @@
+Drum:
+  - 01_KickIn.wav
+  - 02_KickOut.wav
+  - 03_SnareUp.wav
+  - 04_SnareDown.wav
+  - 05_HiHat.wav
+  - 06_Tom1.wav
+  - 07_Tom2.wav
+  - 08_Tom3.wav
+  - 09_Overheads.wav
+  - 10_DrumsRoom1.wav
+  - 11_DrumsRoom2.wav
+  - 12_DrumLoop.wav
+  - 13_Shaker.wav
+Bass:
+  - 14_Bass.wav
+ElecGtr:
+  - 15_ElecGtr01.wav
+  - 16_ElecGtr02.wav
+  - 17_ElecGtr03.wav
+  - 18_ElecGtr03DT.wav
+Horns:
+  - 19_Horns.wav
+Keys:
+  - 20_Keys.wav
+LeadVox:
+  - 21_LeadVox.wav
+BackingVox:
+  - 22_BackingVox1.wav
+  - 23_BackingVox2.wav

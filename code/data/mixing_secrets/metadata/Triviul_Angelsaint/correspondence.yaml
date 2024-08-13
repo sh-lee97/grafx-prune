@@ -1,0 +1,21 @@
+DR:
+  - 01_Drums.wav
+BA:
+  - 02_Bass.wav
+Violin:
+  - 03_ViolinDI1.wav
+  - 04_ViolinDI2.wav
+  - 05_ViolinDI3.wav
+  - 06_ViolinDI4.wav
+  - 07_ViolaSoloRaw.wav
+  - 08_ViolaSoloDist.wav
+SYN:
+  - 09_Synth1.wav
+  - 10_Synth2.wav
+SFX:
+  - 11_SFX.wav
+LV:
+  - 12_LeadVox.wav
+  - 13_LeadDouble.wav
+BV:
+  - 14_BackingVox.wav

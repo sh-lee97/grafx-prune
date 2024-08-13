@@ -1,0 +1,25 @@
+BA:
+  - Bass-DI.wav
+Chamber:
+  - Chamber-Ar70.wav
+DR:
+  - Drums-Floor Tom-M82.wav
+  - Drums-Hat-M60.wav
+  - Drums-Kick In-M82.wav
+  - Drums-Kick Out-Cu29.wav
+  - Drums-Overhead-Ar51.wav
+  - Drums-Snare Bottom-M80.wav
+  - Drums-Snare Top-M60.wav
+  - Drums-Tom1-M81.wav
+GTR:
+  - Guitar-Condenser Jon-Cu29.wav
+  - Guitar-Condenser Tory-Cu29.wav
+  - Guitar-Dynamic Jon-M81.wav
+  - Guitar-Dynamic Tory-M80sh.wav
+Horns:
+  - Horns-Bone-M82.wav
+  - Horns-Trumpet-M81sh.wav
+Room:
+  - Room-U47.wav
+Vox:
+  - Vocals-Main-M80.wav

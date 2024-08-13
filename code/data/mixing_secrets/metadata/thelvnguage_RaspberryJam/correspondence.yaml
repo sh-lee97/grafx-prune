@@ -1,0 +1,12 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_Overhead.wav
+BA:
+  - 04_BassDI.wav
+  - 05_BassAmp.wav
+Rhodes:
+  - 06_Rhodes.wav
+EG:
+  - 07_ElecGtrMic1.wav
+  - 08_ElecGtrMic2.wav

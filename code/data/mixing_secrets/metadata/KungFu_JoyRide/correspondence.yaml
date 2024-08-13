@@ -1,0 +1,30 @@
+BA:
+  - Bass-DI.wav
+  - Bass-Mic-647.wav
+DR:
+  - Drums-Chamber-AR70.wav
+  - Drums-Kick In-M82.wav
+  - Drums-Kick Out-CU29.wav
+  - Drums-Over Head-ELA M 260.wav
+  - Drums-Snare Bottom-M80.wav
+  - Drums-Snare Top-M80.wav
+  - Drums-Tom1-M81.wav
+  - Drums-Tom2-M81.wav
+  - Drums-Tom3-M81.wav
+  - Drums-Tom4-M81.wav
+EG:
+  - ELE Guitar-Con Mic-AK47.wav
+  - ELE Guitar-Dyn Mic-M81.wav
+Horn:
+  - Horn-Tenor-M81.wav
+Keys:
+  - Keys-Hammond Bottom-CU29.wav
+  - Keys-Hammond Top-M81.wav
+  - Keys-Moog-DI.wav
+  - Keys-Nord-DI.wav
+  - Keys-Yamaha-DI.wav
+Vox:
+  - Vocals-1-M80.wav
+  - Vocals-2-M81.wav
+  - Vocals-3-M81.wav
+  - Vocals-4-M81.wav

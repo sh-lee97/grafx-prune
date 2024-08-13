@@ -1,0 +1,24 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_HiHat.wav
+  - 04_Ride.wav
+  - 05_Tom1.wav
+  - 06_Tom2.wav
+  - 07_Tom3.wav
+  - 08_Tom4.wav
+  - 09_Crash1.wav
+  - 10_Crash2.wav
+  - 11_Crash3.wav
+BA:
+  - 12_Bass.wav
+EG:
+  - 13_ElecGtr1.wav
+  - 14_ElecGtr2.wav
+  - 15_ElecGtr3.wav
+Organ:
+  - 16_Organ1.wav
+  - 17_Organ2.wav
+  - 18_Organ3.wav
+LV:
+  - 19_LeadVox.wav

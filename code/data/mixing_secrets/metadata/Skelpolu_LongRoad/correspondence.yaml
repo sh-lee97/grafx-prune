@@ -1,0 +1,22 @@
+DR:
+  - 01_Loop1.wav
+  - 02_Loop2.wav
+  - 03_Kick1.wav
+  - 04_Kick2.wav
+  - 05_Snare.wav
+  - 06_Clap.wav
+  - 07_Bongos.wav
+  - 08_Shaker.wav
+  - 09_Cymbal.wav
+SFX:
+  - 10_SFX.wav
+BA:
+  - 11_Bass.wav
+PN:
+  - 12_Piano.wav
+SYN:
+  - 13_Synth1.wav
+  - 14_Synth2.wav
+  - 15_Synth3.wav
+  - 16_Synth3FX.wav
+  - 17_Synth4.wav

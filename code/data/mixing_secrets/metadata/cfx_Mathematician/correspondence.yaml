@@ -1,0 +1,23 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_Clap1.wav
+  - 04_Clap2.wav
+  - 05_HiHat2.wav
+  - 06_HiHat2.wav
+  - 07_HiHat3.wav
+  - 08_Cymbal.wav
+BA:
+  - 09_Bass1.wav
+  - 10_Bass2.wav
+SYN:
+  - 11_Synth1Dry.wav
+  - 12_Synth1Wet.wav
+  - 13_Synth2Dry.wav
+  - 14_Synth2Wet.wav
+  - 15_Synth3Dry.wav
+  - 16_Synth3Wet.wav
+SFX:
+  - 17_SFX1.wav
+  - 18_SFX2Dry.wav
+  - 19_SFX2Wet.wav

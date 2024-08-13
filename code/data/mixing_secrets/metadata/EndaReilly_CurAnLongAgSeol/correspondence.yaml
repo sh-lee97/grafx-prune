@@ -1,0 +1,19 @@
+DR:
+  - 01_DrumMic1.wav
+  - 02_DrumMic2.wav
+  - 03_Brushes.wav
+BA:
+  - 04_BassMic1.wav
+  - 05_BassMic2.wav
+AG:
+  - 06_AcousticGtr.wav
+Mandolin:
+  - 07_MandolinMic1.wav
+  - 08_MandolinMic2.wav
+Fiddle:
+  - 09_Fiddle1.wav
+  - 10_Fiddle2.wav
+Accordion:
+  - 11_Accordion.wav
+LV:
+  - 12_LeadVox.wav

@@ -1,0 +1,73 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare1.wav
+  - 03_Snare2.wav
+  - 04_Toms.wav
+  - 05_Overheads.wav
+  - 06_DrumsRoom.wav
+  - 07_Cymbals.wav
+SFX:
+  - 08_SFX1.wav
+  - 09_SFX2.wav
+  - 10_SFX3.wav
+BA:
+  - 11_Bass.wav
+MusicBox:
+  - 12_MusicBox.wav
+PN:
+  - 13_Piano.wav
+STR:
+  - 14_Strings1.wav
+  - 15_Strings2.wav
+  - 16_Strings3.wav
+  - 17_Strings4.wav
+  - 18_Strings5.wav
+  - 19_Strings6.wav
+Choir:
+  - 20_Choir1.wav
+  - 21_Choir2.wav
+Oboe:
+  - 22_Oboes.wav
+Horn:
+  - 23_Horns.wav
+EG:
+  - 24_ElecGtr1.wav
+  - 25_ElecGtr1DT.wav
+  - 26_ElecGtr2.wav
+  - 27_ElecGtr2DT.wav
+  - 28_ElecGtr3.wav
+  - 29_ElecGtr3DT.wav
+  - 30_ElecGtr4.wav
+  - 31_ElecGtr4DT.wav
+  - 32_ElecGtr5.wav
+  - 33_ElecGtr5DT.wav
+LV:
+  - 34_LeadVox1.wav
+  - 35_LeadVox2.wav
+  - 36_LeadVox2DT1.wav
+  - 37_LeadVox2DT2.wav
+  - 38_LeadVox3.wav
+  - 39_LeadVox3DT1.wav
+  - 40_LeadVox3DT2.wav
+  - 41_LeadVox4.wav
+  - 42_LeadVox4DT1.wav
+  - 43_LeadVox4DT2.wav
+BV:
+  - 44_BackingVox1.wav
+  - 45_BackingVox1DT.wav
+  - 46_BackingVox2.wav
+  - 47_BackingVox2DT1.wav
+  - 48_BackingVox2DT2.wav
+  - 49_BackingVox2DT3.wav
+  - 50_BackingVox3.wav
+  - 51_BackingVox3DT1.wav
+  - 52_BackingVox3DT2.wav
+  - 53_BackingVox3DT3.wav
+  - 54_BackingVox4.wav
+  - 55_BackingVox4DT1.wav
+  - 56_BackingVox4DT2.wav
+  - 57_BackingVox4DT3.wav
+  - 58_BackingVox5.wav
+  - 59_BackingVox5DT1.wav
+  - 60_BackingVox5DT2.wav
+  - 61_BackingVox5DT3.wav

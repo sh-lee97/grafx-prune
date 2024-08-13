@@ -1,0 +1,68 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare1.wav
+  - 03_Snare2a.wav
+  - 04_Snare2b.wav
+  - 05_Snare2c.wav
+  - 06_Snare2d.wav
+  - 07_Snare2e.wav
+  - 08_Tom1.wav
+  - 09_Tom2.wav
+  - 10_Tom3.wav
+  - 11_Tom4.wav
+  - 12_Tom5.wav
+  - 13_Tom6.wav
+  - 14_Tom7.wav
+  - 15_Tom8.wav
+  - 16_HiHat.wav
+  - 17_Ride1.wav
+  - 18_Rde2.wav
+  - 19_Cymbal1.wav
+  - 20_Cymbal2.wav
+  - 21_Cymbal3.wav
+  - 22_Cymbal4.wav
+  - 23_Overheads.wav
+  - 24_DrumsRoom.wav
+  - 25_Tambourine.wav
+SFX:
+  - 26_SFX1.wav
+  - 27_SFX2.wav
+  - 28_SFX3.wav
+BA:
+  - 29_Bass1.wav
+  - 30_Bass2.wav
+EG:
+  - 31_ElecGtr01.wav
+  - 32_ElecGtr02.wav
+  - 33_ElecGtr03.wav
+  - 34_ElecGtr04.wav
+  - 35_ElecGtr05.wav
+  - 36_ElecGtr05DT1.wav
+  - 37_ElecGtr05DT2.wav
+  - 38_ElecGtr06.wav
+  - 39_ElecGtr06DT1.wav
+  - 40_ElecGtr06DT2.wav
+  - 41_ElecGtr07.wav
+  - 42_ElecGtr08.wav
+  - 43_ElecGtr09.wav
+  - 44_ElecGtr10.wav
+  - 45_ElecGtr11.wav
+  - 46_ElecGtr12.wav
+  - 47_ElecGtr13.wav
+  - 48_ElecGtr14.wav
+Woodwind:
+  - 49_OboeBassoon.wav
+Brass:
+  - 50_Tuba.wav
+STR:
+  - 51_Strings1.wav
+  - 52_Strings3.wav
+  - 53_Strings2.wav
+Bells:
+  - 54_Bells.wav
+  - 55_Marimba.wav
+SYN:
+  - 56_Synth1.wav
+  - 57_Synth2.wav
+  - 58_Synth3.wav
+  - 59_Synth4.wav

@@ -1,0 +1,23 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_Overheads.wav
+BA:
+  - 04_Bass.wav
+GTR:
+  - 05_Guitar.wav
+PN:
+  - 06_Piano.wav
+Sax:
+  - 07_Saxophone1.wav
+  - 08_Saxophone2.wav
+  - 09_Saxophone3.wav
+Trumpet:
+  - 10_Trumpet1.wav
+  - 11_Trumpet2.wav
+  - 12_Trombone.wav
+Room:
+  - 13_Room.wav
+LV:
+  - 14_LeadVoxScratch.wav
+  - 15_LeadVoxOverdub.wav

@@ -1,0 +1,41 @@
+DR:
+  - 01_Kick.wav
+  - 02_Overheads.wav
+SFX:
+  - 03_VinylNoise.wav
+BA:
+  - 04_Bass.wav
+AG:
+  - 05_AcousticGtr.wav
+EG:
+  - 06_ElecGtr01.wav
+  - 07_ElecGtr02.wav
+  - 08_ElecGtr03.wav
+  - 09_ElecGtr04.wav
+  - 10_ElecGtr05.wav
+  - 11_ElecGtr06.wav
+  - 12_ElecGtr07.wav
+  - 13_ElecGtr08.wav
+  - 14_ElecGtr09.wav
+  - 15_ElecGtr10.wav
+  - 16_ElecGtr11.wav
+  - 17_ElecGtr12.wav
+  - 18_ElecGtr13.wav
+  - 19_ElecGtr14.wav
+  - 20_ElecGtr15.wav
+  - 21_ElecGtr16.wav
+  - 22_ElecGtr17.wav
+  - 23_ElecGtr18.wav
+  - 24_ElecGtr19.wav
+  - 25_ElecGtr20.wav
+  - 26_ElecGtr21.wav
+  - 27_ElecGtr22.wav
+LV:
+  - 28_LeadVox.wav
+  - 29_LeadVoxDT.wav
+BV:
+  - 30_BackingVox.wav
+  - 31_BackingVox.wav
+  - 32_BackingVox.wav
+  - 33_BackingVox.wav
+  - 34_BackingVox.wav

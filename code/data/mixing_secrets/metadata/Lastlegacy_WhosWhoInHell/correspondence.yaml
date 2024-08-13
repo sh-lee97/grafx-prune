@@ -1,0 +1,43 @@
+DR:
+  - 01_Kick.wav
+  - 02_KickTrigger.wav
+  - 03_KickSample.wav
+  - 04_SnareUp.wav
+  - 05_SnareDown.wav
+  - 06_SnareSample.wav
+  - 07_SnareTrigger.wav
+  - 08_Overheads.wav
+  - 09_Tom1.wav
+  - 10_Tom1Trigger.wav
+  - 11_Tom2.wav
+  - 12_Tom2Trigger.wav
+  - 13_Bell Sample.wav
+BA:
+  - 14_BassDI.wav
+EG:
+  - 15_ElecGtr01.wav
+  - 16_ElecGtr01DI.wav
+  - 17_ElecGtr02.wav
+  - 18_ElecGtr02DI.wav
+  - 19_ElecGtr03.wav
+  - 20_ElecGtr04.wav
+  - 21_ElecGtr05.wav
+  - 22_ElecGtr06.wav
+  - 23_ElecGtr07.wav
+LV:
+  - 24_LeadVox1.wav
+  - 25_LeadVox1DT1.wav
+  - 26_LeadVox1DT2.wav
+  - 27_LeadVox1DT3.wav
+  - 28_LeadVox1DT4.wav
+  - 29_LeadVox1DT5.wav
+  - 30_LeadVox2.wav
+  - 31_LeadVox2DT.wav
+  - 32_LeadVox3.wav
+  - 33_LeadVox3DT.wav
+BV:
+  - 34_BackingVox1.wav
+  - 35_BackingVox2.wav
+  - 36_BackingVox3.wav
+  - 37_BackingVox4.wav
+  - 38_BackingVox4DT.wav

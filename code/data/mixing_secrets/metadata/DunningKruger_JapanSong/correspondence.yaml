@@ -1,0 +1,36 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_TomHi.wav
+  - 04_TomLo.wav
+  - 05_Overheads.wav
+  - 06_Room.wav
+Bass:
+  - 07_BassDI.wav
+Gtr:
+  - 08_Gtr1.wav
+  - 09_Gtr2.wav
+  - 10_Gtr3.wav
+  - 11_Gtr4DI.wav
+  - 12_Gtr5DI.wav
+  - 13_Gtr5Amp.wav
+Cello:
+  - 14_CelloBridge.wav
+  - 15_CelloBassLo1_Mic1.wav
+  - 16_CelloBassLo2_Mic2.wav
+  - 17_CelloHarmLo1_Mic1.wav
+  - 18_CelloHarmLo2_Mix2.wav
+  - 19_CelloHarmHi2_Mic1.wav
+  - 20_CelloHarmHi1_Mic2.wav
+LeadVox:
+  - 21_LeadVox.wav
+  - 22_LeadVoxDT.wav
+BackingVox:
+  - 23_BackingVox1.wav
+  - 24_BackingVox2.wav
+  - 25_BackingVox3.wav
+  - 26_BackingVox4.wav
+  - 27_BackingVox5.wav
+  - 28_BackingVox6.wav
+  - 29_BackingVox7.wav
+  - 30_BackingVox8.wav

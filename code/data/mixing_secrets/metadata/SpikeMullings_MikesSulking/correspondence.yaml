@@ -1,0 +1,26 @@
+DR:
+  - 01_Kick.wav
+  - 02_HiHat.wav
+  - 03_SnareUp.wav
+  - 04_SnareDown.wav
+  - 05_Overheads.wav
+  - 06_DrumsRoom.wav
+  - 07_Toms.wav
+  - 08_Tambourine.wav
+BA:
+  - 09_BassDI.wav
+  - 10_BassAmp.wav
+EG:
+  - 11_ElecGtr1.wav
+  - 12_ElecGtr2.wav
+  - 13_ElecGtr3.wav
+  - 14_ElecGtr4.wav
+Hammond:
+  - 15_Hammond.wav
+Glock:
+  - 16_Glock.wav
+LV:
+  - 17_LeadVox.wav
+BV:
+  - 18_BackingVox1.wav
+  - 19_BackingVox2.wav

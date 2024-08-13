@@ -1,0 +1,23 @@
+DR:
+  - 01_Loop1.wav
+  - 02_Loop2.wav
+  - 03_Kick1.wav
+  - 04_Kick2.wav
+  - 05_Snare1.wav
+  - 06_Snare2.wav
+  - 07_Cymbal.wav
+SFX:
+  - 08_SFX.wav
+BA:
+  - 09_Bass.wav
+AG:
+  - 10_AcousticGtr1.wav
+  - 11_AcousticGtr2.wav
+PN:
+  - 12_Piano.wav
+SYN:
+  - 13_Synth.wav
+LV:
+  - 14_LeadVox1.wav
+  - 15_LeadVox2.wav
+  - 16_LeadVox3.wav

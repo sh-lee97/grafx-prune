@@ -1,0 +1,16 @@
+Main:
+  - 01_MainPair1.wav
+  - 02_MainPair2.wav
+Spot:
+  - 03_SpotMic1_Tenors.wav
+  - 04_SpotMic2_Basses.wav
+  - 05_SpotMic3_Sopranos.wav
+  - 06_SpotMic4_Altos.wav
+Bass:
+  - 07_BassCloseMic1.wav
+  - 08_BassCloseMic2.wav
+  - 09_BassCloseMic3.wav
+  - 10_BassCloseMic4.wav
+  - 11_BassCloseMic5.wav
+LeadVox:
+  - 12_LeadVox.wav

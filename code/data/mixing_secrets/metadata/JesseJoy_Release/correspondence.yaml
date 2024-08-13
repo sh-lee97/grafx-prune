@@ -1,0 +1,26 @@
+Drum:
+  - 01_Kick1.wav
+  - 02_Kick2.wav
+  - 03_Loop.wav
+  - 04_Shaker.wav
+  - 05_ReverseCymbal.wav
+AcousticGtr1:
+  - 06_AcousticGtr1Mic1.wav
+  - 07_AcousticGtr1Mic2.wav
+acousticGtr2:
+  - 08_AcousticGtr2.wav
+  - 09_AcousticGtr2Reverse.wav
+  - 10_AcousticGtr2DT.wav
+  - 11_AcousticGtr2DTReverse.wav
+Cello1:
+  - 12_Cello1Mic1.wav
+  - 13_Cello1Mic2.wav
+Cello2:
+  - 14_Cello2Mic1.wav
+  - 15_Cello2Mic2.wav
+Cello3:
+  - 16_Cello3Mic1.wav
+  - 17_Cello3Mic2.wav
+LeadVox:
+  - 18_LeadVox.wav
+  - 19_LeadVoxDT.wav

@@ -1,0 +1,21 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_Overheads.wav
+  - 04_Room.wav
+  - 05_Tom1.wav
+  - 06_Tom2.wav
+BA:
+  - 07_Bass.wav
+GTR:
+  - 08_Gtr1.wav
+  - 09_Gtr2.wav
+  - 10_Gtr3.wav
+Organ:
+  - 11_Organ.wav
+LV:
+  - 12_LeadVox.wav
+  - 13_LeadVoxScratch.wav
+BV:
+  - 14_BackingVox.wav
+  - 15_BackingVox.wav

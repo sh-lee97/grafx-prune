@@ -1,0 +1,43 @@
+DR:
+  - 01_KickSample.wav
+  - 02_SnareSample.wav
+  - 03_Percussion.wav
+  - 04_CymbalSFX.wav
+  - 05_Drumkit_Kick.wav
+  - 06_Drumkit_SnareUp.wav
+  - 07_Drumkit_SnareDown.wav
+  - 08_Drumkit_Tom1.wav
+  - 09_Drumkit_Tom2.wav
+  - 10_Drumkit_Cymbal.wav
+  - 11_Drumkit_Overheads.wav
+  - 12_Drumkit_Room.wav
+  - 13_Percussion.wav
+BA:
+  - 14_Bass1.wav
+  - 15_Bass2.wav
+EG:
+  - 16_ElecGtr1.wav
+  - 17_ElecGtr2.wav
+  - 18_ElecGtr3.wav
+  - 19_ElecGtr4.wav
+  - 20_ElecGtr5.wav
+  - 21_ElecGtr6.wav
+PN:
+  - 22_Piano.wav
+Sample:
+  - 23_Sample.wav
+Choir:
+  - 24_Choir.wav
+Horn:
+  - 25_Horns.wav
+SFX:
+  - 26_SfX.wav
+LV:
+  - 27_LeadVox1.wav
+  - 28_LeadVox1DT.wav
+  - 29_LeadVox1FX.wav
+  - 30_LeadVox2.wav
+BV:
+  - 31_BackingVox1.wav
+  - 32_BackingVox2.wav
+  - 33_BackingVox3.wav

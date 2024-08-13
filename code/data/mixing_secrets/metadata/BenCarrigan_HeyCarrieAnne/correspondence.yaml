@@ -1,0 +1,32 @@
+Percussion:
+  - 01_Snare.wav
+  - 02_Shaker.wav
+  - 03_Tambo.wav
+  - 04_Timp.wav
+  - 05_Cymbal.wav
+Piano:
+  - 06_Piano.wav
+Glockenspiel:
+  - 07_Glockenspiel.wav
+Strings:
+  - 08_Violin1.wav
+  - 09_Violin2.wav
+  - 10_Viola.wav
+  - 11_Cello.wav
+  - 12_StringsMix.wav
+  - 13_ViolinSamples.wav
+  - 14_ViolaSamples.wav
+  - 15_CelloSamples.wav
+  - 16_DoubleBassSamples1.wav
+  - 17_DoubleBassSamples2.wav
+ElecGtr:
+  - 18_ElecGtr.wav
+  - 19_ElecGtr.wav
+Harmonica:
+  - 20_Harmonica.wav
+LeadVox:
+  - 21_LeadVox.wav
+BackingVox:
+  - 22_BackingVox1.wav
+  - 23_BackingVox2.wav
+  - 24_BackingVox3.wav

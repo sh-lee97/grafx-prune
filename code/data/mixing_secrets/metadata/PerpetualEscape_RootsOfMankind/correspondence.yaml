@@ -1,0 +1,71 @@
+DR:
+  - 01_KickIn.wav
+  - 02_KickOut.wav
+  - 03_Snare1Up.wav
+  - 04_Snare1Down.wav
+  - 05_Snare2Up.wav
+  - 06_HiHat.wav
+  - 07_Tom1.wav
+  - 08_Tom2.wav
+  - 09_Tom3.wav
+  - 10_Tom4.wav
+  - 11_Tom5.wav
+  - 12_Overheads.wav
+  - 13_DrumsRoom1.wav
+  - 14_DrumsRoom2.wav
+  - 15_Shaker.wav
+  - 16_Tambourine.wav
+BA:
+  - 17_Bass DI.wav
+EG:
+  - 18_ElecGtr01Mic1.wav
+  - 19_ElecGtr01Mic2.wav
+  - 20_ElecGtr01Mic3.wav
+  - 21_ElecGtr01Mic4.wav
+  - 22_ElecGtr02Mic1.wav
+  - 23_ElecGtr02Mic2.wav
+  - 24_ElecGtr02Mic3.wav
+  - 25_ElecGtr02Mic4.wav
+  - 26_ElecGtr03Mic1.wav
+  - 27_ElecGtr03Mic2.wav
+  - 28_ElecGtr03Mic3.wav
+  - 29_ElecGtr03Mic4.wav
+  - 30_ElecGtr04Mic1.wav
+  - 31_ElecGtr04Mic2.wav
+  - 32_ElecGtr04Mic3.wav
+  - 33_ElecGtr04Mic4.wav
+  - 34_ElecGtr05Mic1.wav
+  - 35_ElecGtr05Mic2.wav
+  - 36_ElecGtr05Mic3.wav
+  - 37_ElecGtr05Mic4.wav
+  - 38_ElecGtr06Mic1.wav
+  - 39_ElecGtr06Mic2.wav
+  - 40_ElecGtr06Mic3.wav
+  - 41_ElecGtr06Mic4.wav
+  - 42_ElecGtr07Mic1.wav
+  - 43_ElecGtr07Mic2.wav
+  - 44_ElecGtr07Mic3.wav
+  - 45_ElecGtr07Mic4.wav
+  - 46_ElecGtr08Mic1.wav
+  - 47_ElecGtr08Mic2.wav
+  - 48_ElecGtr08Mic3.wav
+  - 49_ElecGtr08Mic4.wav
+  - 50_ElecGtr09Mic1.wav
+  - 51_ElecGtr09Mic2.wav
+  - 52_ElecGtr09Mic3.wav
+  - 53_ElecGtr09Mic4.wav
+  - 54_ElecGtr10Mic1.wav
+  - 55_ElecGtr10Mic2.wav
+  - 56_ElecGtr10Mic3.wav
+  - 57_ElecGtr10Mic4.wav
+LV:
+  - 58_LeadVox1.wav
+  - 59_LeadVox2.wav
+  - 60_LeadVoxDT.wav
+  - 61_LeadVox3.wav
+BV:
+  - 62_BackingVox1.wav
+  - 63_BackingVox2.wav
+  - 64_BackingVox3.wav
+  - 65_BackingVox4.wav
+  - 66_BackingVox5.wav

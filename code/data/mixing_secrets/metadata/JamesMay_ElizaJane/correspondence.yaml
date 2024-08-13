@@ -1,0 +1,24 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_HiHat.wav
+  - 04_Tom1.wav
+  - 05_Tom2.wav
+  - 06_Overheads.wav
+Bass:
+  - 07_Bass.wav
+AcousticGtr:
+  - 08_AcousticGtr1.wav
+  - 09_AcousticGtr2.wav
+Mandolin:
+  - 10_Mandolin1.wav
+  - 11_Mandolin2.wav
+Hammond:
+  - 12_HammondMic1Hi.wav
+  - 13_HammondMic2Lo.wav
+PedalSteel:
+  - 14_PedalSteel.wav
+LeadVox:
+  - 15_LeadVox.wav
+BackingVox:
+  - 16_BackingVox.wav

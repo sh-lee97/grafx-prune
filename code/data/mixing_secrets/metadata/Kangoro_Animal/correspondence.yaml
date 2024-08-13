@@ -1,0 +1,76 @@
+Drum:
+  - 01_Kick1.wav
+  - 02_Kick2.wav
+  - 03_Kick3.wav
+  - 04_Kick4.wav
+  - 05_Snare1.wav
+  - 06_Snare2.wav
+  - 07_Snare3.wav
+  - 08_Crash1.wav
+  - 09_Crash2.wav
+  - 10_Crash3.wav
+  - 11_Crash4.wav
+  - 12_DrumsRoom.wav
+  - 13_Tambourine.wav
+  - 14_Loops1.wav
+  - 15_Loops2.wav
+Bass:
+  - 16_Bass1.wav
+  - 17_Bass2.wav
+  - 18_Bass3.wav
+  - 19_Bass4.wav
+  - 20_Bass5.wav
+  - 21_Bass6.wav
+ElecGtr:
+  - 22_ElecGtr1.wav
+  - 23_ElecGtr2.wav
+  - 24_ElecGtr3.wav
+  - 25_ElecGtr4.wav
+  - 26_ElecGtr5.wav
+Synth:
+  - 27_Synth1.wav
+  - 28_Synth2.wav
+  - 29_Synth3.wav
+  - 30_Synth4.wav
+  - 31_Synth5.wav
+  - 32_Synth6.wav
+SFX:
+  - 33_SFX01.wav
+  - 34_SFX02.wav
+  - 35_SFX03.wav
+  - 36_SFX04.wav
+  - 37_SFX05.wav
+  - 38_SFX06.wav
+  - 39_SFX07.wav
+  - 40_SFX08.wav
+  - 41_SFX09.wav
+  - 42_SFX10.wav
+  - 43_SFX11.wav
+  - 44_SFX12.wav
+  - 45_SFX13.wav
+  - 46_SFX14.wav
+  - 47_SFX15.wav
+  - 48_SFX16.wav
+  - 49_SFX17.wav
+  - 50_SFX18.wav
+  - 51_SFX19.wav
+LeadVox:
+  - 52_LeadVox1.wav
+  - 53_LeadVox1DT.wav
+  - 54_LeadVox2.wav
+  - 55_LeadVox2DT.wav
+  - 56_LeadVox3Hi.wav
+  - 57_LeadVox3Lo.wav
+BackingVox:
+  - 58_BackingVox01.wav
+  - 59_BackingVox02.wav
+  - 60_BackingVox03.wav
+  - 61_BackingVox04.wav
+  - 62_BackingVox05.wav
+  - 63_BackingVox06.wav
+  - 64_BackingVox07.wav
+  - 65_BackingVox08.wav
+  - 66_BackingVox09.wav
+  - 67_BackingVox10.wav
+  - 68_BackingVox11.wav
+  - 69_BackingVox12.wav

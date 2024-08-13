@@ -1,0 +1,22 @@
+Drum:
+  - 01_KickIn.wav
+  - 02_KickOut.wav
+  - 03_SnareUp.wav
+  - 04_SnareDown.wav
+  - 05_HiHat.wav
+  - 06_Overheads.wav
+  - 07_Tom1.wav
+  - 08_Tom2.wav
+  - 09_DrumsRoom.wav
+  - 10_DrumsRoomLoFi.wav
+Bass:
+  - 11_BassDI.wav
+  - 12_BassAmp.wav
+EG:
+  - 13_ElecGtr.wav
+Ukelele:
+  - 14_Ukelele.wav
+Flute:
+  - 15_Flute.wav
+LeadVox:
+  - 16_LeadVox.wav

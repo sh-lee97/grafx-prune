@@ -1,0 +1,42 @@
+DR:
+  - 01_Drum1.wav
+  - 02_Drum2.wav
+  - 03_Drum3.wav
+  - 04_Drum4.wav
+  - 05_Clap.wav
+  - 06_Percussion.wav
+  - 07_Tambourine.wav
+  - 08_RevCymb.wav
+BA:
+  - 09_Bass.wav
+PN:
+  - 10_PianoLo.wav
+  - 11_PianoMid.wav
+  - 12_PianoHi.wav
+Choir:
+  - 13_Choir.wav
+Flute:
+  - 14_Flute.wav
+Pad:
+  - 15_Pad.wav
+STR:
+  - 16_Strings.wav
+Didgeridoo:
+  - 17_Didgeridoo.wav
+SFX:
+  - 18_Radio.wav
+  - 19_SFX1.wav
+  - 20_SFX2.wav
+  - 21_SFX3.wav
+  - 22_SFX4.wav
+  - 23_SFX5.wav
+  - 24_SFX6.wav
+  - 25_SFX7.wav
+LV:
+  - 26_LeadVox.wav
+  - 27_LeadVoxDT.wav
+BV:
+  - 28_BackingVox1.wav
+  - 29_BackingVox2.wav
+  - 30_BackingVox3.wav
+  - 31_BackingVox4.wav

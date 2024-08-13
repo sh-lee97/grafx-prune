@@ -1,0 +1,18 @@
+DR:
+  - 01_DrumLoop.wav
+  - 02_HiHat.wav
+  - 03_Tambourine1.wav
+  - 04_Tambourine2.wav
+  - 05_Vibraslap.wav
+  - 06_Cabasa1.wav
+  - 07_Cabasa2.wav
+  - 08_Shaker.wav
+BA:
+  - 09_Bass.wav
+EP:
+  - 10_ElecPiano.wav
+SYN:
+  - 11_Synth1.wav
+  - 12_Synth2.wav
+  - 13_Synth3.wav
+  - 14_Synth4.wav

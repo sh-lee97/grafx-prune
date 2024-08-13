@@ -1,0 +1,44 @@
+Drum:
+  - 01_Loop1Drums.wav
+  - 02_Loop2Percussion.wav
+  - 03_Loop3Percussion.wav
+  - 04_Cymbals.wav
+Bass:
+  - 05_Bass1.wav
+  - 06_Bass2.wav
+Sample:
+  - 07_Sample1Vox.wav
+  - 08_Sample2Harp.wav
+Clav:
+  - 09_Clav1.wav
+  - 10_Clav2.wav
+Synth:
+  - 11_Synth1.wav
+  - 12_Synth2.wav
+Mellotron:
+  - 13_Mellotron1.wav
+  - 14_Mellotron2.wav
+LeadVox:
+  - 15_LeadVox1.wav
+  - 16_LeadVox2.wav
+  - 17_LeadVox2DT1.wav
+  - 18_LeadVox2DT2.wav
+  - 19_LeadVox2DT3.wav
+  - 20_LeadVox2DT4.wav
+  - 21_LeadVox3.wav
+  - 22_LeadVox3DT1.wav
+  - 23_LeadVox3DT2.wav
+  - 24_LeadVox3DT3.wav
+  - 25_LeadVox3DT4.wav
+  - 26_LeadVox4AdLibs.wav
+BackingVox:
+  - 27_BackingVox1.wav
+  - 28_BackingVox1DT1.wav
+  - 29_BackingVox1DT2.wav
+  - 30_BackingVox2.wav
+  - 31_BackingVox2DT1.wav
+  - 32_BackingVox2DT2.wav
+  - 33_BackingVox3.wav
+  - 34_BackingVox3DT1.wav
+  - 35_BackingVox3DT2.wav
+  - 36_BackingVox3DT3.wav

@@ -1,0 +1,24 @@
+DR:
+  - 01_KickIn.wav
+  - 02_KickOut.wav
+  - 03_SnareUp1.wav
+  - 04_SnareUp2.wav
+  - 05_SnareDown.wav
+  - 06_HiHat.wav
+  - 07_Overheads.wav
+  - 08_Tom1.wav
+  - 09_Tom2.wav
+BA:
+  - 10_Bass.wav
+Sax:
+  - 11_AltoSaxMic1.wav
+  - 12_AltoSaxMic2.wav
+Fiddle:
+  - 13_Fiddle.wav
+EG:
+  - 14_ElecGtrMic1.wav
+  - 15_ElecGtrMic2.wav
+LV:
+  - 16_LeadVox.wav
+BV:
+  - 17_BackingVox.wav

@@ -1,0 +1,30 @@
+SFXLoop:
+  - 01_SFXLoop1.wav
+  - 02_SFXLoop2.wav
+  - 03_SFXLoop3.wav
+  - 04_SFXLoop4.wav
+DR:
+  - 05_Drums1.wav
+  - 06_Drums2.wav
+  - 07_Drums3.wav
+  - 08_Taiko.wav
+  - 09_Cymbal.wav
+SFX:
+  - 10_SFX1.wav
+  - 11_SFX2.wav
+BA:
+  - 12_BassLo.wav
+  - 13_BassHi.wav
+Recordier:
+  - 14_Recordier.wav
+EthnoFlute:
+  - 15_EthnoFlute.wav
+Choir:
+  - 16_Choir.wav
+Cellos:
+  - 17_Cellos.wav
+SYN:
+  - 18_Synth1.wav
+  - 19_Synth2.wav
+  - 20_Synth3.wav
+  - 21_Synth4.wav

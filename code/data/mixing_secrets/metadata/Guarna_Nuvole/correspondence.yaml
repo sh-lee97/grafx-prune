@@ -1,0 +1,29 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_Clap.wav
+  - 04_HiHat1.wav
+  - 05_HiHat2.wav
+  - 06_HiHat3.wav
+Bass:
+  - 07_Bass.wav
+AcousticGtr:
+  - 08_AcousticGtr1.wav
+  - 09_AcousticGtr2.wav
+Piano:
+  - 10_Piano.wav
+Synth:
+  - 11_Synth1.wav
+  - 12_Synth2.wav
+  - 13_Synth3.wav
+Vocoder:
+  - 14_Vocoder.wav
+LeadVox:
+  - 15_LeadVox1.wav
+  - 16_LeadVox1DT1.wav
+  - 17_LeadVox1DT2.wav
+  - 18_LeadVox2.wav
+  - 19_LeadVox2DT.wav
+BackingVox:
+  - 20_BackingVox1.wav
+  - 21_BackingVox2.wav

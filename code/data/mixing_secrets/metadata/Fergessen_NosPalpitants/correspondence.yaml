@@ -1,0 +1,30 @@
+Drum:
+  - 01_KickIn.wav
+  - 02_KickOut.wav
+  - 03_SnareUp.wav
+  - 04_SnareDown.wav
+  - 05_Overheads.wav
+  - 06_Tom1.wav
+  - 07_Tom2.wav
+  - 08_DrumsRoomMono.wav
+  - 09_DrumsRoomStereo.wav
+Bass:
+  - 10_Bass.wav
+AcGtr:
+  - 11_AcGtr1a_CloseMic1.wav
+  - 12_AcGtr1b_CloseMic2.wav
+  - 13_AcGtr1c_Room.wav
+  - 14_AcGtr2a_CloseMic1.wav
+  - 15_AcGtr2b_CloseMic2.wav
+  - 16_AcGtr2c_Room.wav
+ElecGtr:
+  - 17_ElecGtr1a_Close.wav
+  - 18_ElecGtr1b_Room.wav
+  - 19_ElecGtr2.wav
+SlideGtr:
+  - 20_SlideGtr.wav
+Rhodes:
+  - 21_Rhodes1.wav
+  - 22_Rhodes2.wav
+LeadVox:
+  - 23_LeadVox.wav

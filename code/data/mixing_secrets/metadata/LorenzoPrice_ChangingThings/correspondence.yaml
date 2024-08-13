@@ -1,0 +1,20 @@
+DR:
+  - 01_KickMic1.wav
+  - 02_KickMic2.wav
+  - 03_SnareUp.wav
+  - 04_SnareDown.wav
+  - 05_Tom1.wav
+  - 06_Tom2.wav
+  - 07_Tom3.wav
+  - 08_HiHat.wav
+  - 09_Ride1.wav
+  - 10_Ride2.wav
+  - 11_Overheads.wav
+  - 12_DrumsRoom.wav
+BA:
+  - 13_Bass.wav
+PN:
+  - 14_Piano.wav
+EG:
+  - 15_ElecGtr1.wav
+  - 16_ElecGtr2.wav

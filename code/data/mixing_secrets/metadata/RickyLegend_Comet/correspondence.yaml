@@ -1,0 +1,39 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_HiHat.wav
+  - 04_Loop1.wav
+  - 05_Loop2.wav
+  - 06_Loop3.wav
+  - 07_Shaker.wav
+  - 08_Chug.wav
+SFX:
+  - 09_SFX1.wav
+  - 10_SFX2.wav
+  - 11_SFX3.wav
+  - 12_SFX4.wav
+BA:
+  - 13_Bass.wav
+  - 14_BassSub.wav
+EG:
+  - 15_ElecGtr1.wav
+  - 16_ElecGtr2.wav
+  - 17_ElecGtr3.wav
+  - 18_ElecGtr4.wav
+PN:
+  - 19_Piano.wav
+SYN:
+  - 20_Synth1.wav
+  - 21_Synth2.wav
+  - 22_Synth3.wav
+  - 23_Synth4.wav
+  - 24_Synth5.wav
+LV:
+  - 25_LeadVox1.wav
+  - 26_LeadVox2.wav
+BV:
+  - 27_BackingVox1.wav
+  - 28_BackingVox1DT.wav
+  - 29_BackingVox2.wav
+  - 30_BackingVox2DT.wav
+  - 31_BackingVox3.wav

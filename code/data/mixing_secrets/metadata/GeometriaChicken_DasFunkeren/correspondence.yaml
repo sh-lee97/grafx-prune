@@ -1,0 +1,34 @@
+Drum:
+  - 01_Kick808.wav
+  - 02_Snare808.wav
+  - 03_HiHat808.wav
+  - 04_Drumkit_Kick.wav
+  - 05_Drumkit_Snare.wav
+  - 06_Drumkit_Overheads.wav
+  - 07_Tom1OD.wav
+  - 08_Tom2OD.wav
+  - 09_SidestickOD_Tom2.wav
+  - 10_SidestickOD_Overheads.wav
+  - 11_Claps1.wav
+  - 12_Claps2.wav
+  - 13_Claps3.wav
+Bass:
+  - 14_Bass1.wav
+  - 15_Bass2.wav
+  - 16_BassFX1.wav
+  - 17_BassFX2.wav
+ElecGtr:
+  - 18_ElecGtr1.wav
+  - 19_ElecGtr2.wav
+  - 20_ElecGtr3.wav
+  - 21_ElecGtr4.wav
+  - 22_ElecGtr5.wav
+  - 23_ElecGtr6.wav
+  - 24_ElecGtr7.wav
+  - 25_ElecGtr8.wav
+AcousticGtr:
+  - 26_AcousticGtr1.wav
+  - 27_AcousticGtr2.wav
+LeadVox:
+  - 28_LeadVox1.wav
+  - 29_LeadVox2.wav

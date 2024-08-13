@@ -1,0 +1,29 @@
+Drum:
+  - 01_KickIn.wav
+  - 02_KickOut.wav
+  - 03_SnareUp.wav
+  - 04_SnareDown.wav
+  - 05_HiHat.wav
+  - 06_Overheads.wav
+  - 07_DrumsRoom.wav
+SFX:
+  - 08_Bells.wav
+  - 09_Alarm.wav
+  - 10_Heartbeat.wav
+Bass:
+  - 11_Bass.wav
+ElecGtr:
+  - 12_ElecGtr1DI.wav
+  - 13_ElecGtr2.wav
+  - 14_ElecGtr3.wav
+  - 15_ElecGtr4.wav
+  - 16_ElecGtr5.wav
+  - 17_ElecGtr6.wav
+ElecPiano:
+  - 18_ElecPiano.wav
+Piano:
+  - 19_Piano.wav
+Strings:
+  - 20_Violins1.wav
+  - 21_Violins2.wav
+  - 22_Violas.wav

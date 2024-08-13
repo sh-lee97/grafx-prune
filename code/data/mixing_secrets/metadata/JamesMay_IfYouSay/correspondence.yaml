@@ -1,0 +1,23 @@
+Drums1:
+  - 01_Drums1Kick.wav
+  - 02_Drums1Snare.wav
+  - 03_Drums1HiHat.wav
+  - 04_Drums1Overheads.wav
+  - 05_Drums1Tom1.wav
+  - 06_Drums1Tom2.wav
+Drums2:
+  - 07_Drums2Conga.wav
+  - 08_Drums2Overheads.wav
+Bass:
+  - 09_BassMic1.wav
+  - 10_BassMic2.wav
+AcGtr:
+  - 11_AcGtrDI.wav
+  - 12_AcGtrMic.wav
+Accordion:
+  - 13_Accordion.wav
+Clarinet:
+  - 14_Clarinet1.wav
+  - 15_Clarinet2.wav
+LeadVox:
+  - 16_LeadVox.wav

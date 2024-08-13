@@ -1,0 +1,29 @@
+DR:
+  - 01_Kick.wav
+  - 02_Clap.wav
+  - 03_HiHat.wav
+  - 04_RevCymbal.wav
+  - 05_Cymbal.wav
+BA:
+  - 06_Bass.wav
+PN:
+  - 07_Piano1.wav
+  - 08_Piano2.wav
+SYN:
+  - 09_Synth1.wav
+  - 10_Synth2.wav
+LV:
+  - 11_LeadVoxVs1.wav
+  - 12_LeadVoxVs1DT.wav
+  - 13_LeadVoxVs2.wav
+  - 14_LeadVoxVs2DT.wav
+  - 15_LeadVoxVs3.wav
+  - 16_LeadVoxVs3DT.wav
+  - 17_LeadVoxVs4.wav
+  - 18_LeadVoxVs4DT.wav
+  - 19_LeadVoxCh1a.wav
+  - 20_LeadVoxCh1b.wav
+  - 21_LeadVoxCh2a.wav
+  - 22_LeadVoxCh2b.wav
+  - 23_LeadVoxCh3.wav
+  - 24_LeadVoxCh4.wav

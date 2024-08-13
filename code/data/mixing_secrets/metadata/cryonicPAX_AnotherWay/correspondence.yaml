@@ -1,0 +1,30 @@
+DR:
+  - 01_Break.wav
+  - 02_Kick.wav
+  - 03_Snare1.wav
+  - 04_Snare2.wav
+  - 05_Snare3.wav
+  - 06_Snare4.wav
+  - 07_SnareSFX.wav
+  - 08_Anvil.wav
+  - 09_HiHat.wav
+  - 10_Cymbals1.wav
+  - 11_Cymbals2.wav
+  - 12_Cymbals3.wav
+SFX:
+  - 13_SFX1.wav
+  - 14_SFX2.wav
+  - 15_SFX3.wav
+BA:
+  - 16_Bass1.wav
+  - 17_Bass2.wav
+  - 18_Bass3.wav
+SYN:
+  - 19_Synth1.wav
+  - 20_Synth2.wav
+  - 21_Synth3.wav
+STR:
+  - 22_Strings1.wav
+  - 23_Strings2.wav
+Vox:
+  - 24_Vox.wav

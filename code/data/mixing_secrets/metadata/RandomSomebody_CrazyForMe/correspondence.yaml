@@ -1,0 +1,26 @@
+Drum:
+  - 01_Kick.wav
+  - 02_SnareUp.wav
+  - 03_SnareDown.wav
+  - 04_HiHat.wav
+  - 05_Overheads.wav
+  - 06_DrumsRoom.wav
+  - 07_Tom1.wav
+  - 08_Tom2.wav
+  - 09_Tom3.wav
+Bass:
+  - 10_Bass.wav
+ElecGtr:
+  - 11_ElecGtr1.wav
+  - 12_ElecGtr2.wav
+AcousticGtr:
+  - 13_AcousticGtr.wav
+Hammond:
+  - 14_Hammond.wav
+Brass:
+  - 15_Trumpet1.wav
+  - 16_Trumpet2.wav
+  - 17_Trumpet3.wav
+  - 18_MIDITrombone.wav
+LeadVox:
+  - 19_LeadVox.wav

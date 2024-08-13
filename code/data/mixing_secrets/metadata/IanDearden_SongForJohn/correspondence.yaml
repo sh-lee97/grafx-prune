@@ -1,0 +1,32 @@
+Bass:
+  - 01_Bass.wav
+AcousticGtr:
+  - 02_AcousticGtr1.wav
+  - 03_AcousticGtr2.wav
+  - 04_AcousticGtr3.wav
+Piano:
+  - 05_Piano.wav
+Synth:
+  - 06_Synth1.wav
+  - 07_Synth2.wav
+String:
+  - 08_Violin1MIDI.wav
+  - 09_Violin2MIDI.wav
+  - 10_ViolaMIDI.wav
+  - 11_Cello1.wav
+  - 12_Cello2MIDI.wav
+  - 13_Cello3MIDI.wav
+LeadVox:
+  - 14_LeadVox1.wav
+  - 15_LeadVox2.wav
+BackingVox:
+  - 16_BackingVox1.wav
+  - 17_BackingVox2.wav
+  - 18_BackingVox3.wav
+  - 19_BackingVox3DT.wav
+  - 20_BackingVox4.wav
+  - 21_BackingVox5.wav
+  - 22_BackingVox6.wav
+  - 23_BackingVox7.wav
+  - 24_BackingVox8.wav
+  - 25_BackingVox8DT.wav

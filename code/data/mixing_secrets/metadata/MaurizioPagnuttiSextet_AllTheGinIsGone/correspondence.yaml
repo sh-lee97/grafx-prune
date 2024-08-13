@@ -1,0 +1,20 @@
+DR:
+  - 01_KickIn.wav
+  - 02_KickOut.wav
+  - 03_SnareUp.wav
+  - 04_SnareDown.wav
+  - 05_HiHat.wav
+  - 06_Tom1.wav
+  - 07_Tom2.wav
+  - 08_Tom3.wav
+  - 09_Overheads.wav
+BA:
+  - 10_BassMic.wav
+  - 11_BassDI.wav
+PN:
+  - 12_PianoMics1.wav
+  - 13_PianoMics2.wav
+Brass:
+  - 14_Trumpet.wav
+  - 15_Trombone.wav
+  - 16_Saxophone.wav

@@ -1,0 +1,14 @@
+Drum:
+  - 01_Kick_LiveRoom.wav
+  - 02_Snare_LiveRoom.wav
+  - 03_Overheads_LiveRoom.wav
+  - 04_Toms_LiveRoom.wav
+Bass:
+  - 05_BassMic_LiveRoom.wav
+  - 06_BassDI_LiveRoom.wav
+Piano:
+  - 07_Piano_LiveRoom.wav
+Saxophone:
+  - 08_Saxophone_LiveRoom.wav
+LeadVox:
+  - 09_LeadVox_IsoBooth.wav

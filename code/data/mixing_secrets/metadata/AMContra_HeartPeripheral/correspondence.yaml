@@ -1,0 +1,37 @@
+Drum:
+  - 01_Loop1.wav
+  - 02_Loop2.wav
+  - 03_Loop3.wav
+  - 04_Loop4.wav
+  - 05_Loop5.wav
+  - 06_Loop6.wav
+  - 07_Loop7.wav
+  - 08_Loop8.wav
+  - 09_Fill1.wav
+  - 10_Fill2.wav
+Bass:
+  - 11_BassSynth.wav
+Synth:
+  - 12_Synth1.wav
+  - 13_Synth2.wav
+  - 14_Synth3.wav
+LeadVox:
+  - 15_LeadVox1.wav
+  - 16_LeadVox2.wav
+BackingVox:
+  - 17_BackingVox01.wav
+  - 18_BackingVox02.wav
+  - 19_BackingVox03.wav
+  - 20_BackingVox04.wav
+  - 21_BackingVox05.wav
+  - 22_BackingVox06.wav
+  - 23_BackingVox07.wav
+  - 24_BackingVox08.wav
+  - 25_BackingVox09.wav
+  - 26_BackingVox10.wav
+  - 27_BackingVox11.wav
+  - 28_BackingVox12.wav
+  - 29_BackingVox13.wav
+  - 30_BackingVox14.wav
+  - 31_BackingVox15.wav
+  - 32_BackingVox16.wav

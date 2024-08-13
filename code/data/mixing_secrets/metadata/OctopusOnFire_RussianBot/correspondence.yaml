@@ -1,0 +1,57 @@
+DR:
+  - 01_Loop1.wav
+  - 02_Loop2.wav
+  - 03_Loop3.wav
+  - 04_Kick1.wav
+  - 05_Kick2.wav
+  - 06_Clap1.wav
+  - 07_Clap2.wav
+  - 08_Snare.wav
+  - 09_Hihat.wav
+  - 10_Shaker.wav
+  - 11_Tom1.wav
+  - 12_Tom2.wav
+  - 13_Tom3.wav
+  - 14_Tom4.wav
+  - 15_ImpactDrums.wav
+SFX:
+  - 16_SFX1.wav
+  - 17_SFX2.wav
+  - 18_SFX3.wav
+  - 19_SFX4.wav
+  - 20_SFX5.wav
+  - 21_SFX6.wav
+  - 22_SFX7.wav
+  - 23_SFX8.wav
+  - 24_SFX9.wav
+BA:
+  - 25_Bass1.wav
+  - 26_Bass2.wav
+  - 27_Bass3.wav
+  - 28_Bass4.wav
+SYN:
+  - 29_Synth01.wav
+  - 30_Synth02.wav
+  - 31_Synth03.wav
+  - 32_Synth04.wav
+  - 33_Synth05.wav
+  - 34_Synth06.wav
+  - 35_Synth07.wav
+  - 36_Synth08.wav
+  - 37_Synth09.wav
+  - 38_Synth10.wav
+  - 39_Synth11.wav
+  - 40_Synth12.wav
+  - 41_Synth13.wav
+  - 42_Synth14.wav
+PN:
+  - 43_Piano.wav
+LV:
+  - 44_LeadVox.wav
+BV:
+  - 45_BackingVox1.wav
+  - 46_BackingVox1DT1.wav
+  - 47_BackingVox1DT2.wav
+VoxSFX:
+  - 48_VoxSFX1.wav
+  - 49_VoxSFX2.wav

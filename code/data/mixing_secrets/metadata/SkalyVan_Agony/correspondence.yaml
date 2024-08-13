@@ -1,0 +1,40 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_HiHat.wav
+  - 04_Ride.wav
+  - 05_Tom1.wav
+  - 06_Tom2.wav
+  - 07_Tom3.wav
+  - 08_Cymbal.wav
+  - 09_Overheads.wav
+  - 10_DrumsRoom.wav
+Bass:
+  - 11_Bass.wav
+ElecGtr:
+  - 12_ElecGtr1DI.wav
+  - 13_ElecGtr1DTDI.wav
+  - 14_ElecGtr2DI.wav
+  - 15_ElecGtr3DI.wav
+  - 16_ElecGtr4DI.wav
+  - 17_ElecGtr5DI.wav
+Strings:
+  - 18_Strings1.wav
+  - 19_Strings2.wav
+Choir:
+  - 20_Choir1.wav
+  - 21_Choir2.wav
+  - 22_Choir3.wav
+Vox:
+  - 23_Vox1.wav
+  - 24_Vox1DT.wav
+  - 25_Vox2.wav
+  - 26_Vox2DT.wav
+  - 27_Vox3.wav
+  - 28_Vox4.wav
+  - 29_Vox5.wav
+  - 30_Vox5DT.wav
+  - 31_Vox6.wav
+  - 32_Vox7.wav
+  - 33_Vox8.wav
+  - 34_Vox9.wav

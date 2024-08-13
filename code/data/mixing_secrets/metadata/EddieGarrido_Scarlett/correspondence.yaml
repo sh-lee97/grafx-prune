@@ -1,0 +1,31 @@
+DR:
+  - 01_Drums.wav
+  - 02_Percussion1.wav
+  - 03_Percussion2.wav
+  - 04_SnareFills.wav
+  - 05_Cymbals.wav
+  - 06_Loop1.wav
+  - 07_Loop2.wav
+  - 08_Maracas.wav
+  - 09_Cabasa.wav
+BA:
+  - 10_Bass1.wav
+  - 11_Bass2.wav
+  - 12_Bass3.wav
+EG:
+  - 13_ElecGtr.wav
+PN:
+  - 14_Piano1.wav
+  - 15_Piano2.wav
+  - 16_Piano3Pad.wav
+EP:
+  - 17_ElecPianoPad.wav
+SYN:
+  - 18_Synth.wav
+STR:
+  - 19_Strings1.wav
+  - 20_Strings2.wav
+SFX:
+  - 21_SFX1.wav
+  - 22_SFX2.wav
+  - 23_SFX3.wav

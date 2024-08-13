@@ -1,0 +1,65 @@
+Drum:
+  - 01_KickIn.wav
+  - 02_KickOut.wav
+  - 03_KickSub.wav
+  - 04_KickSample.wav
+  - 05_Snare.wav
+  - 06_SnareSample.wav
+  - 07_KickSnare.wav
+  - 08_Tom.wav
+  - 09_HiHat.wav
+  - 10_Overheads.wav
+  - 11_DrumsRoom1.wav
+  - 12_DrumsRoom2.wav
+  - 13_DrumsRoom3.wav
+Percussion:
+  - 14_Conga_Hi.wav
+  - 15_Conga_Lo.wav
+  - 16_Conga_MonoOverhead.wav
+  - 17_Conga_StereoOverheads.wav
+  - 18_Conga_Room.wav
+  - 19_Cowbell1.wav
+  - 20_Cowbell2.wav
+Bass:
+  - 21_BassDI.wav
+ElecGtr:
+  - 22_ElecGtr1Mic1.wav
+  - 23_ElecGtr1Mic2.wav
+  - 24_ElecGtr1DTMic1.wav
+  - 25_ElecGtr1DTMic2.wav
+  - 26_ElecGtr2Mic1.wav
+  - 27_ElecGtr2Mic2.wav
+  - 28_ElecGtr2DTMic1.wav
+  - 29_ElecGtr2DTMic2.wav
+  - 30_ElecGtr3.wav
+  - 31_ElecGtr3DT.wav
+  - 32_ElecGtr4.wav
+  - 33_ElecGtr4DT.wav
+  - 34_ElecGtr5.wav
+  - 35_ElecGtr6.wav
+  - 36_ElecGtr6DT.wav
+  - 37_ElecGtr7.wav
+  - 38_ElecGtr7DT.wav
+  - 39_ElecGtr8.wav
+  - 40_ElecGtr8DT.wav
+Hammond:
+  - 41_Hammond1.wav
+  - 42_Hammond2.wav
+Rhodes:
+  - 43_Rhodes.wav
+Synth:
+  - 44_Synth.wav
+Brass:
+  - 45_Trombone.wav
+  - 46_Trumpet1.wav
+  - 47_Trumpet2.wav
+LeadVox:
+  - 48_LeadVox.wav
+BackingVox:
+  - 49_BackingVox1.wav
+  - 50_BackingVox1DT.wav
+  - 51_BackingVox2.wav
+  - 52_BackingVox2DT.wav
+  - 53_BackingVox3.wav
+  - 54_BackingVox3DT.wav
+  - 55_BackingVox4.wav

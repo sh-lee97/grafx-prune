@@ -1,0 +1,34 @@
+DR:
+  - 01_Kick.wav
+  - 02_KickSample.wav
+  - 03_Snare.wav
+  - 04_SnareSample.wav
+  - 05_Tom1.wav
+  - 06_Tom2.wav
+  - 07_Overheads.wav
+  - 08_Room.wav
+  - 09_Tambourine.wav
+  - 10_Shaker.wav
+BA:
+  - 11_Bass1.wav
+  - 12_Bass2.wav
+AG:
+  - 13_AcousticGtr1.wav
+  - 14_AcousticGtr2.wav
+Dulcimer:
+  - 15_Dulcimer1.wav
+  - 16_Dulcimer2.wav
+EG:
+  - 17_ElecGtr1.wav
+  - 18_ElecGtr2.wav
+SFX:
+  - 19_SFX1.wav
+  - 20_SFX2.wav
+  - 21_SFX3.wav
+  - 22_SFX4.wav
+LV:
+  - 23_LeadVox.wav
+BV:
+  - 24_BackingVox1.wav
+  - 25_BackingVox2.wav
+  - 26_BackingVox3.wav

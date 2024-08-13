@@ -1,0 +1,52 @@
+DR:
+  - 01_Kick1.wav
+  - 02_Kick2.wav
+  - 03_Clicks.wav
+  - 04_Claps.wav
+  - 05_Toms.wav
+  - 06_Cymbal1.wav
+  - 07_Cymbal2.wav
+  - 08_Loop1.wav
+  - 09_Loop2.wav
+  - 10_Loop3.wav
+  - 11_Loop4.wav
+  - 12_Fill.wav
+SFX:
+  - 13_SFX1.wav
+  - 14_SFX2.wav
+  - 15_SFX3.wav
+  - 16_SFX4.wav
+  - 17_SFX5.wav
+BA:
+  - 18_Bass.wav
+SYN:
+  - 19_Synth.wav
+AG:
+  - 20_AcousticGtr.wav
+EG:
+  - 21_ElecGtr1.wav
+  - 22_ElecGtr1DT.wav
+  - 23_ElecGtr2.wav
+  - 24_ElecGtr2DT.wav
+  - 25_ElecGtr3.wav
+  - 26_ElecGtr4.wav
+SYN:
+  - 27_Synth1.wav
+  - 28_Synth2.wav
+  - 29_Synth3.wav
+  - 30_Synth4.wav
+  - 31_SynthSFX1.wav
+  - 32_SynthSFX2.wav
+LV:
+  - 33_LeadVox.wav
+  - 34_LeadVoxDT1.wav
+  - 35_LeadVoxDT2.wav
+BV:
+  - 36_BackingVox1.wav
+  - 37_BackingVox1DT.wav
+  - 38_BackingVox2.wav
+  - 39_BackingVox2DT.wav
+VoxSFX:
+  - 40_VoxSFX1.wav
+  - 41_VoxSFX2.wav
+  - 42_Whisper.wav

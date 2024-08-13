@@ -1,0 +1,25 @@
+DR:
+  - 01_Drums1.wav
+  - 02_Drums2.wav
+BA:
+  - 03_Bass1.wav
+  - 04_Bass2.wav
+  - 05_Bass3.wav
+SYN:
+  - 06_Synth1.wav
+  - 07_Synth2.wav
+  - 08_Synth3.wav
+  - 09_Synth4.wav
+  - 10_Synth5.wav
+  - 11_Synth6.wav
+  - 12_Synth7.wav
+EG:
+  - 13_ElecGtr1.wav
+  - 14_ElecGtr2.wav
+Vox:
+  - 15_Vox1.wav
+  - 16_Vox2.wav
+  - 17_Vox2DT.wav
+  - 18_Vox3.wav
+  - 19_Vox4.wav
+  - 20_Vox5.wav

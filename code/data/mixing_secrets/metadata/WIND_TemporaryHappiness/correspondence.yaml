@@ -1,0 +1,43 @@
+DR:
+  - 01_KickIn.wav
+  - 02_KickOut.wav
+  - 03_KickSub.wav
+  - 04_SnareUp.wav
+  - 05_SnareDown.wav
+  - 06_HiHat.wav
+  - 07_Cowbell.wav
+  - 08_Tom1.wav
+  - 09_Tom2.wav
+  - 10_Tom3.wav
+  - 11_Overheads.wav
+  - 12_DrumsRoom1.wav
+  - 13_DrumsRoom2.wav
+  - 14_Tambourine.wav
+BA:
+  - 15_BassDI.wav
+  - 16_BassAmpMic1.wav
+  - 17_BassAmpMic2.wav
+EG:
+  - 18_ElecGtr1Mic1.wav
+  - 19_ElecGtr1Mic2.wav
+  - 20_ElecGtr1Mic3.wav
+  - 21_ElecGtr2Mic1.wav
+  - 22_ElecGtr2Mic2.wav
+  - 23_ElecGtr1Mic3.wav
+Trumpet:
+  - 24_Trumpet1.wav
+  - 25_Trumpet2.wav
+Sax:
+  - 26_Saxophone1.wav
+  - 27_Saxophone2.wav
+  - 28_Saxophone3.wav
+Trombone:
+  - 29_Trombone.wav
+LV:
+  - 30_LeadVox.wav
+BV:
+  - 31_BackingVox1.wav
+  - 32_BackingVox2.wav
+Choir:
+  - 33_Choir1.wav
+  - 34_Choir2.wav

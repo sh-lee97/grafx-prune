@@ -1,0 +1,28 @@
+DR:
+  - 01_Kick.wav
+  - 02_KickSample.wav
+  - 03_SnareSample.wav
+  - 04_Tom1.wav
+  - 05_Tom2.wav
+  - 06_Tom3.wav
+  - 07_Cymbal.wav
+BA:
+  - 08_Bass.wav
+EG:
+  - 09_ElecGtr1.wav
+  - 10_ElecGtr2.wav
+  - 11_ElecGtr3.wav
+PN:
+  - 12_Piano1.wav
+  - 13_Piano2.wav
+  - 14_Piano3.wav
+Choir:
+  - 15_Choir.wav
+Organ:
+  - 16_Organ.wav
+LV:
+  - 17_LeadVox.wav
+BV:
+  - 18_BackingVox1.wav
+  - 19_BackingVox2.wav
+  - 20_BackingVox3.wav

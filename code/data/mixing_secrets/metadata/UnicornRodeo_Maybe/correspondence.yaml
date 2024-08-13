@@ -1,0 +1,61 @@
+DR:
+  - 01_KickMic1.wav
+  - 02_KickMic2.wav
+  - 03_HiHatRide.wav
+  - 04_Overheads.wav
+  - 05_SnareUp.wav
+  - 06_SnareDown.wav
+  - 07_Tom1.wav
+  - 08_Tom1Sample.wav
+  - 09_Tom2.wav
+  - 10_Tom2Sample.wav
+  - 11_Tom3.wav
+  - 12_Tom3Sample.wav
+  - 13_Tom4.wav
+  - 14_Tom4Sample.wav
+  - 15_DrumsRoom.wav
+BA:
+  - 16_BassMic1.wav
+  - 17_BassMic2.wav
+EG:
+  - 18_ElecGtr1CloseMic1.wav
+  - 19_ElecGtr1CloseMic2.wav
+  - 20_ElecGtr1CloseMic3.wav
+  - 21_ElecGtr1CloseMic4.wav
+  - 22_ElecGtr1RoomMic.wav
+  - 23_ElecGtr2CloseMic1.wav
+  - 24_ElecGtr2CloseMic2.wav
+  - 25_ElecGtr2CloseMic3.wav
+  - 26_ElecGtr2RoomMic.wav
+  - 27_ElecGtr3CloseMic1.wav
+  - 28_ElecGtr3CloseMic2.wav
+  - 29_ElecGtr3RoomMic.wav
+  - 30_ElecGtr4CloseMic1.wav
+  - 31_ElecGtr4CloseMic2.wav
+  - 32_ElecGtr4RoomMic.wav
+  - 33_ElecGtr5CloseMic1.wav
+  - 34_ElecGtr5CloseMic2.wav
+  - 35_ElecGtr5CloseMic3.wav
+  - 36_ElecGtr5RoomMic.wav
+  - 37_ElecGtr6CloseMic1.wav
+  - 38_ElecGtr6CloseMic2.wav
+  - 39_ElecGtr6CloseMic3.wav
+  - 40_ElecGtr6RoomMic.wav
+  - 41_ElecGtr7CloseMic1.wav
+  - 42_ElecGtr7CloseMic2.wav
+  - 43_ElecGtr7CloseMic3.wav
+  - 44_ElecGtr7RoomMic.wav
+  - 45_ElecGtrSFX.wav
+Cello:
+  - 46_Cello.wav
+SYN:
+  - 47_Synth1.wav
+  - 48_Synth2.wav
+  - 49_Synth3.wav
+LV:
+  - 50_LeadVox.wav
+BV:
+  - 51_BackingVox1.wav
+  - 52_BackingVox2.wav
+  - 53_BackingVox3.wav
+  - 54_BackingVox4.wav

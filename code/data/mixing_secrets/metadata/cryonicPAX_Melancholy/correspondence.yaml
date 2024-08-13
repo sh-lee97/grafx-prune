@@ -1,0 +1,25 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare1.wav
+  - 03_Snare2.wav
+  - 04_Snare3.wav
+  - 05_Congas.wav
+  - 06_Gong.wav
+  - 07_PercussionSFX.wav
+  - 08_Shaker.wav
+BA:
+  - 09_Bass.wav
+Bells:
+  - 10_Bells.wav
+EG:
+  - 11_ElecGtr1.wav
+  - 12_ElecGtr2.wav
+  - 13_ElecGtr3.wav
+PN:
+  - 14_Piano1.wav
+  - 15_Piano2.wav
+SYN:
+  - 16_Synth.wav
+Vox:
+  - 17_VoxSFX1.wav
+  - 18_VoxSFX2.wav

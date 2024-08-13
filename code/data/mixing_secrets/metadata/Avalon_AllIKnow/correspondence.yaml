@@ -1,0 +1,25 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_HiHat.wav
+  - 04_Drums.wav
+  - 05_Percussion.wav
+Bass:
+  - 06_Bass.wav
+EG:
+  - 07_ElecGtr1.wav
+  - 08_ElecGtr2.wav
+  - 09_ElecGtr3.wav
+  - 10_ElecGtr3DT.wav
+Piano:
+  - 11_BellPiano.wav
+  - 12_PianoSynth.wav
+SFX:
+  - 13_Radio.wav
+  - 14_Speech.wav
+Vox:
+  - 15_Vox1.wav
+  - 16_Vox2.wav
+  - 17_Vox3.wav
+  - 18_Vox4.wav
+  - 19_Vox5.wav

@@ -1,0 +1,50 @@
+DR:
+  - 01_Loop.wav
+  - 02_KickInMic1.wav
+  - 03_KickInMic2.wav
+  - 04_KickOut.wav
+  - 05_KickSample.wav
+  - 06_SnareDown.wav
+  - 07_SnareUpMic1.wav
+  - 08_SnareUpMic2.wav
+  - 09_SnareSample.wav
+  - 10_HiHat.wav
+  - 11_Tom1.wav
+  - 12_Tom2.wav
+  - 13_Tom3.wav
+  - 14_Tom4.wav
+  - 15_Overheads.wav
+  - 16_DrumsRoomMono.wav
+  - 17_DrumsRoomStereo.wav
+SFX:
+  - 18_SFX1.wav
+  - 19_SFX2.wav
+BA:
+  - 20_BassSynth.wav
+  - 21_BassDI.wav
+  - 22_BassAmp.wav
+SFX:
+  - 23_SynthSFX1.wav
+  - 24_SynthSFX2.wav
+  - 25_SynthSFX3.wav
+  - 26_SynthSFX4.wav
+  - 27_SynthSFX5.wav
+  - 28_SynthSFX6.wav
+  - 29_SynthSFX7.wav
+EG:
+  - 30_ElecGtr1.wav
+  - 31_ElecGtr1DT.wav
+  - 32_ElecGtr2.wav
+  - 33_ElecGtrSFX.wav
+LV:
+  - 34_LeadVox1.wav
+  - 35_LeadVox2.wav
+  - 36_LeadVox2DT.wav
+  - 37_LeadVox3.wav
+  - 38_LeadVox3DT1.wav
+  - 39_LeadVox3DT2.wav
+  - 40_LeadVox4.wav
+  - 41_LeadVox4DT.wav
+BV:
+  - 42_BackingVox1.wav
+  - 43_BackingVox2.wav

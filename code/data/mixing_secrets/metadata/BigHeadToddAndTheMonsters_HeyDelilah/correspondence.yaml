@@ -1,0 +1,29 @@
+Bass:
+  - BASS_DI.wav
+EG:
+  - ELECTRIC GUITAR 1_M81-SH.wav
+  - ELECTRIC GUITAR 2_M81-SH.wav
+Drums:
+  - HI HAT_M60 FET.wav
+  - KICK_M82.wav
+  - SNARE BOTTOM_M81.wav
+  - SNARE TOP_M80-SH.wav
+  - TOM 1_M81-SH.wav
+  - TOM 2_M81-SH.wav
+  - TOM 3_M81-SH.wav
+  - OVERHEADS_M60 FET.L.wav
+  - OVERHEADS_M60 FET.R.wav
+  - ROOM_AR-51 (CARDIOID).wav
+Keys:
+  - KEYS_DI.L.wav
+  - KEYS_DI.R.wav
+Organ:
+  - ORGAN LESLIE BOTTOM_M82.wav
+  - ORGAN LESLIE TOP_M80-SH.L.wav
+  - ORGAN LESLIE TOP_M80-SH.R.wav
+Vox:
+  - VOX BASS_M80.wav
+  - VOX DRUMS_M80.wav
+  - VOX GUITAR 2_M80.wav
+  - VOX KEYS_M80.wav
+  - VOX LEAD_M80.wav

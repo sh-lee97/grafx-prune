@@ -1,0 +1,23 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Overheads.wav
+  - 03_Toms.wav
+Bass:
+  - 04_Bass1Mic.wav
+  - 05_Bass1DI.wav
+  - 06_Bass2Mic.wav
+  - 07_Bass2DI.wav
+  - 08_Bass3Mic.wav
+  - 09_Bass3DI.wav
+AcousticGtr:
+  - 10_AcousticGtr.wav
+Piano:
+  - 11_Piano.wav
+BassClarinet:
+  - 12_BassClarinet.wav
+LeadVox:
+  - 13_LeadVox.wav
+BackingVox:
+  - 14_BackingVox1.wav
+  - 15_BackingVox2.wav
+  - 16_BackingVox3.wav

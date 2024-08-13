@@ -1,0 +1,28 @@
+Drum:
+  - 01_Bombo.wav
+  - 02_SnareUp.wav
+  - 03_SnareDown.wav
+  - 04_HiHat.wav
+Cunono:
+  - 05_Cunono1.wav
+  - 06_Cunono2.wav
+  - 07_Cunono3Sample.wav
+Paliteo:
+  - 08_Paliteo.wav
+Guasa:
+  - 09_Guasa.wav
+Bass:
+  - 10_BassDI.wav
+  - 11_BassMic.wav
+Marimba:
+  - 12_Marimba.wav
+ElecGtr:
+  - 13_ElecGtr1.wav
+  - 14_ElecGtr2.wav
+Saxophone:
+  - 15_Saxophone1.wav
+  - 16_Saxophone2.wav
+  - 17_Saxophone3.wav
+  - 18_Saxophone4.wav
+  - 19_Saxophone5.wav
+  - 20_Saxophone6.wav

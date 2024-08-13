@@ -1,0 +1,40 @@
+Loop:
+  - 01_Loop1.wav
+  - 02_Loop2.wav
+Drum:
+  - 03_Kick.wav
+  - 04_Clap1.wav
+  - 05_Clap2.wav
+  - 06_Snare.wav
+  - 07_HiHat1.wav
+  - 08_HiHat2.wav
+  - 09_HiHat3.wav
+  - 10_HiHat4.wav
+  - 11_HiHat5.wav
+  - 12_Ride.wav
+  - 13_Crash.wav
+  - 14_CrashSFX.wav
+SFX:
+  - 15_SFX1.wav
+  - 16_SFX2.wav
+Shaker:
+  - 17_Shaker.wav
+Bass:
+- 18_Bass.wav
+Synth:
+  - 19_Synth1.wav
+  - 20_Synth2.wav
+  - 21_Synth3.wav
+  - 22_Synth4.wav
+  - 23_Synth5.wav
+LeadVox:
+  - 24_LeadVox1.wav
+  - 25_LeadVox2.wav
+BackingVox:
+  - 26_BackingVox1.wav
+  - 27_BackingVox2.wav
+  - 28_BackingVox3.wav
+  - 29_BackingVox4.wav
+  - 30_BackingVox5.wav
+VoxSFX:
+  - 31_VoxSFX.wav

@@ -1,0 +1,10 @@
+Overhead:
+  - 01_Pair_OverheadORTF.wav
+Front:
+  - 02_Pair_FrontMS.wav
+LowStrings:
+  - 03_Spot_LowStrings.wav
+HighStrings:
+  - 04_Spot_HighStrings.wav
+Vocals:
+  - 05_Spot_Vocals.wav

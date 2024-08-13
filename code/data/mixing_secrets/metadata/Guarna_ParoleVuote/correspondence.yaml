@@ -1,0 +1,54 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_Clap.wav
+  - 04_Shaker.wav
+  - 05_Loop.wav
+SFX:
+  - 06_SFX1.wav
+  - 07_SFX2.wav
+  - 08_SFX3.wav
+  - 09_SFX4.wav
+  - 10_SFX5.wav
+Bass:
+  - 11_Bass.wav
+PianoSFX:
+  - 12_PianoSFX1.wav
+  - 13_PianoSFX2.wav
+AcousticGtr:
+  - 14_AcousticGtr.wav
+Synth:
+  - 15_Synth1.wav
+  - 16_Synth2.wav
+  - 17_Synth3.wav
+  - 18_Synth4.wav
+  - 19_Synth5.wav
+LeadVox:
+  - 20_LeadVox1.wav
+  - 21_LeadVox1DT1.wav
+  - 22_LeadVox1DT2.wav
+  - 23_LeadVox1DT3.wav
+  - 24_LeadVox2.wav
+  - 25_LeadVox2DT1.wav
+  - 26_LeadVox2DT2.wav
+  - 27_LeadVox2DT3.wav
+  - 28_LeadVox2DT4.wav
+  - 29_LeadVox2DT5.wav
+  - 30_LeadVox3.wav
+  - 31_LeadVox3DT.wav
+BackingVox:
+  - 32_BackingVox1.wav
+  - 33_BackingVox2.wav
+  - 34_BackingVox3.wav
+  - 35_BackingVox3DT.wav
+  - 36_BackingVox4.wav
+  - 37_BackingVox5.wav
+  - 38_BackingVox5DT.wav
+  - 39_BackingVox6.wav
+  - 40_BackingVox7.wav
+  - 41_BackingVox7DT.wav
+  - 42_BackingVox8.wav
+  - 43_BackingVox8DT.wav
+VoxSFX:
+  - 44_VoxSFX1.wav
+  - 45_VoxSFX2.wav

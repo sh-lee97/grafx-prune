@@ -1,0 +1,16 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_Clap.wav
+  - 04_Hat.wav
+  - 05_Toms.wav
+Bass:
+  - 06_Bass1.wav
+  - 07_Bass2.wav
+Synth:
+  - 08_Synth.wav
+  - 09_Synth.wav
+  - 10_Synth.wav
+  - 11_Synth.wav
+LeadVox:
+  - 12_LeadVox.wav

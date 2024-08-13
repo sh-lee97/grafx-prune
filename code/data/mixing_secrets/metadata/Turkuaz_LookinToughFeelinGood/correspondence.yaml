@@ -1,0 +1,32 @@
+BA:
+  - Bass-DI.wav
+  - Bass-Mic-Ak47.wav
+Chamber:
+  - Chamber-Ar70.wav
+DR:
+  - Drums-Hat-M60.wav
+  - Drums-Kick-421.wav
+  - Drums-Over-Ar51.wav
+  - Drums-Snare-M80.wav
+  - Drums-Tom1-M81.wav
+  - Drums-Tom2-M81.wav
+GTR:
+  - Guitar-Craig-M81.wav
+  - Guitar-Dave-M81.wav
+Horns:
+  - Horns-Bari-M81.wav
+  - Horns-Tenor-M81.wav
+  - Horns-Trumpet-M81.wav
+Keys:
+  - Keys-Amp-M81.wav
+  - Keys-Amp2-M81.wav
+  - Keys-DI.wav
+  - Keys-Leslie BOT-M81.wav
+  - Keys-Leslie Top-M81.wav
+Room:
+  - Room-M81.wav
+Vox:
+  - Vocals-Dave-M80.wav
+  - Vocals-Geneva-M81.wav
+  - Vocals-Josh-M81.wav
+  - Vocals-Sammi-M81.wav

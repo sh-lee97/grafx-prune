@@ -1,0 +1,38 @@
+DR:
+  - 01_Kick.wav
+  - 02_Clap1.wav
+  - 03_Clap2.wav
+  - 04_Snare.wav
+  - 05_HiHat.wav
+  - 06_Ride.wav
+  - 07_Percussion.wav
+BA:
+  - 08_Bass.wav
+SYN:
+  - 09_Synth.wav
+Sample:
+  - 10_Sample1.wav
+  - 11_Sample2.wav
+  - 12_Sample3.wav
+LV:
+  - 13_LeadVox.wav
+  - 14_LeadVoxDT1.wav
+  - 15_LeadVoxDT2.wav
+BV:
+  - 16_BackingVox01.wav
+  - 17_BackingVox02.wav
+  - 18_BackingVox02DT.wav
+  - 19_BackingVox03.wav
+  - 20_BackingVox03DT.wav
+  - 21_BackingVox04.wav
+  - 22_BackingVox04DT.wav
+  - 23_BackingVox05.wav
+  - 24_BackingVox06.wav
+  - 25_BackingVox06DT1.wav
+  - 26_BackingVox06DT2.wav
+  - 27_BackingVox07.wav
+  - 28_BackingVox07DT1.wav
+  - 29_BackingVox07DT2.wav
+  - 30_BackingVox08.wav
+  - 31_BackingVox09.wav
+  - 32_BackingVox09DT.wav

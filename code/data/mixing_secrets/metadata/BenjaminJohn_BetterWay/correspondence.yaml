@@ -1,0 +1,54 @@
+Percussion:
+  - 01_Kick.wav
+  - 02_KickAmb.wav
+  - 03_SnareCymbals.wav
+  - 04_Tambourine.wav
+  - 05_TambourineAmb.wav
+  - 06_Shaker.wav
+  - 07_FingerClicks1.wav
+  - 08_FingerClicks2.wav
+  - 09_FingerClicks3.wav
+  - 10_FingerClicks4.wav
+  - 11_Claps1.wav
+  - 12_Claps2.wav
+  - 13_Claps3.wav
+  - 14_Claps4.wav
+  - 15_Claps5.wav
+  - 16_Claps6.wav
+  - 17_Claps7.wav
+  - 18_Claps8.wav
+Bass:
+  - 19_Bass.wav
+Guitalele:
+  - 20_Guitalele.wav
+AG:
+  - 21_AcousticGtr1.wav
+  - 22_AcousticGtr2.wav
+  - 23_AcousticGtr3.wav
+EG:
+  - 24_ElecGtr1.wav
+  - 25_ElecGtr2.wav
+  - 26_ElecGtr3.wav
+  - 27_ElecGtr4.wav
+Piano:
+  - 28_Piano.wav
+LeadVox:
+  - 29_LeadVox.wav
+  - 30_LeadVoxDT.wav
+BackingVox:
+  - 31_BackingVox01.wav
+  - 32_BackingVox02.wav
+  - 33_BackingVox03.wav
+  - 34_BackingVox04.wav
+  - 35_BackingVox05.wav
+  - 36_BackingVox06.wav
+  - 37_BackingVox07.wav
+  - 38_BackingVox08.wav
+  - 39_BackingVox09.wav
+  - 40_BackingVox10.wav
+  - 41_BackingVox11.wav
+  - 42_BackingVox12.wav
+  - 43_BackingVox13.wav
+  - 44_BackingVox14.wav
+  - 45_BackingVox15.wav
+  - 46_BackingVox16.wav

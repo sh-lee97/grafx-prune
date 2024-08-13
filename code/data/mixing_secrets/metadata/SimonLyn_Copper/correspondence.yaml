@@ -1,0 +1,31 @@
+Pizz:
+  - 01_Pizz1.wav
+  - 02_Pizz2.wav
+  - 03_Pizz3.wav
+  - 04_Pizz4.wav
+  - 05_Pizz5.wav
+ArcoRhythm:
+  - 06_ArcoRhythm1.wav
+  - 07_ArcoRhythm2.wav
+  - 08_ArcoRhythm3.wav
+  - 09_ArcoRhythm4.wav
+  - 10_ArcoRhythm5.wav
+  - 11_ArcoRhythm6.wav
+SFX:
+  - 12_SFX1.wav
+  - 13_SFX2.wav
+Theme:
+  - 14_Theme.wav
+  - 15_ThemeDT.wav
+  - 16_ThemeCounter.wav
+Lyrical:
+  - 17_Lyrical1.wav
+  - 18_Lyrical2.wav
+  - 19_Lyrical3.wav
+  - 20_Lyrical3DT.wav
+  - 21_Lyrical4.wav
+  - 22_Lyrical4Octave.wav
+  - 23_Lyrical5.wav
+  - 24_Lyrical5Octave.wav
+  - 25_Lyrical6.wav
+  - 26_Lyrical6Octave.wav

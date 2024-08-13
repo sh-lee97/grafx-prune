@@ -1,0 +1,20 @@
+BA:
+  - Bass-DI.wav
+  - Bass-Mic-AK47.wav
+DR:
+  - Drums-Floor-M82.wav
+  - Drums-Kick In-M82.wav
+  - Drums-Kick Out-CU29.wav
+  - Drums-Overhead-AR51.wav
+  - Drums-Rack-M81.wav
+  - Drums-Room-M81.wav
+  - Drums-Snare Bottom-M81.wav
+  - Drums-Snare Top-M80.wav
+EG:
+  - ELE Guitar-Con-CU29.wav
+  - ELE Guitar-Dyn-M81.wav
+  - ELE Guitars-Ignater-M81.wav
+Keys:
+  - Keys-Synth-DI.wav
+VOX:
+  - Vocal-Trevor-M80.wav

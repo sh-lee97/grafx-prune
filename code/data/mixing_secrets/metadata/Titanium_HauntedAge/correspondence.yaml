@@ -1,0 +1,28 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_HiHat.wav
+  - 04_Ride.wav
+  - 05_Tom1.wav
+  - 06_Tom2.wav
+  - 07_Tom3.wav
+  - 08_Cymbals1.wav
+  - 09_Cymbals2.wav
+BA:
+  - 10_Bass.wav
+EG:
+  - 11_ElecGtr1.wav
+  - 12_ElecGtr2.wav
+  - 13_ElecGtr3.wav
+  - 14_ElecGtr4.wav
+  - 15_ElecGtr5.wav
+  - 16_ElecGtr6.wav
+  - 17_ElecGtr7.wav
+  - 18_ElecGtr8.wav
+PN:
+  - 19_Piano.wav
+LV:
+  - 20_LeadVoxHi.wav
+  - 21_LeadVoxLo.wav
+SFX:
+  - 22_SFX.wav

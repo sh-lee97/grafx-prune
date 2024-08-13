@@ -1,0 +1,47 @@
+Drum:
+  - 01_Loop.wav
+  - 02_Kick1.wav
+  - 03_Kick2.wav
+  - 04_Snare.wav
+  - 05_HiHat.wav
+Bass:
+  - 06_BassSynth.wav
+  - 07_BassSub.wav
+Synth:
+  - 08_Synth1.wav
+  - 09_Synth2.wav
+  - 10_Synth3.wav
+  - 11_Synth4.wav
+  - 12_Synth5.wav
+  - 13_Synth6.wav
+  - 14_Synth7.wav
+  - 15_Synth8.wav
+Sample:
+  - 16_Sample1.wav
+  - 17_Sample2.wav
+  - 18_Sample3.wav
+OrchStabs:
+  - 19_OrchStabs1.wav
+  - 20_OrchStabs2.wav
+Vox:
+  - 21_Vox1.wav
+  - 22_Vox2.wav
+  - 23_Vox3.wav
+  - 24_Vox4.wav
+  - 25_Vox5.wav
+  - 26_Vox6.wav
+  - 27_Vox7.wav
+  - 28_Vox8.wav
+  - 29_VoxMid1.wav
+  - 30_VoxMid2.wav
+  - 31_VoxMid3.wav
+  - 32_VoxMid4.wav
+  - 33_VoxMidAlt1.wav
+  - 34_VoxMidAlt2.wav
+  - 35_VoxMidAlt3.wav
+  - 36_VoxMidAlt4.wav
+  - 37_VoxMidAlt5.wav
+  - 38_VoxMidAlt6.wav
+  - 39_VoxAdLibs1.wav
+  - 40_VoxAdLibs2.wav
+  - 41_VoxSFX.wav

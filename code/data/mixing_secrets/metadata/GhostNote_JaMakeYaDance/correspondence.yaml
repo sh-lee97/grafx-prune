@@ -1,0 +1,23 @@
+BA:
+  - Bass-DI.wav
+  - Bass-Mic-M82.wav
+DR:
+  - Drums-Chamber-M81.wav
+  - Drums-Floor-M81.wav
+  - Drums-Hat-ELA M 260.wav
+  - Drums-Kick In-M82.wav
+  - Drums-Kick Out-CU29.wav
+  - Drums-Overhead-CU29.wav
+  - Drums-Rack1-M81.wav
+  - Drums-Rack2-M81.wav
+  - Drums-Snare Bottom-M80.wav
+  - Drums-Snare Top-M80.wav
+Horns:
+  - Horns-Sax_Flute-M81.wav
+Keys:
+  - Keys-1-DI.wav
+  - Keys-2-DI.wav
+  - Keys-3-DI.wav
+Percussion:
+  - Percussion-Bongo-M81.wav
+  - Percussion-Overhead-AR51.wav

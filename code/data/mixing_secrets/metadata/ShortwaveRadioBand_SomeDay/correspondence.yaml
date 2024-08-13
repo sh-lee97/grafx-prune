@@ -1,0 +1,60 @@
+DR:
+  - 01_Kick.wav
+  - 02_SnareUp.wav
+  - 03_SnareDown.wav
+  - 04_Tom1.wav
+  - 05_Tom2.wav
+  - 06_HiHat.wav
+  - 07_Overheads.wav
+  - 08_CymbalsOD.wav
+  - 09_Tambourine.wav
+  - 10_Shaker.wav
+  - 11_Claps.wav
+SFX:
+  - 12_SFX.wav
+BA:
+  - 13_Bass.wav
+EG:
+  - 14_ElecGtr1.wav
+  - 15_ElecGtr2.wav
+  - 16_ElecGtr3.wav
+  - 17_ElecGtr4.wav
+  - 18_ElecGtr5.wav
+  - 19_ElecGtr6.wav
+  - 20_ElecGtr7a.wav
+  - 21_ElecGtr7b.wav
+AG:
+  - 22_AcousticGtr1a.wav
+  - 23_AcousticGtr1b.wav
+  - 24_AcousticGtr2.wav
+Organ:
+  - 25_Organ.wav
+PN:
+  - 26_Piano.wav
+Trumpet:
+  - 27_Trumpets.wav
+Horns:
+  - 28_Flugelhorns.wav
+Sax:
+  - 29_Saxophones.wav
+Brass:
+  - 30_Brass.wav
+  - 31_BrassDrop.wav
+LV:
+  - 32_LeadVox1a.wav
+  - 33_LeadVox1b.wav
+  - 34_LeadVox1DT.wav
+  - 35_LeadVox1Harm1.wav
+  - 36_LeadVox1Harm2.wav
+  - 37_LeadVox1Harm3.wav
+  - 38_LeadVox2.wav
+  - 39_LeadVox2DT.wav
+  - 40_LeadVox2Harm.wav
+BV:
+  - 41_BackingVox1.wav
+  - 42_BackingVox1.wav
+  - 43_BackingVox1DT1.wav
+  - 44_BackingVox1DT2.wav
+  - 45_BackingVox2.wav
+  - 46_BackingVox3.wav
+  - 47_BackingVox3DT.wav

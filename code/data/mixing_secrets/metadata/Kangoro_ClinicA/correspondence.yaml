@@ -1,0 +1,110 @@
+Drum:
+  - 01_Kick1.wav
+  - 02_Kick2.wav
+  - 03_Kick3.wav
+  - 04_Kick4.wav
+  - 05_Snare1.wav
+  - 06_Snare2.wav
+  - 07_Snare3Sub.wav
+  - 08_Hat1.wav
+  - 09_Hat2.wav
+  - 10_Hat3.wav
+  - 11_Hat4.wav
+  - 12_Hat5.wav
+  - 13_Hat6.wav
+Percussion:
+  - 14_Percussion.wav
+  - 15_Drums.wav
+  - 16_Timpani1.wav
+  - 17_Timpani2.wav
+  - 18_Timpani3.wav
+  - 19_Timpani4.wav
+  - 20_CymbalRolls.wav
+  - 21_BassDrum.wav
+Bass:
+  - 22_Bass1.wav
+  - 23_Bass2.wav
+  - 24_Bass3.wav
+  - 25_Bass4.wav
+Synth:
+  - 26_Synth01.wav
+  - 27_Synth02.wav
+  - 28_Synth03.wav
+  - 29_Synth04.wav
+  - 30_Synth05.wav
+  - 31_Synth06.wav
+  - 32_Synth07.wav
+  - 33_Synth08.wav
+  - 34_Synth09.wav
+  - 35_Synth10.wav
+  - 36_Synth11.wav
+  - 37_Synth12.wav
+  - 38_Synth13.wav
+  - 39_Synth14.wav
+  - 40_Synth15.wav
+  - 41_Synth16.wav
+  - 42_Synth17.wav
+Clavinet:
+  - 43_Clavinet.wav
+Orchestra:
+  - 44_Orchestra1.wav
+  - 45_Orchestra2.wav
+Strings:
+  - 46_Strings1.wav
+  - 47_Strings2.wav
+  - 48_Strings3.wav
+  - 49_Strings4.wav
+  - 50_Strings5.wav
+  - 51_Strings6.wav
+  - 52_Strings7.wav
+  - 53_Strings8.wav
+  - 54_Strings9.wav
+Flute:
+  - 55_Flute.wav
+Cello:
+  - 56_Cello.wav
+Brass:
+  - 57_Brass.wav
+AcGtr:
+  - 58_AcGtr.wav
+SFX:
+  - 59_SFX01.wav
+  - 60_SFX02.wav
+  - 61_SFX03.wav
+  - 62_SFX04.wav
+  - 63_SFX05.wav
+  - 64_SFX06.wav
+  - 65_SFX07.wav
+  - 66_SFX08.wav
+  - 67_SFX09.wav
+  - 68_SFX10.wav
+  - 69_SFX11.wav
+  - 70_SFX12.wav
+  - 71_SFX13.wav
+  - 72_SFX14.wav
+  - 73_SFX15.wav
+  - 74_SFX16.wav
+  - 75_SFX17.wav
+  - 76_SFX18.wav
+  - 77_SFX19.wav
+  - 78_SFX20.wav
+  - 79_SFX21.wav
+  - 80_SFX22.wav
+  - 81_SFX23.wav
+  - 82_SFX24.wav
+  - 83_SFX25.wav
+  - 84_SFX26.wav
+  - 85_SFX27.wav
+LeadVox:
+  - 86_LeadVox1a.wav
+  - 87_LeadVox1b.wav
+  - 88_LeadVox1DT1.wav
+  - 89_LeadVox1DT2.wav
+  - 90_LeadVox2.wav
+  - 91_LeadVox2DT.wav
+  - 92_LeadVox3.wav
+  - 93_LeadVoxChorus1.wav
+  - 94_LeadVoxChorus2.wav
+  - 95_LeadVoxChorus3.wav
+  - 96_LeadVoxChorus4.wav
+  - 97_LeadVoxChorus5.wav

@@ -1,0 +1,26 @@
+DR:
+  - NBATG - Floor Tom - M81.wav
+  - NBATG - Hi Hat- ELA M 260.wav
+  - NBATG - Kick - M82.wav
+  - NBATG - OH Hi-Hat - ELA M 260.wav
+  - NBATG - OH Ride - ELA M 260.wav
+  - NBATG - Rack Tom - M81.wav
+  - NBATG - Snare - M80.wav
+BA:
+  - NBATG - Bass Guitar DI.wav
+EG:
+  - NBATG - Electric Guitar - M81.wav
+Rhodes:
+  - NBATG - Rhodes - DI.wav
+Room:
+  - NBATG - Room Mic LEFT - ELA M 60 (FET prototype).wav
+  - NBATG - Room Mic RIGHT - ELA M 60 (FET prototype).wav
+AG:
+  - NBATG - acoustic guitar DI.wav
+LV:
+  - NBATG - Lead Vox - M80.wav
+BV:
+  - NBATG - Backing Vox - M80.wav
+  - NBATG - Backing Vox 2 - M80.wav
+StageLip:
+  - NBATG - Stage Lip - AR-51.wav

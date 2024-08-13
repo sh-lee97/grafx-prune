@@ -1,0 +1,69 @@
+Drum:
+  - 01_Kick1.wav
+  - 02_Kick2.wav
+  - 03_Snare1.wav
+  - 04_Snare2.wav
+  - 05_Hat.wav
+  - 06_Ride.wav
+  - 07_Crash.wav
+Percussion:
+  - 08_Percussion1.wav
+  - 09_Percussion2.wav
+  - 10_Percussion3.wav
+  - 11_Percussion4.wav
+SynthBass:
+  - 12_SynthBass1.wav
+  - 13_SynthBass2.wav
+  - 14_SynthBass3.wav
+  - 15_SynthBass4.wav
+SynthArp:
+  - 16_SynthArp1.wav
+  - 17_SynthArp2.wav
+  - 18_SynthArp3.wav
+  - 19_SynthArp4.wav
+SynthStab:
+  - 20_SynthStabs1.wav
+  - 21_SynthStabs2.wav
+SynthPad:
+  - 22_SynthPad1.wav
+  - 23_SynthPad2.wav
+  - 24_SynthPad3.wav
+  - 25_SynthPad4.wav
+SynthMel:
+  - 26_SynthMel1.wav
+  - 27_SynthMel2.wav
+  - 28_SynthMel3.wav
+  - 29_SynthMel4.wav
+  - 30_SynthMel5.wav
+  - 31_SynthMel6.wav
+  - 32_SynthMel7.wav
+  - 33_SynthMel8.wav
+  - 34_SynthMel9.wav
+Organ:
+  - 35_Organ1.wav
+  - 36_Organ2.wav
+SFX:
+  - 37_SFX01.wav
+  - 38_SFX02.wav
+  - 39_SFX03.wav
+  - 40_SFX04.wav
+  - 41_SFX05.wav
+  - 42_SFX06.wav
+  - 43_SFX07.wav
+  - 44_SFX08.wav
+  - 45_SFX09.wav
+  - 46_SFX10.wav
+  - 47_SFX11.wav
+  - 48_SFX12.wav
+  - 49_SFX13.wav
+  - 50_SFX14.wav
+  - 51_SFX15.wav
+  - 52_SFX16.wav
+  - 53_SFX17.wav
+  - 54_SFX18.wav
+  - 55_SFX19.wav
+  - 56_SFX20.wav
+  - 57_SFX21.wav
+  - 58_SFX22.wav
+  - 59_SFX23.wav
+  - 60_SFX24.wav

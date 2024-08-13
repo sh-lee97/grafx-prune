@@ -1,0 +1,21 @@
+Drum:
+  - 01_KickBeater.wav
+  - 02_KickOut.wav
+  - 03_SnareUp.wav
+  - 04_SnareDown.wav
+  - 05_HiHat.wav
+  - 06_Tom1.wav
+  - 07_Tom2.wav
+  - 08_Cymbal1.wav
+  - 09_Cymbal2.wav
+Bass:
+  - 10_BassDI.wav
+  - 11_BassAmp.wav
+AcousticGtr:
+  - 12_ AcousticGtr1Mic.wav
+  - 13_ AcousticGtr1DI.wav
+  - 14_ AcousticGtr2Mic.wav
+  - 15_ AcousticGtr2DI.wav
+LeadVox:
+  - 16_LeadVox.wav
+  - 17_LeadVoxFX.wav

@@ -1,0 +1,14 @@
+Bass:
+  - 01_Bass DI.wav
+  - 02_BassMic1.wav
+  - 03_BassMic2.wav
+AcGtr:
+  - 04_AcGtr.wav
+  - 05_AcGtrReampClose.wav
+  - 06_AcGtrReampFar.wav
+Accordian:
+  - 07_Accordian.wav
+PedalSteel:
+  - 08_PedalSteel.wav
+LeadVox:
+  - 09_LeadVox.wav

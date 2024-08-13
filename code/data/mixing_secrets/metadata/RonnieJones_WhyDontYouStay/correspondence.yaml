@@ -1,0 +1,53 @@
+Drum:
+  - 01_Drums Kick.wav
+  - 02_Drums Snare.wav
+  - 03_Overheads.wav
+  - 04_Tambourine.wav
+Bass:
+  - 05_BassDI.wav
+  - 06_BassAmp.wav
+AcousticGtr:
+  - 07_AcousticGtr.wav
+  - 08_AcousticGtrDT.wav
+ElecGtr:
+  - 09_ElecGtr01.wav
+  - 10_ElecGtr01DI.wav
+  - 11_ElecGtr02.wav
+  - 12_ElecGtr02DI.wav
+  - 13_ElecGtr03.wav
+  - 14_ElecGtr03Dry.wav
+  - 15_ElecGtr03DI.wav
+  - 16_ElecGtr04.wav
+  - 17_ElecGtr04DI.wav
+  - 18_ElecGtr05.wav
+  - 19_ElecGtr05DI.wav
+  - 20_ElecGtr06.wav
+  - 21_ElecGtr06DI.wav
+  - 22_ElecGtr07.wav
+  - 23_ElecGtr07Dry.wav
+  - 24_ElecGtr07DI.wav
+  - 25_ElecGtr08.wav
+  - 26_ElecGtr08Dry.wav
+  - 27_ElecGtr08DI.wav
+  - 28_ElecGtr09.wav
+  - 29_ElecGtr09DI.wav
+  - 30_ElecGtr10.wav
+  - 31_ElecGtr10DI.wav
+Hammond:
+  - 32_Hammond.wav
+  - 33_HammondRaw.wav
+Rhodes:
+  - 34_Rhodes.wav
+  - 35_RhodesDry.wav
+  - 36_RhodesRaw.wav
+LeadVox:
+  - 37_LeadVoxTapeEffect.wav
+  - 38_LeadVoxRaw.wav
+  - 39_LeadVoxDT1.wav
+  - 40_LeadVoxDT2.wav
+BackingVox:
+  - 41_BackingVox01.wav
+  - 42_BackingVox01DT1.wav
+  - 43_BackingVox01DT2.wav
+  - 44_BackingVox01DT3.wav
+  - 45_BackingVox02.wav

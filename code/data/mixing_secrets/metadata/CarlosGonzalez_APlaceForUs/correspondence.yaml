@@ -1,0 +1,80 @@
+DR:
+  - 01_Drumkit1_KickIn.wav
+  - 02_Drumkit1_KickOut1.wav
+  - 03_Drumkit1_SnareMic1.wav
+  - 04_Drumkit1_SnareMic2.wav
+  - 05_Drumkit1_Hihat.wav
+  - 06_Drumkit1_Tom1.wav
+  - 07_Drumkit1_Tom2.wav
+  - 08_Drumkit1_Tom3.wav
+  - 09_Drumkit2_RoomMono1.wav
+  - 10_Drumkit1_RoomMono2.wav
+  - 11_Drumkit1_RoomStereo.wav
+  - 12_Drumkit2_KickIn.wav
+  - 13_Drumkit2_KickSub.wav
+  - 14_Drumkit2_SnareMic1.wav
+  - 15_Drumkit2_SnareMic2.wav
+  - 16_Drumkit2_Overheads.wav
+  - 17_DrumSamples_Snare.wav
+  - 18_DrumSamples_HiHat.wav
+  - 19_DrumSamples_Cymbals.wav
+  - 20_DrumSamples_Toms.wav
+Percussion:
+  - 21_ElectroPercussion2.wav
+  - 21_Taiko.wav
+  - 22_Sticks.wav
+  - 23_ElectroPercussion1.wav
+  - 25_ElectroPercussion3.wav
+  - 26_ElectroHit.wav
+BA:
+  - 27_Bass.wav
+EG:
+  - 28_ElecGtr1.wav
+  - 29_ElecGtr2.wav
+  - 30_ElecGtr3.wav
+  - 31_ElecGtr4.wav
+Piano:
+  - 32_Piano.wav
+Hammond:
+  - 33_Hammond.wav
+SYN:
+  - 34_Synth.wav
+Mellotron:
+  - 35_Mellotron.wav
+Strings:
+  - 36_Strings1_Staccato.wav
+  - 37_Strings2_Ensemble.wav
+  - 38_Strings3_Soli.wav
+LV:
+  - 39_LeadVox.wav
+  - 40_LeadVoxDT.wav
+BV:
+  - 41_BackingVox1.wav
+  - 42_BackingVox2a.wav
+  - 43_BackingVox2b.wav
+  - 44_BackingVox2c.wav
+  - 45_BackingVox2d.wav
+  - 46_BackingVox3a.wav
+  - 47_BackingVox3b.wav
+  - 48_BackingVox3c.wav
+  - 49_BackingVox3d.wav
+  - 50_BackingVox4a.wav
+  - 51_BackingVox4b.wav
+  - 52_BackingVox4c.wav
+  - 53_BackingVox4d.wav
+  - 54_BackingVox4e.wav
+  - 55_BackingVox4f.wav
+  - 56_BackingVox5a.wav
+  - 57_BackingVox5b.wav
+  - 58_BackingVox5c.wav
+  - 59_BackingVox5d.wav
+  - 60_BackingVox6a.wav
+  - 61_BackingVox6b.wav
+  - 62_BackingVox7a.wav
+  - 63_BackingVox7b.wav
+  - 64_BackingVox7c.wav
+  - 65_BackingVox7d.wav
+  - 66_BackingVox7e.wav
+  - 67_BackingVox7f.wav
+  - 68_BackingVox8a.wav
+  - 69_BackingVox8b.wav

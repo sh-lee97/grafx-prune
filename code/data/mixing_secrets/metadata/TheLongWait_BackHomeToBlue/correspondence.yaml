@@ -1,0 +1,27 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_Overheads.wav
+  - 04_DrumsRoom.wav
+BA:
+  - 05_Bass.wav
+AG:
+  - 06_AcGtr.wav
+EG:
+  - 07_ElecGtr1Mic1.wav
+  - 08_ElecGtr1Mic2.wav
+  - 09_ElecGtr2.wav
+  - 10_ElecGtr3Mic1.wav
+  - 11_ElecGtr3Mic2.wav
+  - 12_ElecGtr4Mic1.wav
+  - 13_ElecGtr4Mic2.wav
+  - 14_ElecGtr5Mic1.wav
+  - 15_ElecGtr5Mic2.wav
+LV:
+  - 16_LeadVox.wav
+  - 17_LeadVoxDT.wav
+BV:
+  - 18_BackingVox1.wav
+  - 19_BackingVox1DT.wav
+  - 20_BackingVox2.wav
+  - 21_BackingVox2DT.wav

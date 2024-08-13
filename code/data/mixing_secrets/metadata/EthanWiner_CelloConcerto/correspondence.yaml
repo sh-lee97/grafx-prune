@@ -1,0 +1,24 @@
+STR:
+  - 01_ViolinSolo.wav
+  - 02_Violins1.wav
+  - 03_Violins2.wav
+  - 04_Violas.wav
+  - 05_CelloSolo.wav
+  - 06_Cellos.wav
+  - 07_Basses.wav
+Woodwind:
+  - 08_Piccolo.wav
+  - 09_Flutes.wav
+  - 10_Oboes.wav
+  - 11_Bassoons.wav
+  - 12_Clarinets.wav
+  - 13_BassClarinet.wav
+Brass:
+  - 14_Trumpets.wav
+  - 15_FrenchHorns.wav
+  - 16_Trombones.wav
+  - 17_Tuba.wav
+Percussion:
+  - 18_SnareDrum.wav
+  - 19_Timpani.wav
+  - 20_Percussion.wav

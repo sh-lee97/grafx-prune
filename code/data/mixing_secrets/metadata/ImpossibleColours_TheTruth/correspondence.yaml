@@ -1,0 +1,41 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_Hat.wav
+  - 04_Ride.wav
+  - 05_Overheads1.wav
+  - 06_Overheads2.wav
+  - 07_Tom1.wav
+  - 08_Tom2.wav
+  - 09_Tom3.wav
+BA:
+  - 10_BassAmp.wav
+  - 11_BassDI.wav
+Guitar:
+  - 12_Gtr01_VsDown.wav
+  - 13_Gtr02_VsUp.wav
+  - 14_Gtr03_Vs1SFX1_Dark.wav
+  - 15_Gtr04_Vs1SFX1_Light.wav
+  - 16_Gtr05_Vs1SFX2_Dark.wav
+  - 17_Gtr06_Vs1SFX2_Light.wav
+  - 18_Gtr07_SectionC_Dark.wav
+  - 19_Gtr08_SectionC_Light.wav
+  - 20_Gtr09_RisePatch_Dark.wav
+  - 21_Gtr10_RisePatch_Light.wav
+  - 22_Gtr11_SectionD_Dark.wav
+  - 23_Gtr12_SectionD_Light.wav
+  - 24_Gtr13_Solo.wav
+  - 25_Gtr14_Solo.wav
+Hammond:
+  - 26_Hammond01.wav
+  - 27_Hammond02.wav
+  - 28_Hammond03.wav
+  - 29_Hammond04.wav
+LV:
+  - 30_LeadVox1.wav
+  - 31_LeadVox2.wav
+BV:
+  - 32_BackingVox01.wav
+  - 33_BackingVox02.wav
+  - 34_BackingVox03.wav
+  - 35_BackingVox04.wav

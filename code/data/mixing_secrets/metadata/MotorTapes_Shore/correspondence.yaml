@@ -1,0 +1,50 @@
+DR:
+  - 01_Kick.wav
+  - 02_SnareUp.wav
+  - 03_SnareDown.wav
+  - 04_HiHat.wav
+  - 05_Tom.wav
+  - 06_Overheads.wav
+  - 07_Room.wav
+  - 08_TambourineSample.wav
+  - 09_CymbalsOD_Overheads.wav
+  - 10_CymbalsOD_Room.wav
+  - 11_HiHatOD.wav
+  - 12_HiHatOD_Overheads.wav
+  - 13_SnareRimOD.wav
+  - 14_SnareRimOD_Overheads.wav
+  - 15_SnareRimOD_Room.wav
+BA:
+  - 16_BassAmp.wav
+  - 17_BassDI.wav
+EG:
+  - 18_ElecGtr01.wav
+  - 19_ElecGtr02.wav
+  - 20_ElecGtr03.wav
+  - 21_ElecGtr04.wav
+  - 22_ElecGtr05.wav
+  - 23_ElecGtr06.wav
+  - 24_ElecGtr07.wav
+  - 25_ElecGtr08.wav
+  - 26_ElecGtr09.wav
+  - 27_ElecGtr10.wav
+  - 28_ElecGtr11.wav
+  - 29_ElecGtr12.wav
+  - 30_ElecGtr13.wav
+  - 31_ElecGtr14.wav
+SYN:
+  - 32_Synth01.wav
+  - 33_Synth02.wav
+  - 34_Synth03.wav
+PN:
+  - 35_Piano.wav
+LV:
+  - 36_LeadVox.wav
+  - 37_LeadVoxDT.wav
+BV:
+  - 38_BackingVox01.wav
+  - 39_BackingVox02.wav
+  - 40_BackingVox03.wav
+  - 41_BackingVox04.wav
+  - 42_BackingVox05.wav
+  - 43_BackingVox06.wav

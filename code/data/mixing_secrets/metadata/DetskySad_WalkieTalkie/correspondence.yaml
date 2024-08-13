@@ -1,0 +1,61 @@
+Drum:
+  - 01_Kick1.wav
+  - 02_Kick2.wav
+  - 03_Kick3.wav
+  - 04_Kick4.wav
+  - 05_Kick5.wav
+  - 06_Snare1.wav
+  - 07_Snare2.wav
+  - 08_Snare3.wav
+  - 09_Snare4.wav
+  - 10_Snare5.wav
+  - 11_Cymbal.wav
+Loop:
+  - 12_Loop1.wav
+  - 13_Loop2.wav
+  - 14_Loop3.wav
+  - 15_Loop4.wav
+  - 16_Loop5.wav
+  - 17_Loop6.wav
+Break:
+  - 18_Break1.wav
+  - 19_Break2.wav
+  - 20_Break2.wav
+SFX:
+  - 21_SampleSFX1.wav
+  - 22_SampleSFX2.wav
+  - 23_SampleSFX3.wav
+  - 24_SampleSFX4.wav
+  - 25_SampleSFX5.wav
+  - 26_SampleSFX6.wav
+  - 27_SampleSFX7.wav
+  - 28_SampleSFX8.wav
+Bass:
+  - 29_Bass.wav
+Gtr:
+  - 30_Gtr01a_Mic1.wav
+  - 31_Gtr01b_Mic2.wav
+  - 32_Gtr01c_Mic3.wav
+  - 33_Gtr02a_Mic1.wav
+  - 34_Gtr02b_Mic2.wav
+  - 35_Gtr03a_Mic1.wav
+  - 36_Gtr03b_Mic2.wav
+  - 37_Gtr03c_Mic3.wav
+  - 38_Gtr04a_Mic1.wav
+  - 39_Gtr04b_Mic2.wav
+  - 40_Gtr05a_Mic1.wav
+  - 41_Gtr05b_Mic2.wav
+  - 42_Gtr06a_Mic1.wav
+  - 43_Gtr06b_Mic2.wav
+  - 44_Gtr07a_Mic1.wav
+  - 45_Gtr07b_Mic2.wav
+  - 46_Gtr07c_Mic3.wav
+  - 47_Gtr07d_Mic4.wav
+Synth:
+  - 48_Synth.wav
+LeadVox:
+  - 49_LeadVox.wav
+BackingVox:
+  - 50_BackingVoxSFX1.wav
+  - 51_BackingVoxSFX2.wav
+  - 52_BackingVoxSFX3.wav

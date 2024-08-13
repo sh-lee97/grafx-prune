@@ -1,0 +1,37 @@
+DR:
+  - 01_Kick.wav
+  - 02_KickRoom.wav
+  - 03_Overhead.wav
+  - 04_Cymbals.wav
+  - 05_Snaps.wav
+  - 06_Tambourine.wav
+  - 07_Shaker.wav
+  - 08_TomRoll.wav
+  - 09_Claps1.wav
+  - 10_Claps2.wav
+  - 11_Claps3.wav
+  - 12_ClapsRoom.wav
+Cello:
+  - 13_Cello.wav
+AG:
+  - 14_AcousticGtr1.wav
+  - 15_AcousticGtr2.wav
+  - 16_AcousticGtr3.wav
+  - 17_AcousticGtr4.wav
+Banjo:
+  - 18_Banjo1.wav
+  - 19_Banjo2.wav
+EG:
+  - 20_ElecGtr.wav
+Piano:
+  - 21_Piano.wav
+LV:
+  - 22_LeadVox.wav
+  - 23_LeadVoxDT.wav
+BV:
+  - 24_BackingVox1.wav
+  - 25_BackingVox1DT.wav
+  - 26_BackingVox2.wav
+  - 27_BackingVox3.wav
+  - 28_BackingVox4.wav
+  - 29_BackingVox5.wav

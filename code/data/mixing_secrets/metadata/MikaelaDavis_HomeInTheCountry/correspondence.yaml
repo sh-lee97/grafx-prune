@@ -1,0 +1,29 @@
+BA:
+  - Bass Amp (prototype).wav
+  - Bass DI TDA-1.wav
+DR:
+  - DRUM Floor Tom  M82.wav
+  - DRUM Hi Hats M62.wav
+  - DRUM Kick In M82.wav
+  - DRUM Kick Out (prototype).wav
+  - DRUM OH TF11 Stereo Set.wav
+  - DRUM Rack Tom M81-SH.wav
+  - DRUM Ride M62.wav
+  - DRUM Snare Bottom M81.wav
+  - DRUM Snare Top M80-SH.wav
+GTR:
+  - GTR 1 M80.wav
+  - GTR 1 TF29.wav
+  - GTR 2 M80.wav
+  - GTR 2 TF29.wav
+Harp:
+  - Harp Amp M80.wav
+  - Harp Amp TF 11.wav
+  - Harp DI.wav
+Room:
+  - ROOM MS mid cardioid AR-70 STEREO.wav
+  - ROOM MS side figure 8 AR-70 STEREO.wav
+Vox:
+  - VOX Cian M80.wav
+  - VOX Mikaela Harp M80.wav
+  - VOX Shane M80.wav

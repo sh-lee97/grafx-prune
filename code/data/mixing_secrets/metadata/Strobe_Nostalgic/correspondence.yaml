@@ -1,0 +1,28 @@
+SFX:
+  - 01_SFX1.wav
+  - 02_SFX2.wav
+  - 03_SFX3.wav
+Bass:
+  - 04_Bass1.wav
+  - 05_Bass2.wav
+AcousticGtr:
+  - 06_AcousticGtr.wav
+ElecGtr:
+  - 07_ElecGtr.wav
+Synth:
+  - 08_Synth1.wav
+  - 09_Synth2.wav
+  - 10_Synth3.wav
+SynthSFX:
+  - 11_SynthSFX1.wav
+  - 12_SynthSFX2.wav
+LeadVox:
+  - 13_LeadVox.wav
+BackingVox:
+  - 14_BackingVox1.wav
+  - 15_BackingVox1DT.wav
+  - 16_BackingVox2.wav
+  - 17_BackingVox2DT.wav
+  - 18_BackingVox3.wav
+VoxSFX:
+  - 19_VoxSFX.wav

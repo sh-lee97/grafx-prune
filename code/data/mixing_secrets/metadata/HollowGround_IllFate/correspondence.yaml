@@ -1,0 +1,25 @@
+DR:
+  - 01_Kick.wav
+  - 02_SnareUp.wav
+  - 03_SnareDown.wav
+  - 04_HiHat.wav
+  - 05_ChinaCymbal.wav
+  - 06_Overheads.wav
+  - 07_DrumsRoom.wav
+  - 08_Tom1.wav
+  - 09_Tom2.wav
+BA:
+  - 10_BassDI.wav
+  - 11_BassAmp.wav
+EG:
+  - 12_ElecGtr1a_Amp1.wav
+  - 13_ElecGtr1b_Amp2.wav
+  - 14_ElecGtr1c_DI.wav
+  - 15_ElecGtr2a_Amp1.wav
+  - 16_ElecGtr2b_Amp2.wav
+  - 17_ElecGtr2c_DI.wav
+  - 18_ElecGtr3a_Amp.wav
+  - 19_ElecGtr3b_DI.wav
+Vox:
+  - 20_Vox1.wav
+  - 21_Vox2.wav

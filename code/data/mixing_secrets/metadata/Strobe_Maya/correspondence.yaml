@@ -1,0 +1,48 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_HiHat.wav
+  - 04_Tom1.wav
+  - 05_Tom2.wav
+  - 06_PercLoop.wav
+  - 07_Tambourine.wav
+  - 08_Shakers.wav
+  - 09_Cymbal.wav
+SFX:
+  - 10_SFX1.wav
+  - 11_SFX2.wav
+  - 12_SFX3.wav
+  - 13_SFX4.wav
+  - 14_SFX5.wav
+  - 15_SFX6.wav
+  - 16_Footsteps.wav
+  - 17_Breathing.wav
+  - 18_Rain.wav
+Bass:
+  - 19_Bass1.wav
+  - 20_Bass2.wav
+ElecGtr:
+  - 21_ElecGtrDI1.wav
+  - 22_ElecGtrDI1DT.wav
+  - 23_ElecGtrDI2.wav
+  - 24_ElecGtrDI2DT.wav
+Synth:
+  - 25_Synth1.wav
+  - 26_Synth2.wav
+  - 27_Synth3.wav
+  - 28_Synth4.wav
+  - 29_Synth5.wav
+LeadVox:
+  - 30_LeadVox1.wav
+  - 31_LeadVox1DT1.wav
+  - 32_LeadVox1DT2.wav
+  - 33_LeadVox2.wav
+  - 34_LeadVox3.wav
+BackingVox:
+  - 35_BackingVox1.wav
+  - 36_BackingVox1DT.wav
+  - 37_BackingVox2.wav
+  - 38_BackingVox2DT.wav
+  - 39_BackingVox3.wav
+  - 40_Whisper.wav
+  - 41_WhisperDT.wav

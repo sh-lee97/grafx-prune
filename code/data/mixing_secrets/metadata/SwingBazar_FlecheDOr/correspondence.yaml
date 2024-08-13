@@ -1,0 +1,13 @@
+Bass:
+  - 01_BassMic1.wav
+  - 02_BassMic2.wav
+ElecGtr:
+  - 03_ElecGtr1Mic.wav
+  - 04_ElecGtr1Amp.wav
+  - 05_ElecGtr2Amp.wav
+AcousticGtr:
+  - 06_AcousticGtr.wav
+Accordion:
+  - 07_Accordion.wav
+Violin:
+  - 08_Violin.wav

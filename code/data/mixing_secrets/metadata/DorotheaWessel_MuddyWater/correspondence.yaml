@@ -1,0 +1,67 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_KickSnareFX.wav
+  - 04_HiHat.wav
+  - 05_Tom1.wav
+  - 06_Tom2.wav
+  - 07_Tom3.wav
+  - 08_Overheads.wav
+  - 09_Overheads_CymbalsOnly.wav
+  - 10_Room.wav
+  - 11_Room_CymbalsOnly.wav
+Percussion:
+  - 12_Drip.wav
+  - 13_ReverseCymbal.wav
+  - 14_GongSwell_RemixAddition.wav
+  - 15_CymbalSwell_RemixAddition.wav
+  - 16_PercussionLoop_RemixAddition.wav
+  - 17_FingerCymbals_RemixAddition.wav
+Bass:
+  - 18_BassGuitar.wav
+  - 19_BassSynth.wav
+  - 20_BassSubSynth_RemixAddition.wav
+AcousticGtr:
+  - 21_AcousticGtr_RemixEdit.wav
+Synth:
+  - 22_Synth01.wav
+  - 23_Synth02_RemixAddition.wav
+  - 24_Synth03_RemixAddition.wav
+  - 25_Synth04_RemixAddition.wav
+  - 26_Synth05_RemixAddition.wav
+  - 27_Synth06_RemixAddition.wav
+  - 28_Synth07_RemixAddition.wav
+  - 29_Synth08_RemixAddition.wav
+  - 30_Synth09_RemixAddition.wav
+  - 31_Synth10_RemixAddition.wav
+  - 32_Synth11.wav
+  - 33_Synth12.wav
+  - 34_Synth13_RemixAddition.wav
+Trumpet:
+  - 35_Trumpet.wav
+Strings:
+  - 36_Violas_RemixAddition.wav
+  - 37_DoubleBasses_RemixAddition.wav
+  - 38_HarpSFX_RemixAddition.wav
+LeadVox:
+  - 39_LeadVox.wav
+  - 40_LeadVoxDT.wav
+BackingVox:
+  - 41_BackingVox01.wav
+  - 42_BackingVox02.wav
+  - 43_BackingVox02DT.wav
+  - 44_BackingVox03.wav
+  - 45_BackingVox03DT.wav
+  - 46_BackingVox04.wav
+  - 47_BackingVox04DT.wav
+  - 48_BackingVox05.wav
+  - 49_BackingVox05DT.wav
+  - 50_BackingVox06.wav
+  - 51_BackingVox06DT.wav
+  - 52_BackingVox07.wav
+  - 53_BackingVox07DT.wav
+  - 54_BackingVox08.wav
+  - 55_BackingVox08DT.wav
+  - 56_BackingVox09.wav
+  - 57_BackingVox10.wav
+  - 58_BackingVox11.wav

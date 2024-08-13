@@ -1,0 +1,27 @@
+Main:
+  - 01_MainPair1.wav
+  - 02_MainPair2.wav
+Spot:
+  - 03_SpotMic1_Tenors.wav
+  - 04_SpotMic2_Basses.wav
+  - 05_SpotMic3_Sopranos.wav
+  - 06_SpotMic4_Altos.wav
+Bass:
+  - 07_BassCloseMic1.wav
+  - 08_BassCloseMic2.wav
+  - 09_BassCloseMic3.wav
+  - 10_BassCloseMic4.wav
+  - 11_BassCloseMic5.wav
+PercSolo:
+  - 12_PercSolo_CloseMic1.wav
+  - 13_PercSolo_CloseMic2.wav
+  - 14_PercSolo_FarMicPair1.wav
+  - 15_PercSolo_FarMicPair2.wav
+PercChoir:
+  - 16_PercChoir MicPair1.wav
+  - 17_PercChoir MicPair2.wav
+  - 18_PercChoir MicPair3.wav
+Whistle:
+  - 19_Whistle.wav
+LeadVox:
+  - 20_LeadVox.wav

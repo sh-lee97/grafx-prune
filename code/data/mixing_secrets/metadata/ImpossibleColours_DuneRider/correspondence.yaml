@@ -1,0 +1,40 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_Hat.wav
+  - 04_Ride.wav
+  - 05_Overheads1.wav
+  - 06_Overheads2.wav
+  - 07_Tom1.wav
+  - 08_Tom2.wav
+  - 09_Tom3.wav
+  - 10_CymbalsOD1.wav
+  - 11_CymbalsOD2.wav
+Bass:
+  - 12_BassDI.wav
+  - 13_BassAmp.wav
+Gtr:
+  - 14_Gtr01.wav
+  - 15_Gtr02.wav
+  - 16_Gtr03.wav
+  - 17_Gtr04.wav
+  - 18_Gtr05.wav
+  - 19_Gtr06.wav
+  - 20_Gtr07.wav
+  - 21_Gtr08.wav
+  - 22_Gtr09.wav
+Hammond:
+  - 23_Hammond01.wav
+  - 24_Hammond02.wav
+Rhodes:
+  - 25_Rhodes.wav
+  - 26_RhodesSFX.wav
+LeadVox:
+  - 27_LeadVox01.wav
+  - 28_LeadVox02.wav
+  - 29_LeadVox02DT.wav
+  - 30_LeadVox03.wav
+  - 31_LeadVox03DT.wav
+BackingVox:
+  - 32_BackingVox01.wav
+  - 33_BackingVox02.wav

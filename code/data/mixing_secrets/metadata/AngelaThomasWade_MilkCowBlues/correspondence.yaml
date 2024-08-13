@@ -1,0 +1,19 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_Tom.wav
+  - 04_Overheads.wav
+Bass:
+  - 05_Bass.wav
+AcGtr:
+  - 06_AcGtr.wav
+Dobro:
+  - 07_Dobro.wav
+ElecGtr:
+  - 08_ElecGtr.wav
+Fiddle:
+  - 09_Fiddle.wav
+Piano:
+  - 10_Piano.wav
+LeadVox:
+  - 11_LeadVox.wav

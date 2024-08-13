@@ -1,0 +1,56 @@
+DR:
+  - 01_KickIn.wav
+  - 02_KickOut.wav
+  - 03_KickSub.wav
+  - 04_KickSample.wav
+  - 05_SnareUp.wav
+  - 06_SnareDown.wav
+  - 07_HiHat.wav
+  - 08_Overheads.wav
+  - 09_DrumsRoom.wav
+  - 10_Tom1.wav
+  - 11_Tom2.wav
+  - 12_Tom3.wav
+  - 13_Tom4.wav
+  - 14_Cymbal.wav
+  - 15_Gong.wav
+BA:
+  - 16_Bass.wav
+AG:
+  - 17_AcousticGtrFX.wav
+EG:
+  - 18_ElecGtr1.wav
+  - 19_ElecGtr2.wav
+STR:
+  - 20_Strings1.wav
+  - 21_Strings2.wav
+  - 22_Strings3.wav
+Brass:
+  - 23_Trumpets.wav
+  - 24_FrenchHorns.wav
+  - 25_Euphoniiums.wav
+  - 26_Cimbassi.wav
+  - 27_BassTrombones.wav
+  - 28_Tubas1.wav
+  - 29_Tubas2.wav
+PN:
+  - 30_Piano.wav
+Choir:
+  - 31_Choir.wav
+SYN:
+  - 32_Synth01.wav
+  - 33_Synth02.wav
+  - 34_Synth03.wav
+  - 35_Synth04.wav
+  - 36_Synth05.wav
+  - 37_Synth06.wav
+  - 38_Synth07.wav
+  - 39_Synth08.wav
+  - 40_Synth09.wav
+  - 41_Synth10.wav
+  - 42_Synth11.wav
+  - 43_Synth12.wav
+  - 44_Synth13.wav
+  - 45_Synth14.wav
+  - 46_Synth15.wav
+  - 47_Synth16.wav

@@ -1,0 +1,62 @@
+Drum:
+  - 01_KickIn.wav
+  - 02_KickOut.wav
+  - 03_SnareUp.wav
+  - 04_SnareDown.wav
+  - 05_HiHat.wav
+  - 06_DrumsLeakage.wav
+  - 07_Overheads.wav
+  - 08_DrumsRoom.wav
+  - 09_Tambourine.wav
+  - 10_HandClaps.wav
+  - 11_KickIn_AlternateTake.wav
+  - 12_KickOut_AlternateTake.wav
+  - 13_SnareUp_AlternateTake.wav
+  - 14_SnareDown_AlternateTake.wav
+  - 15_HiHat_AlternateTake.wav
+  - 16_Tom1_AlternateTake.wav
+  - 17_Tom2_AlternateTake.wav
+  - 18_Tom3_AlternateTake.wav
+  - 19_DrumsLeakage_AlternateTake.wav
+  - 20_Overheads_AlternateTake.wav
+  - 21_DrumsRoom_AlternateTake.wav
+  - 22_Tambourine1_AlternateTake.wav
+  - 23_Tambourine2_AlternateTake.wav
+Bass:
+  - 24_Bass.wav
+  - 25_Bass_AlternateTake.wav
+ElecGtr:
+  - 26_ElecGtr1.wav
+  - 27_ElecGtr2.wav
+  - 28_ElecGtr3.wav
+  - 29_ElecGtr4.wav
+  - 30_ElecGtr5.wav
+  - 31_ElecGtr6.wav
+  - 32_ElecGtr7.wav
+  - 33_ElecGtr8.wav
+  - 34_ElecGtr9.wav
+Organ:
+  - 35_Organ1.wav
+  - 36_Organ2.wav
+  - 37_Organ3.wav
+LeadVox:
+  - 38_LeadVox.wav
+  - 39_LeadVoxFX1.wav
+  - 40_LeadVoxFX2.wav
+BackingVox:
+  - 41_BackingVox1.wav
+  - 42_BackingVox1DT1.wav
+  - 43_BackingVox1DT2.wav
+  - 44_BackingVox1DT3.wav
+  - 45_BackingVox1FX1.wav
+  - 46_BackingVox1FX2.wav
+  - 47_BackingVox2.wav
+  - 48_BackingVox2DT.wav
+  - 49_BackingVox3.wav
+  - 50_BackingVox3DT.wav
+  - 51_BackingVox4.wav
+  - 52_BackingVox4DT.wav
+  - 53_BackingVox5.wav
+VocalSFX:
+  - 54_VocalSFX1.wav
+  - 55_VocalSFX2.wav

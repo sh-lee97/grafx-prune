@@ -1,0 +1,86 @@
+Drum:
+  - 01_Kick.wav
+  - 02_KickSide.wav
+  - 03_Snare.wav
+  - 04_Tom1.wav
+  - 05_Tom2.wav
+  - 06_Ride.wav
+  - 07_Overheads.wav
+  - 08_DrumsPZM.wav
+  - 09_DrumsWurstMic.wav
+  - 10_DrumsRoom.wav
+  - 11_DrumsRoomMono.wav
+  - 12_DrumsRoomMonoFX.wav
+  - 13_Tambourine1.wav
+  - 14_Tambourine2.wav
+  - 15_Tambourine3.wav
+Bass:
+  - 16_BassAmp.wav
+  - 17_BassDI.wav
+AG:
+  - 18_AcGtr1Mic1.wav
+  - 19_AcGtr1Mic2.wav
+  - 20_AcGtr1Mic3.wav
+  - 21_AcGtr2Mic1.wav
+  - 22_AcGtr2Mic2.wav
+  - 23_AcGtr2Mic3.wav
+EG:
+  - 24_ElecGtr1.wav
+  - 25_ElecGtr2.wav
+  - 26_ElecGtr3.wav
+  - 27_ElecGtr4.wav
+  - 28_ElecGtr5.wav
+  - 29_ElecGtr6.wav
+Piano:
+  - 30_Piano.wav
+Synth:
+  - 31_Synth1.wav
+  - 32_Synth2.wav
+  - 33_Synth3.wav
+  - 34_Synth4.wav
+  - 35_SynthSFX1.wav
+  - 36_SynthSFX2.wav
+  - 37_SynthSFX3.wav
+  - 38_SynthSFX4.wav
+Cellos:
+  - 39_Cellos_MicPair1.wav
+  - 40_Cellos_MicPair2.wav
+  - 41_Cellos_MicPair3.wav
+  - 42_Cellos_CloseMic.wav
+Strings:
+  - 43_Strings_MicPair1.wav
+  - 44_Strings_MicPair2.wav
+  - 45_Strings_MicPair3.wav
+  - 46_Strings_SectionMic_VlnI.wav
+  - 47_Strings_SectionMic_Vln2.wav
+  - 48_Strings_SectionMic_Vla.wav
+  - 49_Strings_SectionMic_Cello.wav
+  - 50_Strings_CellosCloseMic.wav
+  - 51_ReverseStrings_Mic1.wav
+  - 52_ReverseStrings_Mic2.wav
+LeadVox:
+  - 53_LeadVox_Singer1.wav
+  - 54_LeadVoxDT1_Singer1.wav
+  - 55_LeadVoxDT2_Singer1.wav
+BackingVox:
+  - 56_BackingVox01_Singer1.wav
+  - 57_BackingVox02a_Singer2.wav
+  - 58_BackingVox02b_Singer3.wav
+  - 59_BackingVox03a_Singer2.wav
+  - 60_BackingVox03b_Singer3.wav
+  - 61_BackingVox04a_Singer2.wav
+  - 62_BackingVox04b_Singer3.wav
+  - 63_BackingVox05a_Singer2.wav
+  - 64_BackingVox05b_Singer3.wav
+  - 65_BackingVox06a_Singer2.wav
+  - 66_BackingVox06b_Singer3.wav
+  - 67_BackingVox07a_Singer2.wav
+  - 68_BackingVox07b_Singer3.wav
+  - 69_BackingVox08a_Singer2.wav
+  - 70_BackingVox08b_Singer3.wav
+  - 71_BackingVox09_Singer1.wav
+  - 72_BackingVox09DT_Singer1.wav
+  - 73_BackingVox10_Singer1.wav
+  - 74_BackingVox10DT_Singer1.wav
+  - 75_BackingVox11_Singer1.wav
+  - 76_BackingVox11DT_Singer1.wav

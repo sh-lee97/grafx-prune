@@ -1,0 +1,24 @@
+DR:
+  - 01_Drums1.wav
+  - 02_Drums2.wav
+  - 03_Percussion1.wav
+  - 04_Percussion2.wav
+BA:
+  - 05_BassSynth.wav
+PN:
+  - 06_Piano1.wav
+  - 07_Piano2.wav
+  - 08_Piano3.wav
+  - 09_Piano4.wav
+Rhodes:
+  - 10_Rhodes1.wav
+  - 11_Rhodes2.wav
+  - 12_Rhodes3.wav
+SYN:
+  - 13_Synth1.wav
+  - 14_Synth2.wav
+LV:
+  - 15_LeadVox.wav
+BV:
+  - 16_BackingVox1.wav
+  - 17_BackingVox2.wav

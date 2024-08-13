@@ -1,0 +1,26 @@
+DR:
+  - 01_Daiko.wav
+  - 02_RomanWarDrum.wav
+  - 03_MalaysianDjembe.wav
+  - 04_Percussion1.wav
+  - 05_Percussion2.wav
+  - 06_Percussion3.wav
+Harp:
+  - 07_Harp.wav
+  - 08_HarpHarmonics.wav
+PN:
+  - 09_Piano.wav
+Psaltery:
+  - 10_Psaltery.wav
+Pad:
+  - 11_Pad1.wav
+Strings:
+  - 12_Pad2.wav
+  - 13_Violins1.wav
+  - 14_Violins2.wav
+  - 15_Violas.wav
+Brass:
+  - 16_Trombone.wav
+  - 17_Tuba.wav
+  - 18_FrenchHorn1.wav
+  - 19_FrenchHorn2.wav

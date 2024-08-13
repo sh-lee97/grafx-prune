@@ -1,0 +1,20 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_HiHat.wav
+  - 04_Cymbal.wav
+  - 05_Noise.wav
+BA:
+  - 06_Bass.wav
+SYN:
+  - 07_Synth1.wav
+  - 08_Synth2.wav
+  - 09_Synth3.wav
+  - 10_Synth4.wav
+PN:
+  - 11_Piano.wav
+LV:
+  - 12_LeadVox.wav
+BV:
+  - 13_BackingVox1.wav
+  - 14_BackingVox2.wav

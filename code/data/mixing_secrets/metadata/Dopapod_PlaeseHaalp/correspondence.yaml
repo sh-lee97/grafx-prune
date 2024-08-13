@@ -1,0 +1,27 @@
+BA:
+  - Bass-Amp-M80.wav
+  - Bass-Amp-TF47.wav
+  - Bass-TDA-1.wav
+DR:
+  - Drums-Floor-M81.wav
+  - Drums-Hat-M60.wav
+  - Drums-Kick In-M82.wav
+  - Drums-Over-TF51.wav
+  - Drums-Rack Tom-M81.wav
+  - Drums-Rack2-M80.wav
+  - Drums-Ride-M60.wav
+  - Drums-Room-M60.wav
+  - Drums-Snare Bot-M81.wav
+  - Drums-Snare-M80.wav
+Guitar:
+  - Guitar-M80.wav
+Keys:
+  - Keys-Clav-Proto.wav
+  - Keys-Juno-PDI.wav
+  - Keys-Leslie-M81.wav
+  - Keys-Moog-PDI.wav
+  - Keys-Piano-ADI.wav
+  - Keys-Rhodes-ADI.wav
+Vox:
+  - Vocals-GTR-M90.wav
+  - Vocals-Keys-M90.wav

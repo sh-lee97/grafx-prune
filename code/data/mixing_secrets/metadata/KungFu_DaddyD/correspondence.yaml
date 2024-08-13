@@ -1,0 +1,35 @@
+BA:
+  - BASS DI_04-07.wav
+  - BASS MIC_04-07.wav
+Chamber:
+  - CHAMBER_04-07.wav
+GTR:
+  - GTR CON_04-07.wav
+  - GTR DYN_04-07.wav
+HAM:
+  - HAM B_04-07.wav
+  - HAM TOP_04-07.wav
+K:
+  - K I_04-07.wav
+  - K O_04-07.wav
+Moog:
+  - MOOG_04-07.wav
+Nord:
+  - NORD_04-07.wav
+Tenor:
+  - TENOR_04-07.wav
+DR:
+  - OVER_04-07.wav
+  - SN B_04-07.wav
+  - SN T_04-07.wav
+  - TOM1_04-07.wav
+  - TOM2_04-07.wav
+  - TOM3_04-07.wav
+  - TOM4_04-07.wav
+Vox:
+  - VOX 1_04-07.wav
+  - VOX 2_04-07.wav
+  - VOX 3_04-07.wav
+  - VOX4_04-07.wav
+Yamaha:
+  - YAMAHA_04-07.wav

@@ -1,0 +1,50 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare1.wav
+  - 03_Snare2.wav
+  - 04_Snare3.wav
+  - 05_Snare4.wav
+  - 06_Snare5.wav
+  - 07_Snare6.wav
+  - 08_Snare7.wav
+  - 09_Sidestick1.wav
+  - 10_Sidestick2.wav
+  - 11_Clicks.wav
+  - 12_HiHat1.wav
+  - 13_HiHat2.wav
+  - 14_HiHat3.wav
+  - 15_HiHat4.wav
+  - 16_Toms.wav
+  - 17_Ride.wav
+  - 18_Cymbals1.wav
+  - 19_Cymbals2.wav
+  - 20_Cymbals3.wav
+  - 21_ReverseCymbal.wav
+  - 22_VibraSlap.wav
+  - 23_Triangle.wav
+  - 24_Tambourine.wav
+BA:
+  - 25_Bass1.wav
+  - 26_Bass2.wav
+  - 27_Bass3.wav
+  - 28_Bass4.wav
+EG:
+  - 29_ElecGtr1.wav
+  - 30_ElecGtr2.wav
+  - 31_ElecGtr3.wav
+  - 32_ElecGtr4.wav
+  - 33_ElecGtr5.wav
+EP:
+  - 34_ElecPiano1.wav
+  - 35_ElecPiano2.wav
+  - 36_ElecPiano2SFX1.wav
+  - 37_ElecPiano2SFX2.wav
+Idiophone:
+  - 38_Idiophone.wav
+ToyPiano:
+  - 39_ToyPiano.wav
+SFX:
+  - 40_SFX1.wav
+  - 41_SFX2.wav
+  - 42_SFX3.wav
+  - 43_SFX4.wav

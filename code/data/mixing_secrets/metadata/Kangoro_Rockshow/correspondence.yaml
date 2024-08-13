@@ -1,0 +1,43 @@
+Drum:
+  - 01_KickIn.wav
+  - 02_KickOut.wav
+  - 03_SnareUp.wav
+  - 04_SnareDown.wav
+  - 05_HiHat.wav
+  - 06_Overheads.wav
+  - 07_Ride.wav
+  - 08_Crash.wav
+BassSynth:
+  - 09_BassSynth1.wav
+  - 10_BassSynth2.wav
+  - 11_BassSub.wav
+BassGtr:
+  - 12_BassGtrDI.wav
+  - 13_BassGtrAmp.wav
+Synth:
+  - 14_Synth.wav
+Sample:
+  - 15_Sample.wav
+Decks:
+  - 16_Decks1.wav
+  - 17_Decks2.wav
+  - 18_Decks3.wav
+  - 19_Decks4.wav
+  - 20_Decks5.wav
+LeadVox:
+  - 21_LeadVox1.wav
+  - 22_LeadVox1DT.wav
+  - 23_LeadVox1DTLow.wav
+  - 24_LeadVox2.wav
+  - 25_LeadVox2DT.wav
+BackingVox:
+  - 26_BackingVox1.wav
+  - 27_BackingVox2.wav
+  - 28_BackingVox3.wav
+  - 29_BackingVox4.wav
+  - 30_BackingVox5.wav
+  - 31_BackingVox6.wav
+  - 32_BackingVox7.wav
+  - 33_BackingVox8.wav
+  - 34_BackingVox9.wav
+  - 35_VoxSFX.wav

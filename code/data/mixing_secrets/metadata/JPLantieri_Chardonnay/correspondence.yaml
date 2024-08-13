@@ -1,0 +1,19 @@
+DR:
+  - 01_Kick.wav
+  - 02_KickFX.wav
+  - 03_Percussion1.wav
+  - 04_Percussion2.wav
+BA:
+  - 05_Bass.wav
+  - 06_SubBass.wav
+SYN:
+  - 07_Synth1.wav
+  - 08_Synth2.wav
+  - 09_Synth3.wav
+  - 10_Synth4.wav
+  - 11_Synth5.wav
+SFX:
+  - 12_SFX1.wav
+  - 13_SFX2.wav
+Vox:
+  - 14_Vox.wav

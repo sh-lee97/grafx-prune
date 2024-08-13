@@ -1,0 +1,17 @@
+Percussion:
+  - 01_Percussion.wav
+  - 02_Woodblock.wav
+  - 03_TomsCymbals.wav
+BA:
+  - 04_Bass.wav
+PN:
+  - 05_Piano.wav
+Vibe:
+  - 06_Vibes.wav
+STR:
+  - 07_Strings1.wav
+  - 08_Strings2.wav
+Horn:
+  - 09_FrenchHorns.wav
+LV:
+  - 10_LeadVox.wav

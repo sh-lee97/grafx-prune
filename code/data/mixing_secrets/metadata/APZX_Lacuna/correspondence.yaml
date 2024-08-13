@@ -1,0 +1,43 @@
+Drum:
+  - 01_Kick.wav
+  - 02_SubDrop.wav
+  - 03_RimShot.wav
+  - 04_Snare.wav
+  - 05_Clap.wav
+  - 06_Hat1.wav
+  - 07_Hat2.wav
+  - 08_Hat3.wav
+  - 09_Hat4.wav
+  - 10_Hat5.wav
+  - 11_Hat6.wav
+  - 12_Hat7.wav
+  - 13_Hat8.wav
+  - 14_Tom1.wav
+  - 15_Tom2.wav
+Bass:
+  - 16_Bass1.wav
+  - 17_Bass2.wav
+SFX:
+  - 18_SFX1.wav
+  - 19_SFX2.wav
+  - 20_SFX3.wav
+  - 21_SFX4.wav
+  - 22_SFX5.wav
+  - 23_SFX6.wav
+Synth:
+  - 24_Synth01.wav
+  - 25_Synth02.wav
+  - 26_Synth03.wav
+  - 27_Synth04.wav
+  - 28_Synth05.wav
+  - 29_Synth06.wav
+  - 30_Synth07.wav
+  - 31_Synth08.wav
+  - 32_Synth09.wav
+  - 33_Synth10.wav
+  - 34_Synth11.wav
+  - 35_Synth12.wav
+SynthLead:
+  - 36_SynthLead1.wav
+  - 37_SynthLead2.wav
+  - 38_SynthLead3.wav

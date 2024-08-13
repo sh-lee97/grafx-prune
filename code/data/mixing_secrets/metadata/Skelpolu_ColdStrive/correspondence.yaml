@@ -1,0 +1,19 @@
+DR:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_Hi-Hat.wav
+  - 04_Clap.wav
+  - 05_Cymbal.wav
+BA:
+  - 06_Bass.wav
+  - 07_BassSub.wav
+PN:
+  - 08_Piano.wav
+  - 09_PianoSFX.wav
+SYN:
+  - 10_Synth1.wav
+  - 11_Synth2.wav
+  - 12_Synth3.wav
+  - 13_Synth4.wav
+  - 14_Synth5.wav
+  - 15_Synth6.wav

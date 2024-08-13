@@ -1,0 +1,28 @@
+Narration:
+  - 01_Narration.wav
+SFX:
+  - 02_AsizaBreathing.wav
+  - 03_LakeAmbience.wav
+  - 04_ForestAmbience.wav
+  - 05_HighwayAmbience.wav
+  - 06_PartyWalla.wav
+  - 07_WinterForestAmbience.wav
+  - 08_ClassroomAmbience.wav
+  - 09_OfficeAmbience.wav
+  - 10_StumblingGrass.wav
+  - 11_StumblingWood.wav
+  - 12_Knocking.wav
+  - 13_Door.wav
+  - 14_RunningRobert.wav
+  - 15_RunningAsiza.wav
+  - 16_AsizaGiggles.wav
+  - 17_ClimbingTree.wav
+  - 18_Flock.wav
+  - 19_ToyHelicopter.wav
+  - 20_ToyCar.wav
+  - 21_TreeChopFall.wav
+  - 22_AsizaSobbing.wav
+  - 23_AsizaRunningSnow.wav
+  - 24_Bulldozer.wav
+Music:
+  - 25_Music.wav

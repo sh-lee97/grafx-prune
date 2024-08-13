@@ -1,0 +1,45 @@
+DR:
+  - DRUM ROOM - U47  - BAE 1073.wav
+  - KICK - M80 (new instrument prototype design) - API 1608 .wav
+  - KICK - M80 (stock version) - API 1608.wav
+  - KICK - U47 - API 1608.wav
+  - SNARE BOTTOM - M80 - API 1608.wav
+  - SNARE TOP - M80 - API 1608.wav
+  - HI HAT - ELA M 260 - API 1608.wav
+  - RIDE - ELA M 260 - BAE 1073.wav
+  - TOM 1 - M80 - API 1608.wav
+  - TOM 2 - M80 - API 1608.wav
+  - OH LEFT - CU-29 copperhead - BAE 1073.wav
+  - OH LEFT - ELAM 260 - BAE 1073.wav
+  - OH RIGHT - CU-29 copperhead - BAE 1073.wav
+  - OH RIGHT - ELAM 260 - BAE 1073.wav
+  - OH XY LEFT - AR-70 STEREO - BAE 1073.wav
+  - OH XY RIGHT - AR-70 STEREO - BAE 1073.wav
+Keys:
+  - KEYS LEFT - DI - LaChappel 992.wav
+  - KEYS RIGHT - DI - LaChappel 992.wav
+BA:
+  - BASS - DI  - API 1608.wav
+  - BASS CAB - CU-29 copperhead - BAE 1073.wav
+  - BASS CAB - U47 - BAE 1073.wav
+GTR:
+  - GUITAR - AK-47mkII - BAE 1073.wav
+  - GUITAR - AR-51 - BAE 1073.wav
+  - GUITAR - CU-29 copperhead - BAE 1073.wav
+  - GUITAR - M80 (stock) - BAE 1073.wav
+  - GUITAR M80 (M81 instrument prototype) - BAE 1073.wav
+  - GUITAR ROOM - U47 - BAE 1073.wav
+Chorus:
+  - CHORUS VOCAL - U47 - BAE 1073.wav
+  - CHORUS VOCALS - C12 - BAE 1073.wav
+Vox:
+  - GROUP VOCALS -  U47 - BAE 1073.wav
+  - GROUP VOCALS - C12 - BAE 1073.wav
+  - GROUP VOCALS 2 - C12 - BAE 1073.wav
+  - GROUP VOCALS 2 - U47 - BAE 1073.wav
+LV:
+  - LEAD VOCALS - AK-47kII - BAE 1073.wav
+  - LEAD VOCALS - ELA M 251 - BAE 1073.wav
+  - LEAD VOCALS - U47 - BAE 1073.wav
+Scratch:
+  - VOCALS (live scratch) M80  - API 1608.wav

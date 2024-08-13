@@ -1,0 +1,28 @@
+Drum:
+  - 01_Kick.wav
+  - 02_Snare.wav
+  - 03_Overhead.wav
+Bass:
+  - 04_BassDI.wav
+ElecGtr:
+  - 05_ElecGtr.wav
+Piano:
+  - 06_Piano.wav
+Trumpet:
+  - 07_Trumpet1.wav
+  - 08_Trumpet2.wav
+  - 09_Trumpet3.wav
+  - 10_Trumpet4.wav
+SaxAlto:
+  - 11_SaxAlto01.wav
+  - 12_SaxAlto02.wav
+SaxTenor:
+  - 13_SaxTenor01.wav
+  - 14_SaxTenor02.wav
+SaxBaritone:
+  - 15_SaxBaritone.wav
+Trombone:
+  - 16_Trombone1.wav
+  - 17_Trombone2.wav
+  - 18_Trombone3.wav
+  - 19_TromboneBass.wav

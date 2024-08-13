@@ -1,0 +1,94 @@
+DR:
+  - 01_Drumkit1_KickIn.wav
+  - 02_Drumkit1_KickOut.wav
+  - 03_Drumkit1_KickBeater.wav
+  - 04_Drumkit1_KickSub.wav
+  - 05_Drumkit1_SnareUp.wav
+  - 06_Drumkit1_SnareDown.wav
+  - 07_Drumkit1_HiHat.wav
+  - 08_Drumkit1_Tom1.wav
+  - 09_Drumkit1_Tom2.wav
+  - 10_Drumkit1_OverheadsStereo.wav
+  - 11_Drumkit1_OverheadMono.wav
+  - 12_Drumkit1_TrashMic.wav
+  - 13_Drumkit1_Room.wav
+  - 14_TomsOD1_Tom1.wav
+  - 15_TomsOD1_Tom2.wav
+  - 16_TomsOD1_Overheads.wav
+  - 17_TomsOD1_Room.wav
+  - 18_TomsOD2_Tom1.wav
+  - 19_TomsOD2_Tom2.wav
+  - 20_TomsOD2_Overheads.wav
+  - 21_TomsOD2_Room.wav
+  - 22_SnareOD_SnareUp.wav
+  - 23_SnareOD_SnareDown.wav
+  - 24_SnareOD_TrashMic.wav
+  - 25_SnareOD_Room.wav
+  - 26_Loop_HiHat.wav
+  - 27_Loop TrashMic.wav
+  - 28_Loop_Room.wav
+  - 29_Tambourine1.wav
+  - 30_Tambourine1Room.wav
+  - 31_Tambourine2.wav
+  - 32_Tambourine2Room.wav
+  - 33_808_Snare.wav
+  - 34_808_HiHat.wav
+  - 35_CymbalRolls.wav
+  - 36_CymbalRolls.wav
+BA:
+  - 37_BassAmp.wav
+  - 38_BassAmpRoom.wav
+  - 39_BassDI.wav
+AG:
+  - 40_AcousticGtr1Mic1.wav
+  - 41_AcousticGtr1Mic2.wav
+  - 42_AcousticGtr1Mic3.wav
+  - 43_AcousticGtr2Mic1.wav
+  - 44_AcousticGtr2Mic2.wav
+  - 45_AcousticGtr2Mic3.wav
+EG:
+  - 46_ElecGtr1Mic1.wav
+  - 47_ElecGtr1Mic2.wav
+  - 48_ElecGtr1Room.wav
+  - 49_ElecGtr1DI.wav
+  - 50_ElecGtr2Mic1.wav
+  - 51_ElecGtr2Mic2.wav
+  - 52_ElecGtr2Room.wav
+  - 53_ElecGtr2DI.wav
+  - 54_ElecGtr3Mic1.wav
+  - 55_ElecGtr3Mic2.wav
+  - 56_ElecGtr3Room.wav
+  - 57_ElecGtr3DI.wav
+  - 58_ElecGtr4Mic1.wav
+  - 59_ElecGtr4Mic2.wav
+  - 60_ElecGtr4Room.wav
+  - 61_ElecGtr4DI.wav
+  - 62_ElecGtr5Mic1.wav
+  - 63_ElecGtr5Mic2.wav
+  - 64_ElecGtr5Room.wav
+  - 65_ElecGtr5DI.wav
+  - 66_ElecGtr6Mic1.wav
+  - 67_ElecGtr6Mic2.wav
+  - 68_ElecGtr6Room.wav
+  - 69_ElecGtr6DI.wav
+PN:
+  - 70_Piano1.wav
+  - 71_Piano2.wav
+SYN:
+  - 72_Synth1.wav
+  - 73_Synth2.wav
+  - 74_Synth3.wav
+FarFisa:
+  - 75_Farfisa.wav
+Rhodes:
+  - 76_Rhodes1.wav
+  - 77_Rhodes1FX.wav
+  - 78_Rhodes2.wav
+  - 79_Rhodes2FX.wav
+Glockenspiel:
+  - 80_Glockenspiel.wav
+LV:
+  - 81_LeadVox.wav
+  - 82_LeadVoxDT.wav
+BV:
+  - 83_BackingVox.wav

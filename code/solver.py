@@ -51,13 +51,13 @@ class MusicMixingConsoleSolver(pl.LightningModule):
                 case "stereo_imager":
                     p = processors.SideGainImager(**kwargs)
                 case "compressor":
-                    p = processors.ApproxCompressor(**kwargs)
+                    p = processors.Compressor(**kwargs)
                 case "noisegate":
-                    p = processors.ApproxNoiseGate(**kwargs)
+                    p = processors.NoiseGate(**kwargs)
                 case "delay":
-                    p = processors.StereoMultitapDelay(**kwargs)
+                    p = processors.MultitapDelay(**kwargs)
                 case "reverb":
-                    p = processors.MidSideFilteredNoiseReverb(**kwargs)
+                    p = processors.STFTMaskedNoiseReverb(**kwargs)
 
             match processor_type:
                 case "eq" | "reverb":

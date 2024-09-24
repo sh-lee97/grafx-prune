@@ -23,10 +23,26 @@ def prune_parameters(G_tensor, graph_parameters, prune_mask, node_config):
     for node_type, parameters in graph_parameters.items():
         idx = node_config.node_type_to_index[node_type]
         keep_mask_type = keep_mask[G_tensor.node_types == idx]
-        pruned_graph_parameters[node_type] = nn.ParameterDict(
-            {k: v[keep_mask_type] for k, v in parameters.items()}
+        pruned_graph_parameters[node_type] = _prune_parameters(
+            parameters, keep_mask_type
         )
-    return nn.ModuleDict(pruned_graph_parameters)
+    return nn.ParameterDict(pruned_graph_parameters)
+
+
+def _prune_parameters(graph_parameters, prune_mask):
+    if isinstance(graph_parameters, dict) or isinstance(
+        graph_parameters, nn.ParameterDict
+    ):
+        new_graph_parameters = {
+            k: _prune_parameters(v, prune_mask) for k, v in graph_parameters.items()
+        }
+        if isinstance(graph_parameters, nn.ParameterDict):
+            new_graph_parameters = nn.ParameterDict(new_graph_parameters)
+    else:
+        new_graph_parameters = graph_parameters[prune_mask]
+        if isinstance(graph_parameters, nn.Parameter):
+            new_graph_parameters = nn.Parameter(new_graph_parameters)
+    return new_graph_parameters
 
 
 def prune_grafx(G, prune_mask, types_to_keep=["in", "mix", "out"]):

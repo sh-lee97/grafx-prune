@@ -45,6 +45,7 @@ def setup_loggers(args):
 
 
 def run_train(args):
+    torch.manual_seed(42)
     create_log_directory(args)
     run, logger = setup_loggers(args)
 
@@ -61,6 +62,7 @@ def run_train(args):
         fast_dev_run=args.debug,
         num_sanity_val_steps=0,
         check_val_every_n_epoch=1,
+        # detect_anomaly=True,
     )
 
     args_cont = OmegaConf.to_container(args)

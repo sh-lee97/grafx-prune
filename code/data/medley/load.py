@@ -1,7 +1,7 @@
 import pickle
 from functools import partial
 from glob import glob
-from os.path import dirname, join, realpath
+from os.path import basename, dirname, join, realpath
 
 import numpy as np
 import soundfile as sf
@@ -16,19 +16,15 @@ BASE_DIR = configs["base_dir"]
 SKIPS = configs["skips"]
 
 
-def detach_base_dir(x, d=2):
-    return join(*x.split("/")[-d:])
-
-
 def check_song(song, min_num_inputs=0, max_num_inputs=150):
     if any([s in song for s in SKIPS]):
         return False
-    num_inputs = len(glob(join(BASE_DIR, song, "*RAW/*.wav")))
+    num_inputs = len(glob(join(BASE_DIR, song, "*RAW", "*.wav")))
     if num_inputs < min_num_inputs:
         return False
     if num_inputs > max_num_inputs:
         return False
-    song = song.split("/")[-1]
+    song = basename(song)
     return True
 
 
@@ -67,7 +63,7 @@ def get_medley_song_list(
             assert False
 
     assert len(song_list) != 0
-    song_list = [detach_base_dir(s, 1) for s in song_list]
+    song_list = [basename(s) for s in song_list]
 
     return song_list
 

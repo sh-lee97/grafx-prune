@@ -1,7 +1,8 @@
+import os
 import pickle
 from functools import partial
 from glob import glob
-from os.path import dirname, isfile, join, realpath
+from os.path import basename, dirname, isfile, join, realpath
 
 import numpy as np
 import soundfile as sf
@@ -14,10 +15,6 @@ configs = safe_load(open(base_config_dir, "rb"))
 
 BASE_DIR = configs["base_dir"]
 SKIPS = configs["skips"]
-
-
-def detach_base_dir(x, d=4):
-    return join(*x.split("/")[-d:])
 
 
 def check_song(song, min_num_inputs=0, max_num_inputs=150):
@@ -70,7 +67,7 @@ def get_mixing_secrets_song_list(
             assert False
 
     assert len(song_list) != 0
-    song_list = [detach_base_dir(s, 1) for s in song_list]
+    song_list = [basename(s) for s in song_list]
     return song_list
 
 
@@ -89,7 +86,8 @@ def load_mixing_secrets_metadata(song, sr=30000):
     metadata["correspondence"] = correspondence_data
 
     matched_dry_dirs = flatten(list(correspondence_data["matched"].values()))
-    dry_dir = glob(join(song_dir, f"*/"))[0]
+    dry_dir = [f.path for f in os.scandir(song_dir) if f.is_dir()][0]
+
     metadata["matched_dry_dirs"] = [join(dry_dir, d) for d in matched_dry_dirs]
 
     metadata["mix_dir"] = join(song_dir, f"mix.wav")

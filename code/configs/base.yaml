@@ -1,5 +1,5 @@
 project: grafx_prune # project name that will be used in wandb
-base_dir: /workspace/grafx_prune # base directory that logs are saved
+base_dir: /workspace/grafx_prune
 
 id: null
 debug: false

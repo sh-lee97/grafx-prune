@@ -1,7 +1,6 @@
 from os.path import basename, join
 
 import numpy as np
-
 from grafx.data import GRAFX
 
 
@@ -19,13 +18,10 @@ def get_name(dataset, wav_dir):
 
 def detach_base_dir(x, dataset):
     match dataset:
-        case "medley":
-            crop = -1
-        case "mixing_secrets":
-            crop = -1
+        case "medley" | "mixing_secrets":
+            return basename(x)
         case _:
             assert False
-    return join(*x.split("/")[crop:])
 
 
 def construct_mixing_console(
@@ -34,6 +30,7 @@ def construct_mixing_console(
     multi_insert_processors,
     node_configs=None,
     load_unmatched_as_source=True,
+    sanity_check=True,
 ):
     G = GRAFX(config=node_configs, invalid_op="error")
 
@@ -47,9 +44,12 @@ def construct_mixing_console(
     for dry_track in matched_dry_track_dirs:
         name = get_name(dataset, dry_track)
         in_id = G.add("in", name=name)  # , wav_dir=dry_track)
-        start_id, end_id = G.add_serial_chain(dry_insert_processors)
-        G.connect(in_id, start_id)
-        dry_outs.append(end_id)
+        if len(dry_insert_processors) == 0:
+            dry_outs.append(in_id)
+        else:
+            start_id, end_id = G.add_serial_chain(dry_insert_processors)
+            G.connect(in_id, start_id)
+            dry_outs.append(end_id)
 
     # mix insert chains
     dry_track_dirs = [detach_base_dir(d, dataset) for d in matched_dry_track_dirs]
@@ -64,7 +64,14 @@ def construct_mixing_console(
                 no_match = False
                 break
         if no_match:
-            continue
+            if sanity_check:
+                assert False, f"""
+                No match found for subgroup {multi_track}. 
+                Its corresponding dry tracks are: {dry_tracks}.
+                However, the following dry tracks are available: {dry_track_dirs}.
+                """
+            else:
+                continue
 
         name = get_name(dataset, multi_track)
         mix_id = G.add("mix")
@@ -72,9 +79,12 @@ def construct_mixing_console(
             if dry_track in dry_track_dirs:
                 dry_out = dry_outs[dry_track_dirs.index(dry_track)]
                 G.connect(dry_out, mix_id)
-        start_id, end_id = G.add_serial_chain(multi_insert_processors)
-        G.connect(mix_id, start_id)
-        multi_outs.append(end_id)
+        if len(multi_insert_processors) == 0:
+            multi_outs.append(mix_id)
+        else:
+            start_id, end_id = G.add_serial_chain(multi_insert_processors)
+            G.connect(mix_id, start_id)
+            multi_outs.append(end_id)
 
     # unmatched:
     if load_unmatched_as_source:

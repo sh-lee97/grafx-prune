@@ -1,4 +1,4 @@
-id: console_4
+id: console_6
 processors: 
   - eq
   - compressor

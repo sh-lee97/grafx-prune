@@ -4,22 +4,22 @@ from os.path import join
 
 import matplotlib.pyplot as plt
 import numpy as np
+import pyloudnorm as pyln
 import pytorch_lightning as pl
 import soundfile as sf
 import torch
 import torch.nn as nn
 from data.load import load_metadata
-from loss import MRSTFTLoss
-from mixing_console import construct_mixing_console
-from prune import prune_grafx, prune_parameters
-from tqdm import tqdm
-from utils import overlap_add
-
 from grafx import processors
 from grafx.data import NodeConfigs, convert_to_tensor
 from grafx.draw import draw_grafx
 from grafx.render import prepare_render, render_grafx, reorder_for_fast_render
 from grafx.utils import count_nodes_per_type, create_empty_parameters
+from loss import MRSTFTLoss
+from mixing_console import construct_mixing_console
+from prune import prune_grafx, prune_parameters
+from tqdm import tqdm
+from utils import overlap_add
 
 
 class MusicMixingConsoleSolver(pl.LightningModule):
@@ -215,6 +215,9 @@ class MusicMixingConsoleSolver(pl.LightningModule):
             common_parameters={"drywet_weight": mask_weight},
             parameters_grad=self.training,
         )
+        if self.debug:
+            print(batch["source"].shape)
+            print(mix_pred.shape)
         return mix_pred, intermediates_list
 
     def get_weight(self, prune_mask=None):
@@ -431,10 +434,18 @@ class MusicMixingConsoleSolver(pl.LightningModule):
         mix_pred = overlap_add(
             self.mix_pred_list, sr=30000, eval_warmup_sec=1, crossfade_ms=2
         )
-        sf.write(join(self.save_dir, "orig.wav"), mix[0].T.numpy(), self.sr)
-        sf.write(
-            join(self.save_dir, f"{self.id}_pred.wav"), mix_pred[0].T.numpy(), self.sr
-        )
+        mix = mix[0].T.numpy()
+        meter = pyln.Meter(30000)  # create BS.1770 meter
+        loudness = meter.integrated_loudness(mix)
+        mix = pyln.normalize.loudness(mix, loudness, -23.0)
+
+        mix_pred = mix_pred[0].T.numpy()
+        meter = pyln.Meter(30000)  # create BS.1770 meter
+        loudness = meter.integrated_loudness(mix_pred)
+        mix_pred = pyln.normalize.loudness(mix_pred, loudness, -23.0)
+
+        sf.write(join(self.save_dir, "orig.wav"), mix, self.sr)
+        sf.write(join(self.save_dir, f"{self.id}_pred.wav"), mix_pred, self.sr)
 
         if self.prune:
             fig, _ = draw_grafx(self.G, node_above="rendering_order")

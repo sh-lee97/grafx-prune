@@ -38,7 +38,7 @@ def get_song_list(dataset, mode, min_num_inputs=0, max_num_inputs=150):
             assert False
 
 
-def load_track(wav_dir, start, audio_len, sr=30000, half_precision=True):
+def load_track(wav_dir, start, audio_len, sr=30000, half_precision=False):
     """
     load a single wav track and return.
     start: read offset. if negative, left-pad zeros with that amount.
@@ -91,7 +91,7 @@ def load_song(
     omit_silent_tracks=False,
     start=None,
     as_tensor=True,
-    half_precision=True,
+    half_precision=False,
 ):
     data = {}
 

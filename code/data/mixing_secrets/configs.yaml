@@ -1,4 +1,4 @@
-base_dir: /data1/share/mixing_secrets_mix/30k
+base_dir: /data2/share/mixing_secrets_mix/30k
 skips: 
   - BolzAndKnecht_Summertime
   - Fergessen_NosPalpitants

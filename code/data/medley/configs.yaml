@@ -1,4 +1,4 @@
-base_dir: /data1/share/medley1/all/30k
+base_dir: /data2/share/medley1/all/30k
 skips:
   - AimeeNorwich_Child
   - EthanHein_BluesForNofi

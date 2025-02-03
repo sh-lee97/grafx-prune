@@ -55,6 +55,8 @@ def get_medley_song_list(
             song_list = sorted(song_list[:n_train])
         case "valid":
             song_list = sorted(song_list[n_train:n_valid])
+        case "valid_yaml":
+            song_list = safe_load(open(join(script_path, "valid.yaml"), "r"))
         case "test":
             song_list = sorted(song_list[n_valid:])
         case "valid_and_test":

@@ -575,3 +575,8 @@ class MusicMixingConsoleSolver(pl.LightningModule):
             v = overlap_add(v, sr=30000, eval_warmup_sec=1, crossfade_ms=2)
             v = v[0].T.numpy()
             sf.write(join(self.save_dir, f"{k}_inference.wav"), v, self.sr)
+
+        fig, _ = draw_grafx(G, node_above="node_id")
+        save_path = join(self.save_dir, f"{self.id}_graph_node_id.pdf")
+        fig.savefig(save_path, bbox_inches="tight", pad_inches=0.1)
+        plt.close(fig)

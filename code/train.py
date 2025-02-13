@@ -122,9 +122,21 @@ def setup_args():
     return args
 
 
+def inference(args):
+    torch.manual_seed(42)
+    create_log_directory(args)
+    args_cont = OmegaConf.to_container(args)
+    solver = MusicMixingConsoleSolver(args_cont).cuda()
+    datamodule = SingleTrackOverfitDataModule(args_cont)
+    solver.run_inference(args.pickle_path, datamodule)
+
+
 if __name__ == "__main__":
     args = setup_args()
-    if args.multiple_runs:
-        run_trains(args)
+    if args.inference:
+        inference(args)
     else:
-        run_train(args)
+        if args.multiple_runs:
+            run_trains(args)
+        else:
+            run_train(args)

@@ -8,12 +8,12 @@ def true_or_false(p):
     return np.random.choice([True, False], p=[p, 1 - p])
 
 
-def get_name(dataset, wav_dir):
+def get_name(dataset, song, wav_dir):
     match dataset:
         case "medley":
-            return basename(wav_dir)[-9:-4]
+            return basename(wav_dir).replace(".wav", "").replace(song + "_STEM_", "")
         case "mixing_secrets":
-            return basename(wav_dir)[-9:-4]
+            return basename(wav_dir).replace(".wav", "")
 
 
 def detach_base_dir(x, dataset):
@@ -38,11 +38,12 @@ def construct_mixing_console(
     matched_dry_track_dirs = metadata["matched_dry_dirs"]
     unmatched_dirs = metadata.get("unmatched_dirs", [])
     dataset = metadata["dataset"]
+    song = metadata["song"]
 
     # dry insert chains
     dry_outs = []
     for dry_track in matched_dry_track_dirs:
-        name = get_name(dataset, dry_track)
+        name = get_name(dataset, song, dry_track)
         in_id = G.add("in", name=name)  # , wav_dir=dry_track)
         if len(dry_insert_processors) == 0:
             dry_outs.append(in_id)
@@ -73,8 +74,8 @@ def construct_mixing_console(
             else:
                 continue
 
-        name = get_name(dataset, multi_track)
-        mix_id = G.add("mix")
+        name = get_name(dataset, song, multi_track)
+        mix_id = G.add("mix", name=name)
         for dry_track in dry_tracks:
             if dry_track in dry_track_dirs:
                 dry_out = dry_outs[dry_track_dirs.index(dry_track)]
@@ -89,7 +90,7 @@ def construct_mixing_console(
     # unmatched:
     if load_unmatched_as_source:
         for unmatched in unmatched_dirs:
-            name = get_name(dataset, unmatched)
+            name = get_name(dataset, song, unmatched)
             in_id = G.add("in", name=name)  # , wav_dir=unmatched)
             start_id, end_id = G.add_serial_chain(
                 dry_insert_processors + ["mix"] + multi_insert_processors

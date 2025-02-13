@@ -4,6 +4,8 @@ base_dir: /workspace/grafx_prune
 id: null
 debug: false
 wandb: true
+inference: false
+pickle_path: null
 
 sr: 30000
 audio_len: 114000

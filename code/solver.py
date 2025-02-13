@@ -1,8 +1,11 @@
 import pickle
 import random
+from collections import defaultdict
 from os.path import join
+from pprint import pprint
 
 import matplotlib.pyplot as plt
+import networkx as nx
 import numpy as np
 import pyloudnorm as pyln
 import pytorch_lightning as pl
@@ -13,6 +16,7 @@ from data.load import load_metadata
 from grafx import processors
 from grafx.data import NodeConfigs, convert_to_tensor
 from grafx.draw import draw_grafx
+from grafx.draw.position import estimate_chain
 from grafx.render import prepare_render, render_grafx, reorder_for_fast_render
 from grafx.utils import count_nodes_per_type, create_empty_parameters
 from loss import MRSTFTLoss
@@ -146,10 +150,10 @@ class MusicMixingConsoleSolver(pl.LightningModule):
             ratio_T = mask_T.long().sum() / n_total_T
             self.current_ratio[node_type] = ratio_T.item()
 
-    def pre_load_eval_data(self):
+    def pre_load_eval_data(self, datamodule):
         # As we repeatedly call the same source tensor for the pruning evaluation,
         # we simply pre-load all of them on GPU for speed.
-        val_loader = self.trainer.datamodule.val_dataloader()
+        val_loader = datamodule.val_dataloader()
         batches = []
         for _, batch in enumerate(tqdm(val_loader, desc="pre-load eval data")):
             batch = self.transfer_batch_to_device(batch, "cuda", 0)
@@ -160,11 +164,11 @@ class MusicMixingConsoleSolver(pl.LightningModule):
         self.training = False
         if self.prune:
             if self.debug:
-                self.pre_load_eval_data()
+                self.pre_load_eval_data(self.trainer.datamodule)
                 self.prune_graph()
             else:
                 if self.current_epoch == self.prune_start_epoch:
-                    self.pre_load_eval_data()
+                    self.pre_load_eval_data(self.trainer.datamodule)
                 if self.current_epoch >= self.prune_start_epoch:
                     self.prune_graph()
 
@@ -206,8 +210,8 @@ class MusicMixingConsoleSolver(pl.LightningModule):
             fig.savefig(save_path, bbox_inches="tight", pad_inches=0.1)
             plt.close(fig)
 
-    def forward(self, batch, mask_weight):
-        mix_pred, intermediates_list, _ = render_grafx(
+    def forward(self, batch, mask_weight, return_buffer=False):
+        mix_pred, intermediates_list, signal_buffer = render_grafx(
             self.audio_processors,
             batch["source"].float(),
             self.graph_parameters,
@@ -215,10 +219,13 @@ class MusicMixingConsoleSolver(pl.LightningModule):
             common_parameters={"drywet_weight": mask_weight},
             parameters_grad=self.training,
         )
-        if self.debug:
-            print(batch["source"].shape)
-            print(mix_pred.shape)
-        return mix_pred, intermediates_list
+        # if self.debug:
+        #     print(batch["source"].shape)
+        #     print(mix_pred.shape)
+        if return_buffer:
+            return mix_pred, intermediates_list, signal_buffer
+        else:
+            return mix_pred, intermediates_list
 
     def get_weight(self, prune_mask=None):
         weight = torch.sigmoid(self.soft_mask)
@@ -501,3 +508,70 @@ class MusicMixingConsoleSolver(pl.LightningModule):
             init_num_total = sum(self.init_num_processors.values())
             weight_dict["ratio/mean"] = sum(nums) / init_num_total
         return weight_dict
+
+    @torch.no_grad()
+    def run_inference(self, pickle_path, datamodule):
+        def get_relevant_ids(data):
+            G = data["G"]
+            processed_source_ids = []
+            subgroup_mix_ids = []
+            estimate_chain(G)
+            for idx, node in G.nodes(data=True):
+                if node["node_type"] == "mix":
+                    subgroup_mix_ids.append(idx)
+                    processed_source_ids += sorted(
+                        list(G.predecessors(idx)), key=lambda x: G.nodes[x]["chain"]
+                    )
+            for idx, node in G.nodes(data=True):
+                if node["node_type"] == "out":
+                    processed_subgroup_mix_ids = sorted(
+                        list(G.predecessors(idx)),
+                        key=lambda x: [
+                            y for y in subgroup_mix_ids if nx.has_path(G, y, x)
+                        ],
+                    )
+            return processed_source_ids, subgroup_mix_ids, processed_subgroup_mix_ids
+
+        data = pickle.load(open(pickle_path, "rb"))
+        processed_source_ids, subgroup_mix_ids, processed_subgroup_mix_ids = (
+            get_relevant_ids(data)
+        )
+
+        G = data["G"]
+        G_tensor = data["G_tensor"]
+        render_data = prepare_render(G_tensor)
+        self.render_data = self.transfer_batch_to_device(render_data, "cuda", 0)
+        graph_parameters = data["parameters"]
+        self.graph_parameters = self.transfer_batch_to_device(
+            graph_parameters, "cuda", 0
+        )
+        weight = data["weight"].cuda()
+
+        outputs = defaultdict(list)
+        for _, batch in enumerate(tqdm(datamodule.test_dataloader())):
+            mix = batch["mix"]
+            batch = self.transfer_batch_to_device(batch, "cuda", 0)
+            mix_pred, _, buffer = self.forward(batch, weight, return_buffer=True)
+            mix, mix_pred, buffer = map(lambda x: x.cpu(), [mix, mix_pred, buffer])
+            outputs["mix_pred"].append(mix_pred)
+            outputs["mix"].append(mix)
+            for id in processed_source_ids:
+                chain = G.nodes[id]["chain"]
+                output = buffer[id : id + 1]
+                key = f"processed_source_{chain}(node_id={id})"
+                outputs[key].append(output)
+            for j, id in enumerate(subgroup_mix_ids):
+                subgroup = G.nodes[id]["name"]
+                output = buffer[id : id + 1]
+                key = f"subgroup_mix_{j}(node_id={id})"
+                outputs[key].append(output)
+            for j, id in enumerate(processed_subgroup_mix_ids):
+                output = buffer[id : id + 1]
+                key = f"processed_subgroup_mix_{j}(node_id={id})"
+                outputs[key].append(output)
+
+        for k, v in outputs.items():
+            print(k)
+            v = overlap_add(v, sr=30000, eval_warmup_sec=1, crossfade_ms=2)
+            v = v[0].T.numpy()
+            sf.write(join(self.save_dir, f"{k}_inference.wav"), v, self.sr)
